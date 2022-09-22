@@ -39,7 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk*, Huang, D.,*
 
 [**Nature Communication**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
+- We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
+- We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 </div>
 </div>
 
@@ -58,11 +60,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(5)**  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(5)**  [Quantitative Determination of Ethylene Using a Smartphone-Based Optical Fiber Sensor (SOFS) Coupled with Pyrene-Tagged Grubbs Catalyst.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang, X.**, Leong, J.L.K., Sun, M., Jing, L., Zhang, Y., Wang, T., Wang, S. and Huang, D.,
 
-**NeurIPS 2019** \| [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+**NeurIPS 2019** \| [**Biosensors**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
   
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -72,11 +74,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(4)**  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(4)**  [Structure and Anti-Inflammatory Activity Relationship of Ergostanes and Lanostanes in Antrodia cinnamomea](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang, X.**, Wang, X., Lin, J., Lim, S., Cao, Y., Chen, S., Xu, P., Xu, C., Zheng, H., Fu, K.C. and Kuo, C.L., 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Foods**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -84,11 +86,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(3)**  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(3)**  [A smartphone-based portable analytical system for on-site quantification of hypochlorite and its scavenging capacity of antioxidants](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang, X.**, Sun, M., Wang, T., Wong, M. W., & Huang, D.* 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Sensors and Actuators B: Chemical**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -96,11 +98,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(2)**  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(2)**  [Dietary flavonoids scavenge hypochlorous acid via chlorination on A-and C-rings as primary reaction sites: Structure and reactivity relationship](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang, X.**, Wang, T., Guo, J., Sun, M., Wong, M. W., & Huang, D.* 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Journal of agricultural and food chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -108,33 +110,33 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(1)**  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(1)**  [A portable system for on-site quantification of formaldehyde in air based on G-quadruplex halves coupled with a smartphone reader](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang, X.**, Wang, Y., Liu, W., Zhang, Y., Zheng, F., Wang, S., ... & Wang, J.*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Biosensors and Bioelectronics**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 ## 🎙 Co-author
-- (9) Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
+- **(9)** Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
 
-- (8) Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
+- **(8)** Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
 
-- (7) Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
+- **(7)** Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
 
-- (6) Zhang, Y., **Yang, X.**, Tang, H., Liang, D., Wu, J., & Huang, D. (2020). Pyrenediones as versatile photocatalysts for oxygenation reactions with in situ generation of hydrogen peroxide under visible light. Green Chemistry. 22, 22-27
+- **(6)** Zhang, Y., **Yang, X.**, Tang, H., Liang, D., Wu, J., & Huang, D. (2020). Pyrenediones as versatile photocatalysts for oxygenation reactions with in situ generation of hydrogen peroxide under visible light. Green Chemistry. 22, 22-27
 
-- (5) Žuvela, P., David, J., **Yang, X.**, Huang, D., & Wong, M. W. (2019). Non-Linear Quantitative Structure–Activity Relationships Modelling, Mechanistic Study and In-Silico Design of Flavonoids as Potent Antioxidants. International journal of molecular sciences, 20(9), 2328.
+- **(5)** Žuvela, P., David, J., **Yang, X.**, Huang, D., & Wong, M. W. (2019). Non-Linear Quantitative Structure–Activity Relationships Modelling, Mechanistic Study and In-Silico Design of Flavonoids as Potent Antioxidants. International journal of molecular sciences, 20(9), 2328.
 
-- (4) Lin, Y., **Yang, X.**, Lu, Y., Liang, D., & Huang, D. (2019). Isothiocyanates as H2S donors triggered by cysteine: Reaction mechanism and structure and activity relationship. Organic letters, 21(15), 5977-5980.
+- **(4)** Lin, Y., **Yang, X.**, Lu, Y., Liang, D., & Huang, D. (2019). Isothiocyanates as H2S donors triggered by cysteine: Reaction mechanism and structure and activity relationship. Organic letters, 21(15), 5977-5980.
 
-- (3) Sun, M., **Yang, X.**, Zhang, Y., Wang, S., Wong, M. W., Ni, R., & Huang, D. (2018). Rapid and visual detection and quantitation of ethylene released from ripening fruits: the new use of Grubbs catalyst. Journal of agricultural and food chemistry, 67(1), 507-513.
+- **(3)** Sun, M., **Yang, X.**, Zhang, Y., Wang, S., Wong, M. W., Ni, R., & Huang, D. (2018). Rapid and visual detection and quantitation of ethylene released from ripening fruits: the new use of Grubbs catalyst. Journal of agricultural and food chemistry, 67(1), 507-513.
 
-- (2) Sun, M., Krishnakumar, S., Zhang, Y., Liang, D., **Yang, X.**, Wong, M. W., ... & Huang, D. (2018). Singlet oxygen probes made simple: Anthracenylmethyl substituted fluorophores as reaction-based probes for detection and imaging of cellular 1O2. Sensors and Actuators B: Chemical, 271, 346-352.
+- **(2)** Sun, M., Krishnakumar, S., Zhang, Y., Liang, D., **Yang, X.**, Wong, M. W., ... & Huang, D. (2018). Singlet oxygen probes made simple: Anthracenylmethyl substituted fluorophores as reaction-based probes for detection and imaging of cellular 1O2. Sensors and Actuators B: Chemical, 271, 346-352.
 
-- (1) Liang, D., Zhang, Y., Wu, Z., Chen, Y. J., **Yang, X.**, Sun, M., & Huang, D. (2018). A near infrared singlet oxygen probe and its applications in in vivo imaging and measurement of singlet oxygen quenching activity of flavonoids. Sensors and Actuators B: Chemical, 266, 645-654.
+- **(1)** Liang, D., Zhang, Y., Wu, Z., Chen, Y. J., **Yang, X.**, Sun, M., & Huang, D. (2018). A near infrared singlet oxygen probe and its applications in in vivo imaging and measurement of singlet oxygen quenching activity of flavonoids. Sensors and Actuators B: Chemical, 266, 645-654.
 
 
 # 🎖 Honors and Awards
