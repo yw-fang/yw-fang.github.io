@@ -28,6 +28,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+## 🎙 First Author/Corresponding Author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(7)[Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk*, Huang, D.,*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(6)[Three-Dimensional Quantitative Structure and Activity Relationship of Flavones on Their Hypochlorite Scavenging Capacity](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.,* 
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- The DFT calculated mechanism revealed the catalytic role of water of mono- and di-chlorination reactions, characterized by low activation barriers, and the involvement of neutral, instead of high-energy carbocation, intermediates. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,8 +66,65 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+## 🎙 Co-author
+(9) Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
+(8) Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
+(7) Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
+(6) Zhang, Y., **Yang, X.**, Tang, H., Liang, D., Wu, J., & Huang, D. (2020). Pyrenediones as versatile photocatalysts for oxygenation reactions with in situ generation of hydrogen peroxide under visible light. Green Chemistry. 22, 22-27
+(5) Žuvela, P., David, J., **Yang, X.**, Huang, D., & Wong, M. W. (2019). Non-Linear Quantitative Structure–Activity Relationships Modelling, Mechanistic Study and In-Silico Design of Flavonoids as Potent Antioxidants. International journal of molecular sciences, 20(9), 2328.
+(4) Lin, Y., **Yang, X.**, Lu, Y., Liang, D., & Huang, D. (2019). Isothiocyanates as H2S donors triggered by cysteine: Reaction mechanism and structure and activity relationship. Organic letters, 21(15), 5977-5980.
+(3) Sun, M., **Yang, X.**, Zhang, Y., Wang, S., Wong, M. W., Ni, R., & Huang, D. (2018). Rapid and visual detection and quantitation of ethylene released from ripening fruits: the new use of Grubbs catalyst. Journal of agricultural and food chemistry, 67(1), 507-513.
+(2) Sun, M., Krishnakumar, S., Zhang, Y., Liang, D., **Yang, X.**, Wong, M. W., ... & Huang, D. (2018). Singlet oxygen probes made simple: Anthracenylmethyl substituted fluorophores as reaction-based probes for detection and imaging of cellular 1O2. Sensors and Actuators B: Chemical, 271, 346-352.
+(1) Liang, D., Zhang, Y., Wu, Z., Chen, Y. J., **Yang, X.**, Sun, M., & Huang, D. (2018). A near infrared singlet oxygen probe and its applications in in vivo imaging and measurement of singlet oxygen quenching activity of flavonoids. Sensors and Actuators B: Chemical, 266, 645-654.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
