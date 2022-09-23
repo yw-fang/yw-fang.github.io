@@ -187,5 +187,5 @@ I like basketball and guitar. I formed a band, Handsome Star (帅比乐队), wit
 # 💻 Journal Editorial Board Membership
 - *2022.04 - 2023.09*, [MDPI muti-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
 
-# 📖 Educations
+# 📖 CV
 - *Download my CV [Here](images/cv.pdf).
