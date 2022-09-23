@@ -23,15 +23,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Nature Communication*. Special thanks to Dr. Huang’s supervise, and Dr. Houk and Dr. Liu’s cooperation in mechanism calculation, and Dr. Wu Jie for his valuable comments on synthesis.
+- *2022.06*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Journal of Agricultural and Food Chemistry*.
+- *2022.05*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Foods*.
+- *2022.03*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Biosensors*.
+- *2021.07*: &nbsp;🎉🎉 I got my Ph.D. degree!
+- *2021.03*: &nbsp;🎉🎉 I passed my thesis defence!
+- *2019.07*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Sensors and Actuators B: Chemical*. Special thanks to Dr. Sun for his guidance in synthesis of molecule probe.
+- *2019.01*: &nbsp;🎉🎉Our paper was accepted by *Journal of agricultural and food chemistry*
+- *2016.06*: &nbsp;🎉🎉 My first paper was accepted by *Biosensors and Bioelectronics*.
+
 
 # 📝 Publications 
 
 
 ## 🎙 First Author/Corresponding Author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAFC 2022</div><img src='images/06.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/06.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(6)**  [Three-Dimensional Quantitative Structure and Activity Relationship of Flavones on Their Hypochlorite Scavenging Capacity](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.2c03860)
@@ -57,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(5)**  [Quantitative Determination of Ethylene Using a Smartphone-Based Optical Fiber Sensor (SOFS) Coupled with Pyrene-Tagged Grubbs Catalyst.](https://www.mdpi.com/2079-6374/12/5/316/htm)
@@ -71,7 +79,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/04.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/04.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(4)**  [Structure and Anti-Inflammatory Activity Relationship of Ergostanes and Lanostanes in Antrodia cinnamomea](https://www.mdpi.com/2304-8158/11/13/1831/htm)
@@ -84,7 +92,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/03.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/03.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(3)**  [A smartphone-based portable analytical system for on-site quantification of hypochlorite and its scavenging capacity of antioxidants](https://www.sciencedirect.com/science/article/abs/pii/S0925400518320872)
@@ -99,7 +107,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(2)**  [Dietary flavonoids scavenge hypochlorous acid via chlorination on A-and C-rings as primary reaction sites: Structure and reactivity relationship](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.8b06689)
@@ -112,7 +120,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/01.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2016</div><img src='images/01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(1)**  [A portable system for on-site quantification of formaldehyde in air based on G-quadruplex halves coupled with a smartphone reader](https://www.sciencedirect.com/science/article/abs/pii/S0956566315303468)
@@ -152,8 +160,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2021.03*, Ph.D., Department of Food Science and Technology, National University of Singapore, Singapore
+- *2011.09 - 2015.06*, B.S., Food Science and Engineering, Northwest A&F University (211 & 985), Shaanxi, China
+- *2008.09 - 2011.06*, Fuzhou No.1 High School, Fuzhou, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
