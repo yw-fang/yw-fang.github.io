@@ -156,17 +156,24 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.08* Fully Funded scholarship research scholarship for Ph.D programme, ministry of education, Singapore. 
+- *2015.06* Outstanding graduates, Northwest A&F University; Outstanding dissertation Northwest A&F University 
+- *2014.6* Advanced Individual in social practice, Northwest A&F University 
+- *2013.8* Third-Grade Award in students innovative research contest competition sponsored by DuPont Nutrition & Health 
+- *2013.8* Best R & D Report in students innovative research contest competition sponsored by Master Kang Tingyi International Group Holding Corp 
+- *2012.6* Outstanding League Cadres, Northwest A&F University (recognition of excellent moral character and diligent work). 
+- *2011.12* First-class Scholarship (recognized as the top student for academic achievement in our university). 
+- *2011.12* President Scholarship, Merit Student.
+
 
 # 📖 Educations
 - *2016.09 - 2021.03*, Ph.D., Department of Food Science and Technology, National University of Singapore, Singapore
 - *2011.09 - 2015.06*, B.S., Food Science and Engineering, Northwest A&F University (211 & 985), Shaanxi, China
 - *2008.09 - 2011.06*, Fuzhou No.1 High School, Fuzhou, China. 
 
-# 💬 Invited Talks
+# 💬 Research Interest
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Journal Editorial Board Membership
+- *2022.04 - 2023.09*, [MDPI muti-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
