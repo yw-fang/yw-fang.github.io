@@ -23,7 +23,7 @@ I graduated from Northwest A&F University with a bachelor’s degree in 2015, an
 
 My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals), and this topic is now open for submission.
+I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
 I like basketball and guitar. I formed a band, Handsome Star (帅比乐队), with my friends as lead guitarist when I was undergraduate student. And we even have an invited performances in our graduation ceremony.
 
@@ -184,5 +184,5 @@ I like basketball and guitar. I formed a band, Handsome Star (帅比乐队), wit
 - **(4）Chemical principles** behind the bioactive compounds in **food systems**.
 
 
-# 💻 Internships
+# 💻 Journal Editorial Board Membership
 - *2022.04 - 2023.09*, [MDPI muti-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
