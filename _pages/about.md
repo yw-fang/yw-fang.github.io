@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a research fellow in Department of Food Science and Technology, National University of Singapore. My current research task is isolation and characterization of natural products from *Antrodia camphorata*, and verification of their bioactivities, including anti-inflammatory, anti-aging, and anti-viral activities.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fan**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/), [**Dr. Yang Hongshun**](https://www.fst.nus.edu.sg/our_people/faculty-members/yang-hongshun/) were my thesis advisory committee members and gave me a lot of valuable comments on my research.
+
+My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -173,9 +175,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Research Interest
 - **(1) Synthesis of bioactive compounds** with high values using photo-catalysts, enzymes and radical reactions.
-- ** (2) Nature products** isolation, characterization and their bioactivities, including antioxidant, anti-aging, anti-virus and enzymes inhibition activities.
-- ** (3) Synthesis of luminescent molecular and nanoprobes** for sensing of reactive oxygen species of biological and environmental concerns.
-- **（4）Chemical principles** behind the bioactive compounds in food systems.
+- **(2) Nature products** isolation, characterization and their bioactivities, including antioxidant, anti-aging, anti-virus and enzymes inhibition activities.
+- **(3) Synthesis of luminescent molecular and nanoprobes** for sensing of reactive oxygen species of biological and environmental concerns.
+- **(4）Chemical principles** behind the bioactive compounds in **food systems**.
 
 
 # 💻 Internships
