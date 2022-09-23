@@ -172,8 +172,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2008.09 - 2011.06*, Fuzhou No.1 High School, Fuzhou, China. 
 
 # 💬 Research Interest
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **(1) Synthesis of bioactive compounds** with high values using photo-catalysts, enzymes and radical reactions.
+- ** (2) Nature products** isolation, characterization and their bioactivities, including antioxidant, anti-aging, anti-virus and enzymes inhibition activities.
+- ** (3) Synthesis of luminescent molecular and nanoprobes** for sensing of reactive oxygen species of biological and environmental concerns.
+- **（4）Chemical principles** behind the bioactive compounds in food systems.
 
-# 💻 Journal Editorial Board Membership
+
+# 💻 Internships
 - *2022.04 - 2023.09*, [MDPI muti-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
