@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk*, Huang, D.,*
+**Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
 [**Nature Communication**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **(6)**  [Three-Dimensional Quantitative Structure and Activity Relationship of Flavones on Their Hypochlorite Scavenging Capacity](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.2c03860)
 
-**Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.,* 
+**Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.* 
 
 [**Journal of Agricultural and Food Chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - The DFT calculated mechanism revealed the catalytic role of water of mono- and di-chlorination reactions, characterized by low activation barriers, and the involvement of neutral, instead of high-energy carbocation, intermediates. 
@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **(5)**  [Quantitative Determination of Ethylene Using a Smartphone-Based Optical Fiber Sensor (SOFS) Coupled with Pyrene-Tagged Grubbs Catalyst.](https://www.mdpi.com/2079-6374/12/5/316/htm)
 
-**Yang, X.**, Leong, J.L.K., Sun, M., Jing, L., Zhang, Y., Wang, T., Wang, S. and Huang, D.,
+**Yang, X.**, Leong, J.L.K., Sun, M., Jing, L., Zhang, Y., Wang, T., Wang, S. and Huang, D.*
 
   
 [**Biosensors**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Y0pCki6q_DkC'></span></strong>
@@ -76,7 +76,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **(4)**  [Structure and Anti-Inflammatory Activity Relationship of Ergostanes and Lanostanes in Antrodia cinnamomea](https://www.mdpi.com/2304-8158/11/13/1831/htm)
 
-**Yang, X.**, Wang, X., Lin, J., Lim, S., Cao, Y., Chen, S., Xu, P., Xu, C., Zheng, H., Fu, K.C. and Kuo, C.L., 
+**Yang, X.**, Wang, X., Lin, J., Lim, S., Cao, Y., Chen, S., Xu, P., Xu, C., Zheng, H., Fu, K.C. and Kuo, C.L. and Huang, D.*
 
 [**Foods**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:YsMSGLbcyi4C'></span></strong>
 - The absolute configurations of (25R)-antcin K,(25R)-antcin A, versisponic acid D, and (25R)-antcin C were determined by single crystal X-ray diffraction (XRD). 
@@ -99,7 +99,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/02.jepg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(2)**  [Dietary flavonoids scavenge hypochlorous acid via chlorination on A-and C-rings as primary reaction sites: Structure and reactivity relationship](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.8b06689)
@@ -117,7 +117,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **(1)**  [A portable system for on-site quantification of formaldehyde in air based on G-quadruplex halves coupled with a smartphone reader](https://www.sciencedirect.com/science/article/abs/pii/S0956566315303468)
 
-**Yang, X.**, Wang, Y., Liu, W., Zhang, Y., Zheng, F., Wang, S., Zhang, D. and Wang, J.*, 
+**Yang, X.**, Wang, Y., Liu, W., Zhang, Y., Zheng, F., Wang, S., Zhang, D. and Wang, J.*
 
 [**Biosensors and Bioelectronics**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
 - A formaldehyde sensor based on G-quadruplex-hemin DNAzyme was developed.
