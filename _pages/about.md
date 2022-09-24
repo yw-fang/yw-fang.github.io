@@ -52,8 +52,7 @@ I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as 
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
-[**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
-<strong> | Citation: 0</strong>
+[**Nature Communication**](files/NC.pdf) <strong> | Citation: 0</strong>
 
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
