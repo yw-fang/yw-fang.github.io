@@ -25,7 +25,7 @@ My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Na
 
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
-I like basketball and guitar. I formed a band, Handsome Star (帅比乐队), with my friends as lead guitarist when I was undergraduate student. And we even have an invited performances in our graduation ceremony.
+I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), with my friends as lead guitarist when I was undergraduate student. And we even have an invited performances in our graduation ceremony.
 
 
 # 🔥 News
@@ -162,11 +162,11 @@ I like basketball and guitar. I formed a band, Handsome Star (帅比乐队), wit
 
 
 # 🎖 Honors and Awards
-- *2016.08* Fully Funded scholarship research scholarship for Ph.D programme, ministry of education, Singapore. 
-- *2015.06* Outstanding graduates, Northwest A&F University; Outstanding dissertation Northwest A&F University 
+- *2016.08* Fully Funded research scholarship for Ph.D programme, ministry of education, Singapore. 
+- *2015.06* Outstanding graduates, Northwest A&F University; Outstanding dissertation Northwest A&F University
 - *2014.6* Advanced Individual in social practice, Northwest A&F University 
-- *2013.8* Third-Grade Award in students innovative research contest competition sponsored by DuPont Nutrition & Health 
-- *2013.8* Best R & D Report in students innovative research contest competition sponsored by Master Kang Tingyi International Group Holding Corp 
+- *2013.8* Third-Grade Award in students innovative research contest competition sponsored by DuPont Nutrition & Health
+- *2013.8* Best R & D Report in students innovative research contest competition sponsored by Master Kang Tingyi International Group Holding Corp
 - *2012.6* Outstanding League Cadres, Northwest A&F University (recognition of excellent moral character and diligent work). 
 - *2011.12* First-class Scholarship (recognized as the top student for academic achievement in our university). 
 - *2011.12* President Scholarship, Merit Student.
