@@ -188,4 +188,4 @@ I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as 
 - *2022.04 - 2023.09*, [MDPI multi-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
 
 # 📖 CV
-- *Download my CV [English](images/cv1.pdf) or [中文](images/cv2.pdf).
+- *Download my CV [English](files/CV1.pdf) or [中文](files/CV2.pdf).
