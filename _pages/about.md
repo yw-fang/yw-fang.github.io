@@ -21,7 +21,7 @@ I am currently a research fellow in Department of Food Science and Technology, N
 
 I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/), [**Dr. Yang Hongshun**](https://www.fst.nus.edu.sg/our_people/faculty-members/yang-hongshun/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
 
-My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including <strong>*Nature Communication*</strong>, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a>(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including <strong>*Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* </strong>et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a>(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
@@ -52,7 +52,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
-[**Nature Communication**](files/NC.pdf) <strong> | Citation: 0</strong>
+[<strong>*Nature Communication*</strong>](files/NC.pdf) <strong> | Citation: 0</strong>
 
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
@@ -66,7 +66,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.* 
 
-[**Journal of Agricultural and Food Chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*Journal of Agricultural and Food Chemistry*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 - The DFT calculated mechanism revealed the catalytic role of water of mono- and di-chlorination reactions, characterized by low activation barriers, and the involvement of neutral, instead of high-energy carbocation, intermediates. 
 - Three-dimensional quantitative structure and activity relationship (3D-QSAR) combined with comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were reported. 
 </div>
@@ -80,7 +80,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 **Yang, X.**, Leong, J.L.K., Sun, M., Jing, L., Zhang, Y., Wang, T., Wang, S. and Huang, D.*
 
   
-[**Biosensors**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Y0pCki6q_DkC'></span></strong>
+[<strong>*Biosensors*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Y0pCki6q_DkC'></span></strong>
 - A smartphone-based optical fiber sensor (SOFS), composed of a 15 mW 365 nm laser for fluorescence signal excitation and a bifurcated fiber system for signal flow direction from probe to smartphone, was designed in this paper. 
 - The SOFS provides a rapid, compact, cost-effective solution for determination of the fruit ethylene concentration dynamic during ripening for better fruit harvest timing and postharvest management to minimize wastage.
 </div>
@@ -93,7 +93,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Wang, X., Lin, J., Lim, S., Cao, Y., Chen, S., Xu, P., Xu, C., Zheng, H., Fu, K.C. and Kuo, C.L. and Huang, D.*
 
-[**Foods**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:YsMSGLbcyi4C'></span></strong>
+[<strong>*Foods*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:YsMSGLbcyi4C'></span></strong>
 - The absolute configurations of (25R)-antcin K,(25R)-antcin A, versisponic acid D, and (25R)-antcin C were determined by single crystal X-ray diffraction (XRD). 
 - Antcin A was shown to suppress pro-inflammatory biomolecule release via the down-regulation of iNOS and COX-2 expression through the NF-κB pathway while the mRNA levels of IL-1β, TNF-α and IL-6 were also decreased. 
 </div>
@@ -106,7 +106,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Sun, M., Wang, T., Wong, M. W., & Huang, D.* 
 
-[**Sensors and Actuators B: Chemical**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:9yKSN-GCB0IC'></span></strong>
+[<strong>*Sensors and Actuators B: Chemical*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:9yKSN-GCB0IC'></span></strong>
 - A novel molecular probe (DMMA-IR780) which could show cross-channel color response was developed.
 - A High-throughput Smartphone-based Colorimetric Reader (HSCR) was designed and applied for signal recording.
 - An Android-based application was developed to realize convenient connection between HSCR and camera located in smartphone.
@@ -121,7 +121,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Wang, T., Guo, J., Sun, M., Wong, M. W., & Huang, D.* 
 
-[**Journal of agricultural and food chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
+[<strong>*Journal of agricultural and food chemistry*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 - The reaction products of five flavonoids (apigenin, quercetin, naringenin, ampelopsin, and epicatechin) with hypochlorous acid and found that primary chlorination reaction occurred on the A-ring (C6 or C8) and/or C-rings but not on B-rings were characterized. 
 - The hydroxyl groups in the A-ring and B-ring can enhance the scavenging capacity, whereas the C(2)C(3) double bond has a negative impact on the HClO scavenging capacity. 
 </div>
@@ -134,7 +134,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 
 **Yang, X.**, Wang, Y., Liu, W., Zhang, Y., Zheng, F., Wang, S., Zhang, D. and Wang, J.*
 
-[**Biosensors and Bioelectronics**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
+[<strong>*Biosensors and Bioelectronics*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
 - A formaldehyde sensor based on G-quadruplex-hemin DNAzyme was developed.
 - A smartphone-based colorimetric reader was designed and used to read signals.
 - This method integrates a portable formaldehyde sampling device.
