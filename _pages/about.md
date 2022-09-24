@@ -21,16 +21,7 @@ I am currently a research fellow in Department of Food Science and Technology, N
 
 I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/), [**Dr. Yang Hongshun**](https://www.fst.nus.edu.sg/our_people/faculty-members/yang-hongshun/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
 
-My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>204</span></strong></a>
-
-(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-
-<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>204</span></strong></a> 
-
-
-<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a>(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
@@ -61,14 +52,8 @@ I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as 
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
-[**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 [**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:2osOgNQ5qMEC'></span></strong>
-
-[**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-[**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-<strong>citation: 100</strong>
+<strong> | Citation: 0</strong>
 
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
