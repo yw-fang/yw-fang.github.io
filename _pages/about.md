@@ -29,6 +29,10 @@ My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Na
 
 <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>204</span></strong></a>
 
+<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>204</span></strong></a> 
+
+<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>204</span></strong></a>
+
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
 I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as lead guitarist when I was undergraduate student. And we even have an invited performances in our graduation ceremony.
