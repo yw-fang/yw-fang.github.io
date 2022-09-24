@@ -21,7 +21,11 @@ I am currently a research fellow in Department of Food Science and Technology, N
 
 I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/), [**Dr. Yang Hongshun**](https://www.fst.nus.edu.sg/our_people/faculty-members/yang-hongshun/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
 
-My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>204</span></strong></a> (<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total 
+
+<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'>google scholar citations <strong><span id='total_cit'>204</span></strong></a> 
+
+(<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>204</span></strong></a>
 
@@ -50,11 +54,11 @@ I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](files/NC.pdf)
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
-[**Nature Communication**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Nature Communication**](files/NC.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
 </div>
@@ -67,7 +71,7 @@ I like basketball and guitar. I formed a band, Handsome Boys (帅比乐队), as 
 
 **Yang, X.**, Wang, T., Žuvela, P., Sun, M., Xu, C., Zheng, H., Wang, X., Jing, L., Du, K., Wang, S. and Wong, M.W., Huang, D.* 
 
-[**Journal of Agricultural and Food Chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+[**Journal of Agricultural and Food Chemistry**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 - The DFT calculated mechanism revealed the catalytic role of water of mono- and di-chlorination reactions, characterized by low activation barriers, and the involvement of neutral, instead of high-energy carbocation, intermediates. 
 - Three-dimensional quantitative structure and activity relationship (3D-QSAR) combined with comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were reported. 
 </div>
