@@ -23,7 +23,7 @@ I graduated from Northwest A&F University with a bachelor’s degree in 2015, an
 
 My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Nature products**, **(3) luminescent molecular and nanoprobes** and **（4）Chemical principles of antioxidants**. I have published papers at the top research journals including *Nature Communication*, *Biosensors and Bioelectronics*, *Sensors and Actuators B: Chemical*, *Green Chemistry*, *Organic letters*, *Journal of Agricultural and Food Chemistry* et al., with total <a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>26+</span></strong></a> (<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>
+<a href='https://scholar.google.com/citations?user=1fXM4wUAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>
 
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
