@@ -142,11 +142,13 @@ I like basketball and guitar. I formed a band, *Handsome Boys (帅比乐队)*, a
 </div>
 
 ## 🎙 Co-author
-- **(9)** Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
+- **(10)** Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
 
-- **(8)** Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
+- **(9)** Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
 
-- **(7)** Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
+- **(8)** Sun, M., Wang, T., **Yang, X.**, Yu, H., Wang, S., & Huang, D. (2021). Facile mitochondria localized fluorescent probe for viscosity detection in living cells. Talanta, 225, 121996.
+
+- **(7)** Zhang, Y., **Yang, X.**, Wu, J., & Huang, D. (2020). Aerobic C–H Functionalization Using Pyrenedione as the Photocatalyst. Synthesis, 52(17), 2512-2520.
 
 - **(6)** Zhang, Y., **Yang, X.**, Tang, H., Liang, D., Wu, J., & Huang, D. (2020). Pyrenediones as versatile photocatalysts for oxygenation reactions with in situ generation of hydrogen peroxide under visible light. Green Chemistry. 22, 22-27
 
