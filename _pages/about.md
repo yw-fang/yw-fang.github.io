@@ -47,7 +47,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/07.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](files/NC.pdf)
+**(7)**  [Oxygen Mediated Oxidative Couplings of Flavones in Alkaline Water](https://www.nature.com/articles/s41467-022-34123-w#peer-review)
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
