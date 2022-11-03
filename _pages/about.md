@@ -53,6 +53,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 
 [<strong>*Nature Communication*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:roLk4NBRz8UC) 
 
+- This work was featured in a **Nature Communications Editors’ Highlights**.
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
 </div>
