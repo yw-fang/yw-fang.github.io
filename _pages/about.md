@@ -142,6 +142,8 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 </div>
 
 ## 🎙 Co-author
+- **(11)** Su, L., Jing, L., Zeng, X., Chen, T., Liu, H., Kong, Y., Wang, X., **Yang, X.**, Fu, C., Sun, J. and Huang, D., 2022. 3D‐Printed Prolamin Scaffolds for Cell‐based Meat Culture. Advanced Materials (2022): 2207397..
+
 - **(10)** Wang, X., Cao, Y., Chen, S., Lin, J., **Yang, X.** and Huang, D., (2022). Structure–Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor. Journal of Agricultural and Food Chemistry.
 
 - **(9)** Wang, X., Cao, Y., Jing, L., Chen, S., Leng, B., **Yang, X.**, ... & Huang, D. (2021). Three-Dimensional RAW264. 7 Cell Model on Electrohydrodynamic Printed Poly (ε-Caprolactone) Scaffolds for In Vitro Study of Anti-Inflammatory Compounds. ACS Applied Bio Materials, 4(11), 7967-7978.
