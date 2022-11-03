@@ -51,7 +51,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 
 **Yang, X.**, Lim, S., Lin J., Wu J., Tang H., Zhao F., Liu, F., Sun, C., Shi X., Kuang, Y., Toy, J., Du, K., Zhang, Y., Wang, X., Sun, M., Song, Z., Wang, T., Wu, J., K. N. Houk, Huang, D.,*
 
-[<strong>*Nature Communication*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:roLk4NBRz8UC) 
+[<strong>*Nature Communication*</strong>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fXM4wUAAAAJ&sortby=pubdate&citation_for_view=1fXM4wUAAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='1fXM4wUAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - This work was featured in a **Nature Communications Editors’ Highlights**.
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
