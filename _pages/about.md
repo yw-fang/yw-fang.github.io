@@ -55,7 +55,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 
 - This work was featured in **[Nature Communications Editors’ Highlights](https://www.nature.com/collections/wdzvyhgxft)**.
 - This work was highlighted by [Xmol](https://www.x-mol.com/news/829017), and [科学材料站](https://mp.weixin.qq.com/s/da4ThJLTc87IsFgTmDp-_g).
-- This work was reported by [Faculty of Science](), National University of Singapore.
+- This work was reported by [Faculty of Science](https://www.science.nus.edu.sg/blog/2022/11/21/catalyst-free-oxidative-coupling-of-flavones-in-food-grade-alkaline-water/), National University of Singapore.
 - We accomplished a one-step and food-grade synthesis of flavonoid oligomers which have great potential in combating diabetes. 
 - Our reaction opens up a green and sustainable way to synthesize flavonoid dimers and oligomer using the readily available monomeric flavonoids isolated from biomass and exploiting their use for health promotion and treatment of diseases.
 </div>
