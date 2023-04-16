@@ -33,10 +33,10 @@ def remove_spaces(in_string):
 #    print(authors_string)
 #print(authors_string)
 authors_string = remove_spaces(authors_string)
-to_ascii(authors_string)
+authors_string = to_ascii(authors_string)
 #print(authors_string)
 authors = authors_string.split(' and ')
-# print(authors)
+print(authors)
 
 
 # Check if Yue-Wen Fang is in the author list
@@ -47,10 +47,11 @@ for i, author in enumerate(authors):
         last_name, first_name = author.split(', ')
         authors[i] = f'<b>{first_name} {last_name}</b>'
     else:
-        last_name, first_name = author.split(',')
-#        print(last_name, first_name)
+        last_name, first_name = author.split(', ')
+        # print(last_name, first_name)
         authors[i] = f'{first_name} {last_name}'
-#print(yuewen_fang)
+print(authors)
+print(yuewen_fang)
 #print(authors)
 
 # Get the remaining fields
@@ -79,7 +80,7 @@ html = '<tr>\n  <td style="vertical-align: top; padding-right: 20px;">\n    <p>4
 if volume_match:
     html += '{}'.format(remove_spaces(volume_match.group(1)))
     if issue_match:
-        html += '({}): '.format(remove(issue_match.group(1)))
+        html += '({}): '.format(remove_spaces(issue_match.group(1)))
     else:
         html += ': '
 else:
