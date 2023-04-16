@@ -16,7 +16,7 @@ Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two d
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
 I have published more than 40 papers 
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
-<a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_hindex_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
+<a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_hindex_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h-index"></a>
 
 
 <!-- <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. (citation data may be incorrect for the time being) -->
