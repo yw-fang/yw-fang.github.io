@@ -60,6 +60,24 @@ print(yuewen_fang)
 
 # Get the remaining fields
 title_match = re.search(r'title = {(.+)}', content)
+
+if title_match:
+    # Extract the title text from the match object
+    title_text = title_match.group(1)
+    print(title_text)
+else:
+    # Fall back to a more general regular expression
+    title_match = re.search(r'title\s*=\s*{([^}]+)}', content)
+    if title_match:
+        # Extract the title text from the match object
+        title_text = title_match.group(1)
+        print(title_text)
+    else:
+        print("Title not found in the BibTeX record.")
+
+input(":")
+print('**(*******')
+print(title_match.group(1))
 journal_match = re.search(r'journal = {(.+)}', content)
 journal_match_string = journal_match.group(1)
 # print('journal_match is', journal_match.group(1), 'type is', type(journal_match.group(1)), 'length is', len(journal_match_string))
