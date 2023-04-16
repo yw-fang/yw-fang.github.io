@@ -10,7 +10,7 @@ name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 
-# Extract citations and H-index
+# Extract citations and h_index
 citations = author['citedby']
 h_index = author['hindex']
 
@@ -36,10 +36,10 @@ shieldio_data = {
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
-# Create ShieldIO badge data for H-index
+# Create ShieldIO badge data for h_index
 shieldio_data_h = {
     "schemaVersion": 1,
-    "label": "H-index",
+    "label": "h_index",
     "message": str(h_index),
 }
 
