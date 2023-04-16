@@ -33,16 +33,20 @@ def remove_spaces(in_string):
 #    print(authors_string)
 #print(authors_string)
 authors_string = remove_spaces(authors_string)
-authors_string = to_ascii(authors_string)
-#print(authors_string)
+# print('authors_string:', authors_string)
+
+#authors_string = to_ascii(authors_string)
+# print('authors_string:', authors_string)
 authors = authors_string.split(' and ')
-print(authors)
+# print(authors)
+authors = [re.sub(r'[\u2012\u2013\u2014]', '-', author) for author in authors]
+# print("authors is", authors)
 
 
 # Check if Yue-Wen Fang is in the author list
 yuewen_fang = False
 for i, author in enumerate(authors):
-    if ('Yue'+'-'+'Wen') in author:
+    if re.search(r'Fang, Yue.*Wen', author): #fuzzy search of my name, because sometimes the - format is different of the source journals
         yuewen_fang = True
         last_name, first_name = author.split(', ')
         authors[i] = f'<b>{first_name} {last_name}</b>'
@@ -75,7 +79,7 @@ url_match = re.search(r'url = {(.+)}', content)
 
 # Generate the HTML
 # html = '<tr>\n  <td style="vertical-align: top; padding-right: 20px;">\n    <p>40. {}, <a href="{}"><b>{}</b></a>, {}, {}, '.format("; ".join(authors), url_match.group(1), title_match.group(1), journal_match.group(1), year_match.group(1))
-html = '<tr>\n  <td style="vertical-align: top; padding-right: 20px;">\n    <p>40. {}, <a href="{}"><b>{}</b></a>, {}, {}, '.format("; ".join(authors), url_match.group(1), title_match.group(1), journal_match_string, year_match_string)
+html = '<tr>\n  <td style="vertical-align: top; padding-right: 20px;">\n    <p>40. {}, <a href="{}">{}</a>, <b>{}</b>, {}, '.format("; ".join(authors), url_match.group(1), title_match.group(1), journal_match_string, year_match_string)
 
 if volume_match:
     html += '{}'.format(remove_spaces(volume_match.group(1)))
