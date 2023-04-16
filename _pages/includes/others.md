@@ -1,10 +1,10 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2012.09 - 2017.06*, PhD, East China Normal University, Shanghai, China
+- *2008.09 - 2012.06*, BSc, Xiangtan University, Hunan Province, China
+- *2005.09 - 2008.06*, Aiqing High School, Zhejiang Province, China
 
-# 💬 Invited Talks
+# 💬 Presentations 
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
