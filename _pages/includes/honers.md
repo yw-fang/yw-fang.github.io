@@ -1,9 +1,9 @@
 # 🎖 Honors and Awards
 - *2023.04.04* [**MSCA Seal of Excellence**](./certficates/SealOfExcellence-2023April4.pdf) by European Commission
-- *2022.04.26* [**2021 Outstanding Reviewer Awards*](./certficates/OutstandingReviewerAwards2021-IOP-Publishing.pdf) by Institute of Physics (IOP) Publishing
+- *2022.04.26* [**2021 Outstanding Reviewer Awards**](./certficates/OutstandingReviewerAwards2021-IOP-Publishing.pdf) by Institute of Physics (IOP) Publishing
 - *2022.02.16* **IOP Trusted Reviewer status** by Institute of Physics (IOP) Publishing
 - *2019.07.21* **Certificate of ACS Reviewer Lab** by American Chemical Society
-- *2017.06* **Awardee of International Open International Grant Competition** (Ministry of Education and Science of the Russian Federation
+- *2017.06* **Awardee of International Open International Grant Competition** by Ministry of Education and Science
 - *2017.03* **Studentship Program of Physics** of NYU-ECNU Institute of Physics at NYU Shanghai
 - *2016.12* **Early Career Scientist Award** by Key Laboratory of Polar Materials and Devices Ministry of Education, ECNU
 - *2015.12* **Global Mobility Fellowship** by East China Normal University (Top 1%)
