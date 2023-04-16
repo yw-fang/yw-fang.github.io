@@ -240,7 +240,7 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
  </tr> 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>28. Ye Yuan,; <b>Yue-Wen Fang</b>; Ni Zhong,; Ping-Hua Xiang,; Chun-Gang Duan,, "<a href="http://doi.org/10.1016/j.jmmm.2020.167547">Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain</a>",  <b>Journal of Magnetism and Magnetic Materials</b>,  2021,  522: 167547 .</p>
+    <p>28. Ye Yuan; <b>Yue-Wen Fang</b>; Ni Zhong; Ping-Hua Xiang; Chun-Gang Duan*, "<a href="http://doi.org/10.1016/j.jmmm.2020.167547">Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain</a>",  <b>Journal of Magnetism and Magnetic Materials</b>,  2021,  522: 167547 .</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1016/j.jmmm.2020.167547"><img src="./journal-cover/JMMM-cover.jpg" alt="cover" width="500"></a>
@@ -248,24 +248,26 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>40. Wei Niu; Yue‐Wen Fang; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang; Wenqing Liu; Yong Pu, <a href="http://doi.org/10.1002/aelm.202000803"><b> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </b></a>, Adv. Electron. Mater., 2021, 7(1): 2000803.</p>
+    <p>27. Wei Niu†; <b>Yue‐Wen Fang</b>†; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang*; Wenqing Liu*; Yong Pu*, <a href="http://doi.org/10.1002/aelm.202000803"> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </a>, <b>Adv. Electron. Mater.</b>, 2021, 7(1): 2000803. <b>Selected as Cover Picture</b></p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1002/aelm.202000803"><img src="./journal-cover/2021-AdvElectronMater-issue1volume7.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>26. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
+Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1103/PhysRevB.102.144418"><img src="./journal-cover/PRB2020-vol102iss14-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+
   
  </table> 
   
   
-  
-  
-  
-  
- 1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, 
-"[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. 7, 2000803 (2021) **Selected as Cover article**: **Advanced Electronic Materials** 7, 2170001 (2021). Cover can be found [here](https://onlinelibrary.wiley.com/toc/2199160x/2021/7/1) 
-  
- 1. Y.-Y. Jiao, **Y.-W. Fang**†, Jianping Sun, Pengfei Shan, Zhenhai Yu, Hai L. Feng, Bosen Wang, Hanming Ma, Yoshiya Uwatoko, Kazunari Yamaura, Yanfeng Guo, Hanghui Chen, and Jinguang Cheng, "[Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure](https://doi.org/10.1103/PhysRevB.102.144418)", **Phys. Rev. B** 102, 144418, (2020) 
   
  1. R.-Q. Wang, **Y.-W. Fang**, T.-M. Lei, "[Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations](https://doi.org/10.1016/j.physe.2020.114424)", **Physica E: Low-dimensional Systems and Nanostructures**, 126, 114424, (2021) 
   
