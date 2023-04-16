@@ -124,7 +124,7 @@ There're several papers under review. However, I'll only show the ones that have
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 19 of these publications including Science as corresponding or co-first author). 
+Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 19 of these publications including Science as corresponding or (co)first author). 
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -240,15 +240,20 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
  </tr> 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>28. Ye Yuan,; <b>Yue-Wen Fang</b>; Ni Zhong,; Ping-Hua Xiang,; Chun-Gang Duan,, <a href="http://doi.org/10.1016/j.jmmm.2020.167547"><i> Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain </i></a>,  Journal of Magnetism and Magnetic Materials ,  2021 ,  522 :  167547 .</p>
+    <p>28. Ye Yuan,; <b>Yue-Wen Fang</b>; Ni Zhong,; Ping-Hua Xiang,; Chun-Gang Duan,, "<a href="http://doi.org/10.1016/j.jmmm.2020.167547">Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain</a>",  <b>Journal of Magnetism and Magnetic Materials</b>,  2021,  522: 167547 .</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1016/j.jmmm.2020.167547"><img src="./journal-cover/JMMM-cover.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
-
-
-  
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>40. Wei Niu; Yue‐Wen Fang; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang; Wenqing Liu; Yong Pu, <a href="http://doi.org/10.1002/aelm.202000803"><b> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </b></a>, Adv. Electron. Mater., 2021, 7(1): 2000803.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1002/aelm.202000803"><img src="./journal-cover/2021-AdvElectronMater-issue1volume7.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
   
  </table> 
   
@@ -257,32 +262,8 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
   
   
   
- <!-- Xinrui Cheng, Guoqiang Xi, **Yue-Wen Fang**, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "[Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films](https://doi.org/10.1016/j.jeurceramsoc.2023.02.025)", **Journal of the European Ceramic Society**, 43, 8, 3275-3288 (2023)  -->
- <!--   -->
- <!-- Rui-Qi Wang, **Y. -W. Fang**\*, Tian-Min Lei\*, "[Ferroelectric control of magnetism of 3d transition metal-adsorbed graphene monolayers](https://doi.org/10.1016/j.jmmm.2022.170297)", **Journal of Magnetism and Magnetic Materials**, 565, 170297 (2023)  -->
- <!--   -->
- <!-- Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "[Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface](https://doi.org/10.1021/acs.jpclett.2c00384)", **J. Phys. Chem. Lett.**, 13, 13, 2976--2985 (2022).  -->
- <!--      -->
- <!-- Z. Pan, **Y.-W. Fang**, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "[Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics](https://doi.org/10.1021/acs.chemmater.2c00076)", **Chemistry of Materials**, 34, 6, 2798--2803 (2022).  -->
- <!--   -->
- <!-- L. Hu, Y. Zhu, **Y.-W. Fang**, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "[Origin and absence of giant negative thermal expansion in reduced and oxidized Ca2RuO4](https://doi.org/10.1021/acs.chemmater.1c01619)", **Chemistry of Materials**, 2021  -->
- <!--   -->
- <!-- L. Hu, Y. Luo, **Y.-W. Fang**, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, ["High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3](https://doi.org/10.1002/aenm.202100661)", **Advanced Energy Materials** 11, 2100661 (2021).  -->
- <!--   -->
- <!-- L. Hu, **Y.-W. Fang**, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "[High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity](https://doi.org/10.1038/s41467-021-25119-z)", **Nature Communications** 12, 4793 (2021).  -->
- <!--   -->
- <!-- H.-J. Liu, M. Ye, C.-Y. Yang, **Y.-W. Fang**†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "[Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure](https://doi.org/10.1016/j.apmt.2021.101101)", **Applied Materials Today** 24, 101101 (2021).  -->
- <!--   -->
- <!-- D. Zheng, **Y.-W. Fang**†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "[Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction](https://doi.org/10.1021/acsnano.0c10200)", **ACS Nano** (2021).  -->
-  
-  
-<!--   1. Y. Yuan, **Y.-W. Fang**, Y.-F. Zhao, and C.-G. Duan, "[Intrinsic asymmetric ferroelectricity induced giant electroresistance in ZnO/BaTiO3 superlattice](http://dx.doi.org/10.1039/D0RA09228B)", **RSC Advances** 11, 2353 (2021).   -->
-<!--    -->
-<!--   1. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, **Yue-Wen Fang**, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "[Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113)", **Physical Reivew B** 102, 241113(R), (2020)   -->
-  
- 1. Y. Yuan, **Y.-W. Fang**\*, P.-H. Xiang, C.-G. Duan, "Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain",  **Journal of Magnetism and Magnetic Materials**, 522, 167547, (2021) 
-  
- 1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, "[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. 7, 2000803 (2021) **Selected as Cover article**: **Advanced Electronic Materials** 7, 2170001 (2021). Cover can be found [here](https://onlinelibrary.wiley.com/toc/2199160x/2021/7/1) 
+ 1. W. Niu, **Y.-W. Fang**†, Xiaoqian Zhang, Yakui Weng, Yongda Chen, Hui Zhang, Yulin Gan, Xiao Yuan, Shengjie Zhang, Jiabao Sun, Yile Wang, Lujun Wei, Yongbing Xu, Xuefeng Wang, Wenqing Liu and Yong Pu, 
+"[Charge transfer induced multivalent states with resultant emergent magnetism in transition-metal oxide heterostructures]", Adv. Electron. Mater. 7, 2000803 (2021) **Selected as Cover article**: **Advanced Electronic Materials** 7, 2170001 (2021). Cover can be found [here](https://onlinelibrary.wiley.com/toc/2199160x/2021/7/1) 
   
  1. Y.-Y. Jiao, **Y.-W. Fang**†, Jianping Sun, Pengfei Shan, Zhenhai Yu, Hai L. Feng, Bosen Wang, Hanming Ma, Yoshiya Uwatoko, Kazunari Yamaura, Yanfeng Guo, Hanghui Chen, and Jinguang Cheng, "[Coupled magnetic and structural phase transitions in antiferromagnetic polar metal Pb2CoOsO6 under pressure](https://doi.org/10.1103/PhysRevB.102.144418)", **Phys. Rev. B** 102, 144418, (2020) 
   
