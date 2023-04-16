@@ -10,16 +10,16 @@ name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 
-# Extract citations and h-index
+# Extract citations and h_index
 citations = author['citedby']
-h-index = author['hindex']
+h_index = author['hindex']
 
 # Save data as JSON
 data = {
     "name": name,
     "updated": author['updated'],
     "citations": citations,
-    "h-index": h-index
+    "h_index": h_index
 }
 
 os.makedirs('results', exist_ok=True)
@@ -36,11 +36,11 @@ shieldio_data = {
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
 
-# Create ShieldIO badge data for h-index
+# Create ShieldIO badge data for h_index
 shieldio_data_h = {
     "schemaVersion": 1,
-    "label": "h-index",
-    "message": str(h-index),
+    "label": "h_index",
+    "message": str(h_index),
 }
 
 with open(f'results/gs_data_h_shieldsio.json', 'w') as outfile:
