@@ -28,11 +28,11 @@ while authors_string.startswith(" "):
 while authors_string.endswith(" "):
     authors_string = authors_string[:-1]
 #    print(authors_string)
-print(authors_string)
+#print(authors_string)
 to_ascii(authors_string)
-print(authors_string)
+#print(authors_string)
 authors = authors_string.split(' and ')
-print(authors)
+# print(authors)
 
 
 # Check if Yue-Wen Fang is in the author list
@@ -78,5 +78,7 @@ else:
 html += '</p>\n  </td>\n  <td style="vertical-align: top;">\n    <a href="{}"><img src="./journal-cover/cover.png" alt="cover" width="500"></a>\n  </td>\n</tr>'.format(url_match.group(1))
 
 # Print the HTML
+print('\n')
+print('copy the following html to the markdown file')
 print(html)
 
