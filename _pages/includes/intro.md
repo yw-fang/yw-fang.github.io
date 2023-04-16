@@ -1,6 +1,4 @@
-Note that this website is under maintaince. Please visit my former [weebly homepage](https://fangyuewen.weebly.com/)
-
-<!-- I work at [CFM](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, doing some fundamental audio-related research.  -->
+<!-- I work at [Bytedance](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, doing some fundamental audio-related research.  -->
 
 <!-- I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). -->
 
@@ -11,13 +9,19 @@ Note that this website is under maintaince. Please visit my former [weebly homep
 
 <!-- To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee. -->
 
-Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two daughters. He is currently working as a postdoc in Prof. [Ion Errea's group](https://cfm.ehu.es/errealab/) at UPV/EHU. Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. Yuewen has also been offered an Associate Professor position at Ningbo University in May 2021. Prior to that, he worked as a program-specific researcher in the laboratory of Prof. Isao Tanaka at Kyoto University from November 1st, 2017, to March 31st, 2020. He was also a visiting academic in the group of Dr. Hanghui Chen at New York University Shanghai in China from March 2017. Yuewen received his PhD in Physical Electronics from East China Normal University in Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. During his PhD, he spent eight months at the R&D center of Japan Fine Ceramics Center (Nagoya, Japan) from March 2016 to October 2016. Yuewen completed his BSc in Physics from Xiangtan University in 2012 and received training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012. In 2011, he also interned for R&D at Shanghai Baosteel Group Corporation for one month.
+Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two daughters. He is currently working as a postdoc in Prof. [Ion Errea's group](https://cfm.ehu.es/errealab/) at UPV/EHU. 
+Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
+Yuewen has also been offered an Associate Professor position at Ningbo University in May 2021. Prior to that, he worked as a program-specific researcher 
+in the laboratory of Prof. Isao Tanaka at Kyoto University from November 1st, 2017, to March 31st, 2020. He was also a visiting academic in the group of 
+Dr. Hanghui Chen at New York University Shanghai from March 2017. Yuewen received his PhD in Physical Electronics from East China Normal University in 
+Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. During his PhD, he spent eight months at the R&D center of Japan Fine
+Ceramics Center (Nagoya, Japan) from March 2016 to October 2016. Yuewen completed his BSc in Physics from Xiangtan University in 2012 and received 
+training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012. In 2011, he also interned for R&D at 
+Shanghai Baosteel Group Corporation for one month.
 
-Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, polar metals, complex oxide interfaces, and photovoltaic materials. 
+Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
+polar metals, complex oxide interfaces, and photovoltaic materials. 
 I have published more than 40 papers with
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
-
-
-<!-- <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. (citation data may be incorrect for the time being) -->
