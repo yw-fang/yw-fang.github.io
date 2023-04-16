@@ -9,6 +9,7 @@
 
 <!-- To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee. -->
 
+<div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
 Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two daughters. He is currently working as a postdoc in Prof. [Ion Errea's group](https://cfm.ehu.es/errealab/) at UPV/EHU. 
 Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
 Yuewen has also been offered an Associate Professor position at Ningbo University in May 2021. Prior to that, he worked as a program-specific researcher 
@@ -25,3 +26,4 @@ I have published more than 40 papers with
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
+</div>
