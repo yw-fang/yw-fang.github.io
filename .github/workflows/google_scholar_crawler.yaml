@@ -3,7 +3,9 @@ name: Get Citation Data
 on:
   page_build:
   schedule:
-    - cron: '0 8,16,24 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 24 * * *'
 
 jobs:
   build:
