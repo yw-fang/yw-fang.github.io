@@ -145,14 +145,23 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
 <!-- <img src="journal-cover/abm5134.png" alt="cover" width="200">  -->
 
  <table> 
-   <tr> 
+<!--    <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
-       <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023</p> 
+       <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023
+       </p> 
      </td> 
      <td style="vertical-align: top;"> 
        <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
      </td> 
-   </tr> 
+   </tr>  -->
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023 <a href="https://doi.org/10.5281/zenodo.7773774"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
    <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
        <p>39. Xinrui Cheng, Guoqiang Xi, <b>Yue-Wen Fang</b>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p> 
