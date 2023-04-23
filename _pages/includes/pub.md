@@ -317,7 +317,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>40. Yang Shen; Jia Cai; Hang‐Chen Ding; Xin‐Wei Shen; <b>Yue‐Wen Fang</b>; Wen‐Yi Tong; Xian‐Gang Wan; Qingbiao Zhao; Chun‐Gang Duan, <a href="http://doi.org/10.1002/adts.201900029"> Role of Lone‐Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study </a>, <b>Adv. Theory Simul.</b>, 2019,  : 1900029.</p>
+    <p>20. Yang Shen; Jia Cai; Hang‐Chen Ding; Xin‐Wei Shen; <b>Yue‐Wen Fang</b>; Wen‐Yi Tong; Xian‐Gang Wan; Qingbiao Zhao; Chun‐Gang Duan, <a href="http://doi.org/10.1002/adts.201900029"> Role of Lone‐Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study </a>, <b>Adv. Theory Simul.</b>, 2019,  : 1900029.</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1002/adts.201900029"><img src="./journal-cover/advtheorysimul.jpg" alt="cover" width="500"></a>
