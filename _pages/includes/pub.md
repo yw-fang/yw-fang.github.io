@@ -266,19 +266,51 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
     <a href="http://doi.org/10.1103/PhysRevB.102.144418"><img src="./journal-cover/PRB2020-vol102iss14-cover.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>25. Rui-Qi Wang; <b>Yue-Wen Fang</b>; Tian-Min Lei, <a href="http://doi.org/10.1016/j.physe.2020.114424"> Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations </a>, <b>Physica E: Low-dimensional Systems and Nanostructures</b>, 2021, 126: 114424.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1016/j.physe.2020.114424"><img src="./journal-cover/Physica-E-Cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>24. Hong Jian Zhao*; Peng Chen*; Charles Paillard; R\'emi Arras; <b>Yue-Wen Fang</b>; Xu Li; Julien Gosteau; Yurong Yang; Laurent Bellaiche*, <a href="http://doi.org/10.1103/PhysRevB.102.041203"> Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite </a>, <b>Phys. Rev. B</b>, 2020, 102(4): 15.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1103/PhysRevB.102.041203"><img src="./journal-cover/PRB2020-vol102iss4-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>23. <b>Yue-Wen Fang</b>*; Hanghui Chen*, <a href="http://doi.org/10.1038/s43246-019-0005-6"> Design of a multifunctional polar metal via first-principles high-throughput structure screening </a>, <b>Communications Materials</b>, 2020, 1(1): 1024.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1038/s43246-019-0005-6"><img src="./journal-cover/communications-materials-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>22. <b>Yue-Wen Fang</b>*; Ruihan Yang; Hanghui Chen*, <a href="http://doi.org/10.1088/1361-648X/ab31e0"> The complex non-collinear magnetic orderings in Ba<sub>2</sub>YOsO<sub>6</sub>: a new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides </a>, <b>J. Phys.: Condens. Matter</b>, 2019, 31(44): 445803.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1088/1361-648X/ab31e0"><img src="./journal-cover/JPCM-Vol3Number6-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+
+
+
 
   
  </table> 
   
   
   
- 1. R.-Q. Wang, **Y.-W. Fang**, T.-M. Lei, "[Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations](https://doi.org/10.1016/j.physe.2020.114424)", **Physica E: Low-dimensional Systems and Nanostructures**, 126, 114424, (2021) 
-  
- 1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "[Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041203)", **Phys Rev B Rapid Communication**, 102, 041203(R),(2020) 
-  
- 1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening](https://www.nature.com/articles/s43246-019-0005-6)", **Communications Materials**, 1, 1, (2020) 
-  
- 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", **Journal of Physics: Condensed Matter**, 31, 445803, (2019) 
+ <!-- 1. R.-Q. Wang, **Y.-W. Fang**, T.-M. Lei, "[Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations](https://doi.org/10.1016/j.physe.2020.114424)", **Physica E: Low-dimensional Systems and Nanostructures**, 126, 114424, (2021) -->
+ <!-- 1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "[Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041203)", **Phys Rev B Rapid Communication**, 102, 041203(R),(2020) -->
+ <!-- 1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening](https://www.nature.com/articles/s43246-019-0005-6)", **Communications Materials**, 1, 1, (2020) -->
+ <!-- 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", **Journal of Physics: Condensed Matter**, 31, 445803, (2019) -->
   
  1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "[Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure](https://doi.org/10.1021/acsaelm.9b00146)", **ACS Applied Electronic Materials** 1, 1133, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the **ACS Editors' Choice**] 
   
