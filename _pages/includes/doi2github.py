@@ -75,8 +75,8 @@ else:
     else:
         print("Title not found in the BibTeX record.")
 
-input(":")
-print('**(*******')
+# input(":")
+# print('**(*******')
 print(title_match.group(1))
 journal_match = re.search(r'journal = {(.+)}', content)
 journal_match_string = journal_match.group(1)
