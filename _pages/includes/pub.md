@@ -156,6 +156,14 @@ Overview: 40 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Mate
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>41. Rui-Qi Wang, Tianmin Lei, <b>Yue-Wen Fang</b>*, "<a href="https://doi.org/10.1088/1402-4896/acd7b3">First-principles design of ferromagnetic monolayer MnO2 at the complex interface</a>", <b>Physica Scripta</b>, online, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1088/1402-4896/acd7b3"><img src="./journal-cover/physica-scripta.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang</b>†, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023 <a href="https://doi.org/10.5281/zenodo.7773774"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
   </td> 
   <td style="vertical-align: top;"> 
