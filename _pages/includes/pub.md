@@ -104,7 +104,7 @@
 
 ## Papers under review: <a name="underreview"></a>
 
-†Co-first author; \*corresponding author
+<b> †Co-first author; \*corresponding author </b>
 
 There're several papers under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
 
@@ -129,7 +129,7 @@ There're several papers under review. However, I'll only show the ones that have
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-Overview: 41 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 20 of these publications including Science as corresponding or (co)first author). 
+<span style="color:blue"> Overview: 41 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 20 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
