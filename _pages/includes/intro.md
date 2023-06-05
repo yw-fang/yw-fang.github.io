@@ -24,7 +24,8 @@ Yuewen is an enthusiastic reviewer with strong willingness to help authors in th
 
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials. 
-Yuewen has published 41 peer-reviewed papers with
+Yuewen's research work has resulted in the publication of 41 peer-reviewed papers in prestigious journals such as Science, Nature Communications, Advanced Materials, and more.  
+These hese publications have garnered
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
