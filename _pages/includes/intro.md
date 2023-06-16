@@ -20,7 +20,6 @@ Ceramics Center (Nagoya, Japan) from March 2016 to October 2016. Yuewen complete
 training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012. In 2011, he also interned for R&D at 
 Shanghai Baosteel Group Corporation for one month. </p>
 
-<p> Yuewen is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. Up till now, he has contributed 95 verified peer reviews to 19 peer-reviewed journals including Advanced Science, Physical Review Letter, Physical Review Applied, etc. </p>
 
 <p> Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials. 
@@ -31,5 +30,10 @@ and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
 </p>
 
-<p> Yuewen acts as an reviewer for the following journals:  Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials; Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society; Journal of Alloys and Compounds, Physica Scripta, Journal of Advanced Ceramics</p>
+<p> Yuewen is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
+Up till now, he has contributed 96 verified peer reviews to 21 peer-reviewed journals including 
+Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials; 
+Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; 
+Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society; 
+Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; IEEE Transactions on Magnetics; Journal of Open Source Software. </p>
 </div> 
