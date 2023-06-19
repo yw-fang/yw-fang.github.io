@@ -442,7 +442,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>6. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-016-3502-6">Magnetic Properties of Chromium-Doped ZnO</a>", <b>J. Supercond. Nov. Magn.</b> 29, 1937 (2016)</p>
+    <p>6. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-016-3502-6">Magnetic Properties of Chromium-Doped ZnO</a>", <b>Journal of Superconductivity and Novel Magnetism</b> 29, 1937 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/6-cover.png"><img src="./journal-cover/6-cover.png" alt="cover" width="500"></a>
