@@ -378,7 +378,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>14. D. Zhao, W. Zong, Z. Fan, <b>Y.-W. Fang</b>, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, "<a href="https://doi.org/10.1007/s11051-017-3818-6">Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property</a>", <b>J. Nanopart. Res.</b> 19, 124 (2017)</p>
+    <p>14. D. Zhao, W. Zong, Z. Fan, <b>Y.-W. Fang</b>, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, "<a href="https://doi.org/10.1007/s11051-017-3818-6">Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property</a>", <b>Journal of Nanoparticle Research</b> 19, 124 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/14-cover.png"><img src="./journal-cover/14-cover.png" alt="cover" width="500"></a>
@@ -450,7 +450,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-015-3316-6">Electronic Structure and Thermodynamic Stability of Chromium-Doped Zinc Oxide</a>", <b>J. Supercond. Nov. Magn.</b> 28, 3439 (2015)</p>
+    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1186/s11671-016-1332-x">Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O</a>", <b>J. Supercond. Nov. Magn.</b> 28, 3439 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/5-cover.png"><img src="./journal-cover/5-cover.png" alt="cover" width="500"></a>
@@ -458,15 +458,16 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>4. X. -W. Shen, B. Li, <b>Y.-W. Fang</b>, M. Lu, Q. Yang, H. Tan, Y. Shi, H. Hua, T. Ogawa, A. Du, Q. Wan and C.-G. Duan, "<a href="https://doi.org/10.1016/j.cap.2014.07.011">Probing the Topological Surface States in Bi2Se3 Thin Films by In Situ Annealing</a>", <b>Current Appl. Phys.</b> 14, 1125-1128 (2014)</p>
+    <p>4. K. Zhang, Y. L. Cao, <b>Y.-W. Fang</b>, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R. Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, "<a href="https://doi.org/10.1016/j.cap.2014.07.011">Electrical Control of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions</a>", <b>Nanoscale</b> 7, 6334 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/4-cover.png"><img src="./journal-cover/4-cover.png" alt="cover" width="500"></a>
   </td>
 </tr>
+
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>3. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2650-7">Effect of Cobalt Substitution on the Magnetic and Transport Properties of Manganese Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 28, 1763 (2014)</p>
+    <p>3. Y.-L. Han, <b>Y.-W. Fang</b>†, Z.-Z. Yang, C.-J. Li, L. He, S.-C. Shen, Z.-Z. Luo, G.-L. Qu, C.-M. Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., "<a href="https://doi.org/10.1103/PhysRevB.92.115304">Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces</a>", <b>Phys. Rev. B</b> 92, 115304 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/3-cover.png"><img src="./journal-cover/3-cover.png" alt="cover" width="500"></a>
@@ -474,7 +475,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>2. <b>Y.-W. Fang</b>, B. Li, X.-W. Shen, M. Lu, H. Tan, H. Hua, Q. Yang, T. Ogawa, H. Moriwake, Q. Wan, and C.-G. Duan, "<a href="https://doi.org/10.1007/s11051-014-2650-y">Structural, magnetic and ferroelectric properties of Mn-doped BiFeO3 thin films</a>", <b>J. Nanopart. Res.</b> 16, 2650 (2014)</p>
+    <p>2. <b>Y.-W. Fang</b>, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G. Duan., "<a href="https://doi.org/10.1007/s11434-014-0628-4">First-Principles Studies of Multiferroic and Magnetoelectric Materials</a>", <b>Sci. Bull.</b> 2, 156 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/2-cover.png"><img src="./journal-cover/2-cover.png" alt="cover" width="500"></a>
@@ -482,15 +483,12 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>1. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2427-z">A Comparative Study on the Magnetic and Transport Properties of Manganese Cobalt Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 27, 1479 (2014)</p>
+    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/Home/BrowseIssue/142">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Prog. Phys.</b> 33, 382 (2013). (Note that it's in Chinese, please refer to the <a href="https://pip.nju.edu.cn/Home/DownloadPDF/767">full text</a> for more details)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/1-cover.png"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
   </td>
 </tr>
-</tbody>
-</table>
-<p><strong>Note</strong>: The images of the journal covers are not available in this text-based format. You can refer to the original webpage or publication for the cover images.</p>
 
 
   
@@ -527,6 +525,8 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 <!--    -->
 <!--  1. T. A. Abdel-Baset, **Y.-W. Fang**, C.-G. Duan and M. Abdel-Hafiez, “[Magnetic Properties of Chromium-Doped ZnO](https://doi.org/10.1007/s10948-016-3502-6)”, **J. Supercond. Nov. Magn.** 29, 1937 (2016).  -->
 <!--    -->
+
+
 <!--  1. T. A. Abdel-Baset, **Y.-W. Fang**, B. Anis, C.-G. Duan and M. Abdel-Hafiez, “[Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O](https://doi.org/10.1186/s11671-016-1332-x)”, **Nanoscale Res. Lett.** 11, 115 (2016).  -->
 <!--    -->
 <!--  1. K. Zhang, Y. L. Cao, **Y.-W. Fang**, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R. Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, “[Electrical Control of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions](https://doi.org/10.1039/C5NR00522A)”, **Nanoscale** 7, 6334 (2015).  -->
