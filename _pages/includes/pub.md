@@ -190,7 +190,7 @@ There're several papers under review. However, I'll only show the ones that have
    </tr> 
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>37. Wei Niu†, <b>Y.-W. Fang†</b>, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>J. Phys. Chem. Lett.</b>, 13, 13, 2976–2985 (2022).</p> 
+     <p>37. Wei Niu†, <b>Y.-W. Fang†</b>, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>The Journal of Physical Chemistry Letters</b>, 13, 13, 2976–2985 (2022).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1021/acs.jpclett.2c00384"><img src="./journal-cover/JPCL.2022.13.issue-6cm-200dpi.jpg" alt="cover" width="400"></a> 
@@ -270,7 +270,7 @@ There're several papers under review. However, I'll only show the ones that have
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>27. Wei Niu†; <b>Yue‐Wen Fang</b>†; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang*; Wenqing Liu*; Yong Pu*, <a href="http://doi.org/10.1002/aelm.202000803"> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </a>, <b>Adv. Electron. Mater.</b>, 2021, 7(1): 2000803. <b>Selected as Cover Picture</b></p>
+    <p>27. Wei Niu†; <b>Yue‐Wen Fang</b>†; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang*; Wenqing Liu*; Yong Pu*, <a href="http://doi.org/10.1002/aelm.202000803"> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </a>, <b>Advanced Electronic Materials</b>, 2021, 7(1): 2000803. <b>Selected as Cover Picture</b></p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1002/aelm.202000803"><img src="./journal-cover/2021-AdvElectronMater-issue1volume7.jpg" alt="cover" width="500"></a>
@@ -279,7 +279,7 @@ There're several papers under review. However, I'll only show the ones that have
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
     <p>26. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
-Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
+Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): .</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1103/PhysRevB.102.144418"><img src="./journal-cover/PRB2020-vol102iss14-cover.jpg" alt="cover" width="500"></a>
@@ -295,7 +295,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>24. Hong Jian Zhao*; Peng Chen*; Charles Paillard; R\'emi Arras; <b>Yue-Wen Fang</b>; Xu Li; Julien Gosteau; Yurong Yang; Laurent Bellaiche*, <a href="http://doi.org/10.1103/PhysRevB.102.041203"> Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite </a>, <b>Phys. Rev. B</b>, 2020, 102(4): 15.</p>
+    <p>24. Hong Jian Zhao*; Peng Chen*; Charles Paillard; R\'emi Arras; <b>Yue-Wen Fang</b>; Xu Li; Julien Gosteau; Yurong Yang; Laurent Bellaiche*, <a href="http://doi.org/10.1103/PhysRevB.102.041203"> Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite </a>, <b>Physical Review B</b>, 2020, 102(4): 15.</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1103/PhysRevB.102.041203"><img src="./journal-cover/PRB2020-vol102iss4-cover.jpg" alt="cover" width="500"></a>
@@ -337,7 +337,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>19. E. I. Paredes Aulestia, Y. W. Cheung, <b>Y.-W. Fang</b>, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "<a href="https://doi.org/10.1063/1.5035133">Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3</a>", <b>Appl. Phys. Lett.</b> 113, 012902 (2018)</p>
+    <p>19. E. I. Paredes Aulestia, Y. W. Cheung, <b>Y.-W. Fang</b>, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "<a href="https://doi.org/10.1063/1.5035133">Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3</a>", <b>Applied Physics Letters</b> 113, 012902 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1063/1.5035133"><img src="./journal-cover/19-cover.jpeg" alt="cover" width="500"></a>
@@ -345,7 +345,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>18. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, <b>Y.-W. Fang</b>, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "<a href="https://doi.org/10.1103/PhysRevB.97.134508">High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2</a>", <b>Phys Rev B</b> 97 (2018)</p>
+    <p>18. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, <b>Y.-W. Fang</b>, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "<a href="https://doi.org/10.1103/PhysRevB.97.134508">High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2</a>", <b>Physical Review B</b> 97 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.97.134508"><img src="./journal-cover/18-cover.png" alt="cover" width="500"></a>
@@ -386,7 +386,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>13. <b>Y.-W. Fang</b>, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, "<a href="https://doi.org/10.1103/PhysRevB.95.014111">Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3</a>", <b>Phys. Rev. B</b> 95, 014111 (2017)</p>
+    <p>13. <b>Y.-W. Fang</b>, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, "<a href="https://doi.org/10.1103/PhysRevB.95.014111">Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3</a>", <b>Physical Review B</b> 95, 014111 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.95.014111"><img src="./journal-cover/13-cover.png" alt="cover" width="500"></a>
@@ -410,7 +410,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>10. F. Zhang, <b>Y.-W. Fang</b>†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y. Dai, "<a href="https://doi.org/10.1103/PhysRevB.93.214427">Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using Uniaxial Strain</a>", <b>Phys. Rev. B</b> 93, 214427 (2016)</p>
+    <p>10. F. Zhang, <b>Y.-W. Fang</b>†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y. Dai, "<a href="https://doi.org/10.1103/PhysRevB.93.214427">Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using Uniaxial Strain</a>", <b>Physical Review B</b> 93, 214427 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.93.214427"><img src="./journal-cover/10-cover.png" alt="cover" width="500"></a>
@@ -467,7 +467,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>3. Y.-L. Han, <b>Y.-W. Fang</b>†, Z.-Z. Yang, C.-J. Li, L. He, S.-C. Shen, Z.-Z. Luo, G.-L. Qu, C.-M. Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., "<a href="https://doi.org/10.1103/PhysRevB.92.115304">Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces</a>", <b>Phys. Rev. B</b> 92, 115304 (2015)</p>
+    <p>3. Y.-L. Han, <b>Y.-W. Fang</b>†, Z.-Z. Yang, C.-J. Li, L. He, S.-C. Shen, Z.-Z. Luo, G.-L. Qu, C.-M. Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., "<a href="https://doi.org/10.1103/PhysRevB.92.115304">Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces</a>", <b>Physical Review B</b> 92, 115304 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.92.115304"><img src="./journal-cover/3-cover.png" alt="cover" width="500"></a>
