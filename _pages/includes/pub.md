@@ -190,7 +190,7 @@ There're several papers under review. However, I'll only show the ones that have
    </tr> 
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>37. Wei Niu†, **Y.-W. Fang**†, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>J. Phys. Chem. Lett.</b>, 13, 13, 2976–2985 (2022).</p> 
+     <p>37. Wei Niu†, <b>Y.-W. Fang†</b>, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>J. Phys. Chem. Lett.</b>, 13, 13, 2976–2985 (2022).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1021/acs.jpclett.2c00384"><img src="./journal-cover/JPCL.2022.13.issue-6cm-200dpi.jpg" alt="cover" width="400"></a> 
@@ -450,7 +450,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1186/s11671-016-1332-x">Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O</a>", <b>J. Supercond. Nov. Magn.</b> 28, 3439 (2015)</p>
+    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1186/s11671-016-1332-x">Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O</a>", <b>Nanoscale Research Letters (Now, Discover Nano) </b> 11, 115 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/5-cover.png"><img src="./journal-cover/5-cover.png" alt="cover" width="500"></a>
@@ -458,7 +458,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>4. K. Zhang, Y. L. Cao, <b>Y.-W. Fang</b>, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R. Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, "<a href="https://doi.org/10.1016/j.cap.2014.07.011">Electrical Control of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions</a>", <b>Nanoscale</b> 7, 6334 (2015)</p>
+    <p>4. K. Zhang, Y. L. Cao, <b>Y.-W. Fang</b>, Q. Li, J. Zhang, C.-G. Duan, S.-S. Yan, Y.-F. Tian, R. Huang, R. K. Zheng, S.-S. Kang, Y.-X. Chen, G.-L. Liu and L.-M. Mei, "<a href="https://doi.org/10.1039/C5NR00522A">Electrical Control of Memristance and Magnetoresistance in Oxide Magnetic Tunnel Junctions</a>", <b>Nanoscale</b> 7, 6334 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/4-cover.png"><img src="./journal-cover/4-cover.png" alt="cover" width="500"></a>
@@ -483,15 +483,13 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/Home/BrowseIssue/142">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Prog. Phys.</b> 33, 382 (2013). (Note that it's in Chinese, please refer to the <a href="https://pip.nju.edu.cn/Home/DownloadPDF/767">full text</a> for more details)</p>
+    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Prog. Phys.</b> 33, 382 (2013). (Note that it's in Chinese, please refer to the <a href="https://pip.nju.edu.cn/Home/DownloadPDF/767">full text</a> for more details)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/1-cover.png"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
   </td>
 </tr>
 
-
-  
  </table> 
   
   
