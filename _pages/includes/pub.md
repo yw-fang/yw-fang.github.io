@@ -174,7 +174,7 @@ There're several papers under review. However, I'll only show the ones that have
 </tr>
    <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
-       <p>39. Xinrui Cheng, Guoqiang Xi, <b>Yue-Wen Fang</b>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">hemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p> 
+       <p>39. Xinrui Cheng, Guoqiang Xi, <b>Yue-Wen Fang</b>, JiaQi Ding, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025">Chemical and interfacial design in the visible-light-absorbing ferroelectric thin films</a>", <b>Journal of the European Ceramic Society</b>, 43, 8, 3275-3288 (2023)</p> 
      </td> 
      <td style="vertical-align: top;"> 
        <a href="https://doi.org/10.1016/j.jeurceramsoc.2023.02.025"><img src="./journal-cover/J-Eur-Ceram-cover.png" alt="cover" width="500"></a> 
@@ -362,7 +362,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>1. W. Huang, <b>Y.-W. Fang</b>, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10, 5649 (2018)</p>
+    <p>16. W. Huang, <b>Y.-W. Fang</b>, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10, 5649 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/16-cover.png"><img src="./journal-cover/16-cover.png" alt="cover" width="500"></a>
@@ -370,7 +370,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>2. L. Sun, <b>Y.-W. Fang</b>†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "<a href="https://doi.org/10.1039/C7TC00974G">Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6</a>", <b>J. Mater. Chem. C</b> 5, 5494 (2017)</p>
+    <p>15. L. Sun, <b>Y.-W. Fang</b>†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "<a href="https://doi.org/10.1039/C7TC00974G">Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6</a>", <b>J. Mater. Chem. C</b> 5, 5494 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/15-cover.png"><img src="./journal-cover/15-cover.png" alt="cover" width="500"></a>
@@ -378,7 +378,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>3. D. Zhao, W. Zong, Z. Fan, <b>Y.-W. Fang</b>, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, "<a href="https://doi.org/10.1007/s11051-017-3818-6">Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property</a>", <b>J. Nanopart. Res.</b> 19, 124 (2017)</p>
+    <p>14. D. Zhao, W. Zong, Z. Fan, <b>Y.-W. Fang</b>, S. Xiong, M. Du, T. Wu, F. Ji, and X. Xu, "<a href="https://doi.org/10.1007/s11051-017-3818-6">Synthesis of Carbon-doped Nanosheets m-BiVO4 with Three Dimensional (3D) Hierarchical Structure by One-step Hydrothermal Method and Evaluation of Their High Visible Light Photocatalytic Property</a>", <b>J. Nanopart. Res.</b> 19, 124 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/14-cover.png"><img src="./journal-cover/14-cover.png" alt="cover" width="500"></a>
@@ -386,7 +386,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>4. <b>Y.-W. Fang</b>, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, "<a href="https://doi.org/10.1103/PhysRevB.95.014111">Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3</a>", <b>Phys. Rev. B</b> 95, 014111 (2017)</p>
+    <p>13. <b>Y.-W. Fang</b>, C. A. J. Fisher, A. Kuwabara, X.-W Shen, T. Ogawa, H. Moriwake, R. Huang, and C.-G. Duan, "<a href="https://doi.org/10.1103/PhysRevB.95.014111">Lattice Dynamics and Ferroelectric Properties of the Nitride Perovskite LaWN3</a>", <b>Phys. Rev. B</b> 95, 014111 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/13-cover.png"><img src="./journal-cover/13-cover.png" alt="cover" width="500"></a>
@@ -394,7 +394,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>5. D. Zhao, W. Zong, Z. Fan, S. Xiong, M. Du, T. Wu, <b>Y.-W. Fang</b>, F. Ji and X. Xu, "<a href="https://doi.org/10.1039/C6CE01642A">Synthesis of Carbon Doped BiVO4@Multi-Walled Carbon Nanotubes with High Visible Light Absorption Behavior and Evaluation of Its Photocatalytic Property</a>", <b>CrystEngComm</b> 18, 9007 (2016)</p>
+    <p>12. D. Zhao, W. Zong, Z. Fan, S. Xiong, M. Du, T. Wu, <b>Y.-W. Fang</b>, F. Ji and X. Xu, "<a href="https://doi.org/10.1039/C6CE01642A">Synthesis of Carbon Doped BiVO4@Multi-Walled Carbon Nanotubes with High Visible Light Absorption Behavior and Evaluation of Its Photocatalytic Property</a>", <b>CrystEngComm</b> 18, 9007 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/12-cover.png"><img src="./journal-cover/12-cover.png" alt="cover" width="500"></a>
@@ -402,7 +402,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>6. H.-J. Liu, J.-C. Lin, <b>Y.-W. Fang</b>, J.-C. Wang, B.-C. Huang, X. Gao, R. Huang, P. R. Dean, P. D. Hatton, Y.-Y. Chin, H.-J. Lin, C.-T. Chen, Y. Ikuhara, Y.-P. Chiu, C.-S. Chang, C.-G. Duan, Q. He and Y.-H. Chu, "<a href="https://doi.org/10.1002/adma.201602281">A Metal–Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure</a>", <b>Advanced Materials</b> 28, 9142-9151 (2016)</p>
+    <p>11. H.-J. Liu, J.-C. Lin, <b>Y.-W. Fang</b>, J.-C. Wang, B.-C. Huang, X. Gao, R. Huang, P. R. Dean, P. D. Hatton, Y.-Y. Chin, H.-J. Lin, C.-T. Chen, Y. Ikuhara, Y.-P. Chiu, C.-S. Chang, C.-G. Duan, Q. He and Y.-H. Chu, "<a href="https://doi.org/10.1002/adma.201602281">A Metal–Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure</a>", <b>Advanced Materials</b> 28, 9142-9151 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/11-cover.png"><img src="./journal-cover/11-cover.png" alt="cover" width="500"></a>
@@ -410,7 +410,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>7. F. Zhang, <b>Y.-W. Fang</b>†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y. Dai, "<a href="https://doi.org/10.1103/PhysRevB.93.214427">Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using Uniaxial Strain</a>", <b>Phys. Rev. B</b> 93, 214427 (2016)</p>
+    <p>10. F. Zhang, <b>Y.-W. Fang</b>†, N. Y. Chan, W. C. Lo, D. F. Li, C.-G. Duan, F. Ding and J. Y. Dai, "<a href="https://doi.org/10.1103/PhysRevB.93.214427">Dynamic Modulation of the Transport Properties of the LaAlO3/SrTiO3 Interface Using Uniaxial Strain</a>", <b>Phys. Rev. B</b> 93, 214427 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/10-cover.png"><img src="./journal-cover/10-cover.png" alt="cover" width="500"></a>
@@ -418,7 +418,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>8. W.-Y. Tong, <b>Y.-W. Fang</b>, J. Cai, S.-J. Gong and C.-G. Duan, "<a href="https://doi.org/10.1016/j.commatsci.2015.07.016">Theoretical Studies of All-Electric Spintronics Utilizing Multiferroic and Magnetoelectric Materials</a>", <b>Comp. Mater. Sci.</b> 112, 467-477 (2016)</p>
+    <p>9. W.-Y. Tong, <b>Y.-W. Fang</b>, J. Cai, S.-J. Gong and C.-G. Duan, "<a href="https://doi.org/10.1016/j.commatsci.2015.07.016">Theoretical Studies of All-Electric Spintronics Utilizing Multiferroic and Magnetoelectric Materials</a>", <b>Comp. Mater. Sci.</b> 112, 467-477 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/9-cover.png"><img src="./journal-cover/9-cover.png" alt="cover" width="500"></a>
@@ -426,7 +426,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>9. <b>Y.-W. Fang</b>, J.-C. Nie, and C.-G. Duan, "<a href="https://doi.org/10.7693/wl20160601">Interface-based perovskite oxide electronics</a>", <b>Physics</b> 45, 349 (2016). (Note that this commentary article is in Chinese.)</p>
+    <p>8. <b>Y.-W. Fang</b>, J.-C. Nie, and C.-G. Duan, "<a href="https://doi.org/10.7693/wl20160601">Interface-based perovskite oxide electronics</a>", <b>Physics</b> 45, 349 (2016). (Note that this commentary article is in Chinese.)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/8-cover.png"><img src="./journal-cover/8-cover.png" alt="cover" width="500"></a>
@@ -434,7 +434,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>10. M. Abdel-Hafiez, X. M. Zhao, A. A. Kordyuk, <b>Y.-W. Fang</b>, B. Pan, Z. He, C. -G. Duan, J. Zhao and X. J. Chen, "<a href="https://doi.org/10.1038/srep31824">Enhancement of Superconductivity under Pressure and the Magnetic Phase Diagram of Tantalum Disulfide Single Crystals</a>", <b>Sci. Rep.</b> 6, 31824 (2016)</p>
+    <p>7. M. Abdel-Hafiez, X. M. Zhao, A. A. Kordyuk, <b>Y.-W. Fang</b>, B. Pan, Z. He, C. -G. Duan, J. Zhao and X. J. Chen, "<a href="https://doi.org/10.1038/srep31824">Enhancement of Superconductivity under Pressure and the Magnetic Phase Diagram of Tantalum Disulfide Single Crystals</a>", <b>Sci. Rep.</b> 6, 31824 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/7-cover.png"><img src="./journal-cover/7-cover.png" alt="cover" width="500"></a>
@@ -442,7 +442,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>11. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-016-3502-6">Magnetic Properties of Chromium-Doped ZnO</a>", <b>J. Supercond. Nov. Magn.</b> 29, 1937 (2016)</p>
+    <p>6. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-016-3502-6">Magnetic Properties of Chromium-Doped ZnO</a>", <b>J. Supercond. Nov. Magn.</b> 29, 1937 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/6-cover.png"><img src="./journal-cover/6-cover.png" alt="cover" width="500"></a>
@@ -450,7 +450,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>12. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-015-3316-6">Electronic Structure and Thermodynamic Stability of Chromium-Doped Zinc Oxide</a>", <b>J. Supercond. Nov. Magn.</b> 28, 3439 (2015)</p>
+    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-015-3316-6">Electronic Structure and Thermodynamic Stability of Chromium-Doped Zinc Oxide</a>", <b>J. Supercond. Nov. Magn.</b> 28, 3439 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/5-cover.png"><img src="./journal-cover/5-cover.png" alt="cover" width="500"></a>
@@ -458,7 +458,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>13. X. -W. Shen, B. Li, <b>Y.-W. Fang</b>, M. Lu, Q. Yang, H. Tan, Y. Shi, H. Hua, T. Ogawa, A. Du, Q. Wan and C.-G. Duan, "<a href="https://doi.org/10.1016/j.cap.2014.07.011">Probing the Topological Surface States in Bi2Se3 Thin Films by In Situ Annealing</a>", <b>Current Appl. Phys.</b> 14, 1125-1128 (2014)</p>
+    <p>4. X. -W. Shen, B. Li, <b>Y.-W. Fang</b>, M. Lu, Q. Yang, H. Tan, Y. Shi, H. Hua, T. Ogawa, A. Du, Q. Wan and C.-G. Duan, "<a href="https://doi.org/10.1016/j.cap.2014.07.011">Probing the Topological Surface States in Bi2Se3 Thin Films by In Situ Annealing</a>", <b>Current Appl. Phys.</b> 14, 1125-1128 (2014)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/4-cover.png"><img src="./journal-cover/4-cover.png" alt="cover" width="500"></a>
@@ -466,7 +466,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>14. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2650-7">Effect of Cobalt Substitution on the Magnetic and Transport Properties of Manganese Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 28, 1763 (2014)</p>
+    <p>3. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2650-7">Effect of Cobalt Substitution on the Magnetic and Transport Properties of Manganese Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 28, 1763 (2014)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/3-cover.png"><img src="./journal-cover/3-cover.png" alt="cover" width="500"></a>
@@ -474,7 +474,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>15. <b>Y.-W. Fang</b>, B. Li, X.-W. Shen, M. Lu, H. Tan, H. Hua, Q. Yang, T. Ogawa, H. Moriwake, Q. Wan, and C.-G. Duan, "<a href="https://doi.org/10.1007/s11051-014-2650-y">Structural, magnetic and ferroelectric properties of Mn-doped BiFeO3 thin films</a>", <b>J. Nanopart. Res.</b> 16, 2650 (2014)</p>
+    <p>2. <b>Y.-W. Fang</b>, B. Li, X.-W. Shen, M. Lu, H. Tan, H. Hua, Q. Yang, T. Ogawa, H. Moriwake, Q. Wan, and C.-G. Duan, "<a href="https://doi.org/10.1007/s11051-014-2650-y">Structural, magnetic and ferroelectric properties of Mn-doped BiFeO3 thin films</a>", <b>J. Nanopart. Res.</b> 16, 2650 (2014)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/2-cover.png"><img src="./journal-cover/2-cover.png" alt="cover" width="500"></a>
@@ -482,7 +482,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>16. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2427-z">A Comparative Study on the Magnetic and Transport Properties of Manganese Cobalt Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 27, 1479 (2014)</p>
+    <p>1. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1007/s10948-014-2427-z">A Comparative Study on the Magnetic and Transport Properties of Manganese Cobalt Zinc Ferrites</a>", <b>J. Supercond. Nov. Magn.</b> 27, 1479 (2014)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/1-cover.png"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
