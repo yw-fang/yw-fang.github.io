@@ -475,7 +475,7 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>2. <b>Y.-W. Fang</b>, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G. Duan., "<a href="https://doi.org/10.1007/s11434-014-0628-4">First-Principles Studies of Multiferroic and Magnetoelectric Materials</a>", <b>Sci. Bull.</b> 2, 156 (2015)</p>
+    <p>2. <b>Y.-W. Fang</b>, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G. Duan., "<a href="https://doi.org/10.1007/s11434-014-0628-4">First-Principles Studies of Multiferroic and Magnetoelectric Materials</a>", <b>Science Bulletin</b> 2, 156 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="./journal-cover/2-cover.png"><img src="./journal-cover/2-cover.png" alt="cover" width="500"></a>
@@ -483,10 +483,10 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Prog. Phys.</b> 33, 382 (2013). (Note that it's in Chinese, please refer to the <a href="https://pip.nju.edu.cn/Home/DownloadPDF/767">full text</a> for more details)</p>
+    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Progress in Physics (China)</b> 33, 382 (2013) </p>
   </td>
   <td style="vertical-align: top;">
-    <a href="./journal-cover/1-cover.png"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
+    <a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
   </td>
 </tr>
 
