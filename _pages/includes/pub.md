@@ -335,6 +335,31 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
 </tr>
 
 
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>19. E. I. Paredes Aulestia, Y. W. Cheung, <b>Y.-W. Fang</b>, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "<a href="https://doi.org/10.1063/1.5035133">Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3</a>", <b>Appl. Phys. Lett.</b> 113, 012902 (2018)</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="./journal-cover/19-cover.jpeg"><img src="./journal-cover/19-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>18. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, <b>Y.-W. Fang</b>, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "<a href="https://doi.org/10.1103/PhysRevB.97.134508">High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2</a>", <b>Phys Rev B</b> 97 (2018)</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="./journal-cover/18-cover.png"><img src="./journal-cover/18-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>17. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, <b>Y.-W. Fang</b>, et al. "<a href="https://doi.org/10.1021/acsphotonics.7b01339">Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces</a>", <b>ACS Photonics</b> 5, 1041 (2018)</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="./journal-cover/17-cover.png"><img src="./journal-cover/17-cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
+
 
 
 
@@ -344,19 +369,11 @@ Pb2CoOsO6 under pressure </a>, <b>Phys. Rev. B</b>, 2020, 102(14): .</p>
   
   
   
- <!-- 1. R.-Q. Wang, **Y.-W. Fang**, T.-M. Lei, "[Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations](https://doi.org/10.1016/j.physe.2020.114424)", **Physica E: Low-dimensional Systems and Nanostructures**, 126, 114424, (2021) -->
- <!-- 1. H. J. Zhao, P. Chen, C. Paillard, R. Arras, **Y.-W. Fang**, X. Li, J. Gosteau, Y. Yang, and L. Bellaiche, "[Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.041203)", **Phys Rev B Rapid Communication**, 102, 041203(R),(2020) -->
- <!-- 1. **Y.-W. Fang**\*, H. Chen, "[Design of a multifunctional polar metal via first-principles high-throughput structure screening](https://www.nature.com/articles/s43246-019-0005-6)", **Communications Materials**, 1, 1, (2020) -->
- <!-- 1. **Y.-W. Fang**\*, R. Yang, H. Chen, "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides](https://doi.org/10.1088/1361-648X/ab31e0)", **Journal of Physics: Condensed Matter**, 31, 445803, (2019) -->
-  
-<!-- 1. X.-W. Shen, **Y.-W. Fang**\*, B. Tian, C.-G. Duan, "[Two-dimensional ferroelectric tunnel junction: the case of monolayer In:SnSe/SnSe/Sb:SnSe homostructure](https://doi.org/10.1021/acsaelm.9b00146)", **ACS Applied Electronic Materials** 1, 1133, (2019) [In the morning of June 8 (Saturday, Kyoto time), I was happy upon hearing news from ACS that this paper had been chosen as the **ACS Editors' Choice**] -->
-<!-- 1. Y. Shen, J. Cai, H.-C. Ding, X.-W. Shen, **Y.-W. Fang**, W.-Y. Tong, X.-G. Wan, Q. Zhao, and C.-G. Duan, "[Role of Lone-Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study](https://doi.org/10.1002/adts.201900029)", **Advanced Theory and Simulations** 2, 1900029 (2019). -->
-  
- 1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "[Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3](https://doi.org/10.1063/1.5035133)", **Appl. Phys. Lett.** 113, 012902 (2018) 
-  
- 1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "[High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2](https://doi.org/10.1103/PhysRevB.97.134508)", **Phys Rev B** 97, (2018) 
-  
- 1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, **Y.-W. Fang**, et al. "[Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces](https://doi.org/10.1021/acsphotonics.7b01339)", **ACS Photonics** 5, 1041, (2018). 
+<!--  1. E. I. Paredes Aulestia, Y. W. Cheung, **Y.-W. Fang**, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "[Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3](https://doi.org/10.1063/1.5035133)", **Appl. Phys. Lett.** 113, 012902 (2018)  -->
+<!--    -->
+<!--  1. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, **Y.-W. Fang**, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "[High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2](https://doi.org/10.1103/PhysRevB.97.134508)", **Phys Rev B** 97, (2018)  -->
+<!--    -->
+<!--  1. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, **Y.-W. Fang**, et al. "[Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces](https://doi.org/10.1021/acsphotonics.7b01339)", **ACS Photonics** 5, 1041, (2018).  -->
   
  1. W. Huang, **Y.-W. Fang**, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "[Solid-State Synapse Based on Magnetoelectrically Coupled Memristor](https://doi.org/10.1021/acsami.7b18206)",  **ACS Applied  Materials & Interfaces** 10, 5649, (2018). 
   
