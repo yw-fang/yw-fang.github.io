@@ -156,7 +156,7 @@ There're several papers under review with ACS Nano, PRL and NC. However, I'll on
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>41. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, accepted, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+    <p>41. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://arxiv.org/abs/2301.06756"><img src="./journal-cover/NatComm-cover.jpeg" alt="cover" width="500"></a> 
