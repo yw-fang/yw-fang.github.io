@@ -106,9 +106,7 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
-There're several papers under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
-
-- [Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium](https://arxiv.org/abs/2301.06756)
+There're several papers under review with ACS Nano, PRL and NC. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
 
 - [Ab initio study of the structural, vibrational and optical properties of potential parent structures of nitrogen-doped lutetium hydride](https://doi.org/10.48550/arXiv.2305.06751)
 
@@ -129,7 +127,7 @@ There're several papers under review. However, I'll only show the ones that have
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 41 scientific papers (31 JCR-Q1 including Nat. Commun., Advanced Materials, etc; 20 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 42 scientific papers (32 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 20 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -156,6 +154,14 @@ There're several papers under review. However, I'll only show the ones that have
        <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
      </td> 
    </tr>  -->
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>41. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, accepted, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://arxiv.org/abs/2301.06756"><img src="./journal-cover/NatComm-cover.jpeg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>41. Rui-Qi Wang, Tianmin Lei, <b>Yue-Wen Fang</b>*, "<a href="https://doi.org/10.1088/1402-4896/acd7b3">First-principles design of ferromagnetic monolayer MnO2 at the complex interface</a>", <b>Physica Scripta</b>, online, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
