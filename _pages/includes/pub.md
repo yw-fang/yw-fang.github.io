@@ -136,7 +136,7 @@ There're several papers that are under review. However, I'll only show the ones 
  </tr> 
   <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>32. H.-J. Liu†, M. Ye†, C.-Y. Yang†, <strong>Y.-W. Fang</strong>†, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "<a href="https://doi.org/10.1016/j.apmt.2021.101101">Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure</a>", <strong>Applied Materials Today</strong> 24, 101101 (2021).</p> 
+     <p>32. H.-J. Liu†, M. Ye†, C.-Y. Yang†, <p>Y.-W. Fang†</p>, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "<a href="https://doi.org/10.1016/j.apmt.2021.101101">Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure</a>", <strong>Applied Materials Today</strong> 24, 101101 (2021).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1016/j.apmt.2021.101101"><img src="./journal-cover/AppliedMaterialsToday-2021-VOL24.png" alt="cover" width="500"></a> 
@@ -144,7 +144,7 @@ There're several papers that are under review. However, I'll only show the ones 
  </tr> 
   <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
-       <p>31. D. Zheng†, <strong>Y.-W. Fang</strong>†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "<a href="https://doi.org/10.1021/acsnano.0c10200">Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction</a>", <b>ACS Nano</b>, 15, 3, 4898–4906 (2021).</p> 
+       <p>31. D. Zheng†, <p>Y.-W. Fang†</p>, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "<a href="https://doi.org/10.1021/acsnano.0c10200">Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction</a>", <b>ACS Nano</b>, 15, 3, 4898–4906 (2021).</p> 
      </td> 
      <td style="vertical-align: top;"> 
        <a href="https://doi.org/10.1021/acsnano.0c10200"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a> 
