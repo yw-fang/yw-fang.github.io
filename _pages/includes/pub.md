@@ -238,7 +238,7 @@ There're several papers under review. However, I'll only show the ones that have
  </tr> 
   <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
-       <p>31. D. Zheng†, <strong>Y.-W. Fang</strong>†, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "<a href="https://doi.org/10.1021/acsnano.0c10200">Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction</a>", <b>ACS Nano</b>, 15, 3, 4898–4906 (2021).</p> 
+       <p>31. D. Zheng†, <p>Y.-W. Fang†</p>, S. Zhang, P. Li, Y. Wen, B. Fang, X. He, Y. Li, C. Zhang, W. Tong, W. Mi, H. Bai, H. N. Alshareef, Z. Q. Qiu, and X. Zhang, "<a href="https://doi.org/10.1021/acsnano.0c10200">Berry Phase Engineering in SrRuO3/SrIrO3/SrTiO3 Superlattices Induced by Band Structure Reconstruction</a>", <b>ACS Nano</b>, 15, 3, 4898–4906 (2021).</p> 
      </td> 
      <td style="vertical-align: top;"> 
        <a href="https://doi.org/10.1021/acsnano.0c10200"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a> 
