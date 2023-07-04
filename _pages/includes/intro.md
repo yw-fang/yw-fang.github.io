@@ -20,26 +20,8 @@ and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
 </p>
 
-<p> Yuewen serves as a Youth Editor of the Editoral Board of Acta Metallurgica Sinica (English Letters) [JCR Q1]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
-Up till now, he has contributed 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .badge {
-            background-color: #4CAF50;
-            color: white;
-            padding: 5px 10px;
-            border-radius: 3px;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
-    <span class="badge">99 verified peer reviews</span>
-</body>
-</html>
-to 21 peer-reviewed journals including 
+<p> Yuewen serves as a Youth Editor of the <b>Editoral Board</b> of Acta Metallurgica Sinica (English Letters) [<b>JCR Q1</b>]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
+Up till now, he has contributed <span style="color: blue;">99 verified peer reviews</span> to 21 peer-reviewed journals including 
 Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials; 
 Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; 
 Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society; 
