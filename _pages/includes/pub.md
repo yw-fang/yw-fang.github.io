@@ -27,7 +27,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 42 scientific papers (32 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 20 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 43 scientific papers (33 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 21 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -56,7 +56,15 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>42. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>43. Guoqiang Xi, Zhao Pan*  <b>Yue-Wen Fang*</b>, Qianqian Yang, Chen Liu, Huajie Luo, Jiaqi Ding, Shuai Xu, Shiqing Deng, Qingxiao Wang, Dongxing Zheng, Youwen Long, Kuijuan Jin, Xixiang Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://arxiv.org/abs/2301.06756">Anion-induced robust ferroelectricity in sulfurized BiFeO3 thin films via polarization rotation</a>", <b>Materials Horizons</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href=""><img src="./journal-cover/MaterialsHorizons2023-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>42. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, in press, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://arxiv.org/abs/2301.06756"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
