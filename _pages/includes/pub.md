@@ -59,7 +59,7 @@ There're several papers that are under review. However, I'll only show the ones 
     <p>43. Guoqiang Xi, Zhao Pan*  <b>Yue-Wen Fang*</b>, Qianqian Yang, Chen Liu, Huajie Luo, Jiaqi Ding, Shuai Xu, Shiqing Deng, Qingxiao Wang, Dongxing Zheng, Youwen Long, Kuijuan Jin, Xixiang Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1039/D3MH00716B">Anion-induced robust ferroelectricity in sulfurized BiFeO3 thin films via polarization rotation</a>", <b>Materials Horizons</b>, online, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href=""><img src="./journal-cover/MaterialsHorizons2023-cover.png" alt="cover" width="500"></a> 
+    <a href=""><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
