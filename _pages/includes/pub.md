@@ -74,7 +74,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>41. Rui-Qi Wang, Tianmin Lei, <b>Yue-Wen Fang</b>*, "<a href="https://doi.org/10.1088/1402-4896/acd7b3">First-principles design of ferromagnetic monolayer MnO2 at the complex interface</a>", <b>Physica Scripta</b>, online, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+    <p>41. Rui-Qi Wang, Tianmin Lei, <b>Yue-Wen Fang</b>*, "<a href="https://doi.org/10.1088/1402-4896/acd7b3">First-principles design of ferromagnetic monolayer MnO2 at the complex interface</a>", <b>Physica Scripta</b>, 98, 065960, 2023 <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1088/1402-4896/acd7b3"><img src="./journal-cover/physica-scripta.jpg" alt="cover" width="500"></a> 
