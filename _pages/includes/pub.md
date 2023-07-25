@@ -66,10 +66,10 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>42. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://arxiv.org/abs/2301.06756">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, in press, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>42. Cong Liu, Ion Errea, Chi Ding, Chris Pickard, Lewis J. Conway, Bartomeu Monserrat,  <b>Yue-Wen Fang</b>, Qing Lu, Jian Sun*, Jordi Boronat, Claudio Cazorla*, "<a href="https://doi.org/10.1038/s41467-023-40240-x">Excitonic Insulator to Superconductor Phase Transition in Ultra-Compressed Helium</a>", <b>Nature Communications</b>, 14, 4458, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://arxiv.org/abs/2301.06756"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41467-023-40240-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
