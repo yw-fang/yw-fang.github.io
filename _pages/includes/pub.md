@@ -29,7 +29,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 43 scientific papers (33 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 21 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 44 scientific papers (34 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 22 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -56,6 +56,14 @@ There're several papers that are under review. However, I'll only show the ones 
        <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
      </td> 
    </tr>  -->
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>44. Feng-Shuo Li,  <b>Yue-Wen Fang*</b>, Yi-Ting Wu, Shu-Wei Wu, Sheng-Zhu Ho, Chih-Yen Chen,  Ching-Yu Chiang, Yi-Chun Chen, Heng-Jui Liu*, "<a href="https://doi.org/">Self-Enhancement of Water Electrolysis by Electrolyte-Poled Ferroelectric Catalyst</a>", <b>ACS Nano</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>43. Guoqiang Xi, Zhao Pan*  <b>Yue-Wen Fang*</b>, Qianqian Yang, Chen Liu, Huajie Luo, Jiaqi Ding, Shuai Xu, Shiqing Deng, Qingxiao Wang, Dongxing Zheng, Youwen Long, Kuijuan Jin, Xixiang Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1039/D3MH00716B">Anion-induced robust ferroelectricity in sulfurized BiFeO3 thin films via polarization rotation</a>", <b>Materials Horizons</b>, online, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
