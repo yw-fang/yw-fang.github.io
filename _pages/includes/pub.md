@@ -58,10 +58,10 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>44. Feng-Shuo Li,  <b>Yue-Wen Fang*</b>, Yi-Ting Wu, Shu-Wei Wu, Sheng-Zhu Ho, Chih-Yen Chen,  Ching-Yu Chiang, Yi-Chun Chen, Heng-Jui Liu*, "<a href="https://doi.org/">Self-Enhancement of Water Electrolysis by Electrolyte-Poled Ferroelectric Catalyst</a>", <b>ACS Nano</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>44. Feng-Shuo Li,  <b>Yue-Wen Fang*</b>, Yi-Ting Wu, Shu-Wei Wu, Sheng-Zhu Ho, Chih-Yen Chen,  Ching-Yu Chiang, Yi-Chun Chen, Heng-Jui Liu*, "<a href="https://doi.org/10.1021/acsnano.3c06371">Self-Enhancement of Water Electrolysis by Electrolyte-Poled Ferroelectric Catalyst</a>", <b>ACS Nano</b>, accepted, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1021/acsnano.3c06371"><img src="./journal-cover/ACS-NANO-3.2021.15.issue-3-cover.jpg" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
