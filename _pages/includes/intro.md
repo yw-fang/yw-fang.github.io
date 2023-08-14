@@ -20,7 +20,7 @@ and
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_h_shieldsio.json&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
 </p>
 
-<p> Yuewen serves as a Youth Editor of the <b>Editoral Board</b> of Acta Metallurgica Sinica (English Letters) [<b>JCR Q1</b>]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
+<p> Yuewen serves as a Youth Editor of the <b>Editorial Board</b> of Acta Metallurgica Sinica (English Letters) [<b>JCR Q1</b>]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
 Up till now, he has contributed <span style="color: blue;">103 verified peer reviews</span> to 22 peer-reviewed journals including 
 Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials; 
 Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials; 
