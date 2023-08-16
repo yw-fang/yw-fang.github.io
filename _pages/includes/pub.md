@@ -8,8 +8,6 @@
 
 There're several papers that are under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
 
-- [Ab initio study of the structural, vibrational and optical properties of potential parent structures of nitrogen-doped lutetium hydride](https://doi.org/10.48550/arXiv.2305.06751)
-
 - [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699)
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
