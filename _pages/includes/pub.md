@@ -27,7 +27,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 45 scientific papers (34 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 22 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 45 scientific papers (35 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 22 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
