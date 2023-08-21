@@ -121,7 +121,7 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr> 
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>37. Wei Niu†, <b>Y.-W. Fang†</b>, Ruxin Liu, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>The Journal of Physical Chemistry Letters</b>, 13, 13, 2976–2985 (2022).</p> 
+     <p>37. Wei Niu†, <b>Y.-W. Fang†</b>, Ruxin Liu†, Zhenqi Wu, Yongda Chen, Yulin Gan, Xiaoqian Zhang, Chunhui Zhu, Lixia Wang, Yongbing Xu, Yong Pu*, Yunzhong Chen*, and Xuefeng Wang*, "<a href="https://doi.org/10.1021/acs.jpclett.2c00384">Fully Optical Modulation of the Two-Dimensional Electron Gas at the γ-Al2O3/SrTiO3 Interface</a>", <b>The Journal of Physical Chemistry Letters</b>, 13, 13, 2976–2985 (2022).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1021/acs.jpclett.2c00384"><img src="./journal-cover/JPCL.2022.13.issue-6cm-200dpi.jpg" alt="cover" width="400"></a> 
@@ -183,17 +183,9 @@ There're several papers that are under review. However, I'll only show the ones 
      <a href="http://dx.doi.org/10.1039/D0RA09228B"><img src="./journal-cover/RSC-Avances_cover_2019-bounding.jpg" alt="cover" width="500"></a> 
    </td> 
  </tr> 
- <tr> 
-   <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>29. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
-   </td> 
-   <td style="vertical-align: top;"> 
-     <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
-   </td> 
- </tr> 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>28. Ye Yuan; <b>Yue-Wen Fang</b>; Ni Zhong; Ping-Hua Xiang; Chun-Gang Duan*, "<a href="http://doi.org/10.1016/j.jmmm.2020.167547">Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain</a>",  <b>Journal of Magnetism and Magnetic Materials</b>,  2021,  522: 167547 .</p>
+    <p>29. Ye Yuan; <b>Yue-Wen Fang</b>; Ni Zhong; Ping-Hua Xiang; Chun-Gang Duan*, "<a href="http://doi.org/10.1016/j.jmmm.2020.167547">Unusual magnetic transitions and phonon instabilities in tetragonal SrIrO3 under epitaxial strain</a>",  <b>Journal of Magnetism and Magnetic Materials</b>,  2021,  522: 167547 .</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1016/j.jmmm.2020.167547"><img src="./journal-cover/JMMM-cover.jpg" alt="cover" width="500"></a>
@@ -201,12 +193,20 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>27. Wei Niu†; <b>Yue‐Wen Fang</b>†; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang*; Wenqing Liu*; Yong Pu*, <a href="http://doi.org/10.1002/aelm.202000803"> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </a>, <b>Advanced Electronic Materials</b>, 2021, 7(1): 2000803. <b>Selected as Cover Picture</b></p>
+    <p>28. Wei Niu†; <b>Yue‐Wen Fang</b>†; Xiaoqian Zhang; Yakui Weng; Yongda Chen; Hui Zhang; Yulin Gan; Xiao Yuan; Shengjie Zhang; Jiabao Sun; Yile Wang; Lujun Wei; Yongbing Xu; Xuefeng Wang*; Wenqing Liu*; Yong Pu*, <a href="http://doi.org/10.1002/aelm.202000803"> Charge‐Transfer‐Induced Multivalent States with Resultant Emergent Magnetism in Transition‐Metal Oxide Heterostructures </a>, <b>Advanced Electronic Materials</b>, 2021, 7(1): 2000803. <b>Selected as Cover Picture</b></p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1002/aelm.202000803"><img src="./journal-cover/2021-AdvElectronMater-issue1volume7.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
+ <tr> 
+   <td style="vertical-align: top; padding-right: 20px;"> 
+     <p>27. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
+   </td> 
+   <td style="vertical-align: top;"> 
+     <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
+   </td> 
+ </tr> 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
     <p>26. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
