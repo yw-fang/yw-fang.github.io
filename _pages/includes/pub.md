@@ -199,9 +199,17 @@ There're several papers that are under review. However, I'll only show the ones 
     <a href="http://doi.org/10.1002/aelm.202000803"><img src="./journal-cover/2021-AdvElectronMater-issue1volume7.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <p>27. Rui-Qi Wang; <b>Yue-Wen Fang</b>; Tian-Min Lei, <a href="http://doi.org/10.1016/j.physe.2020.114424"> Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations </a>, <b>Physica E: Low-dimensional Systems and Nanostructures</b>, 2021, 126: 114424.</p>
+  </td>
+  <td style="vertical-align: top;">
+    <a href="http://doi.org/10.1016/j.physe.2020.114424"><img src="./journal-cover/Physica-E-Cover.jpg" alt="cover" width="500"></a>
+  </td>
+</tr>
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>27. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://doi.org/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
+     <p>26. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://doi.org/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
@@ -209,19 +217,11 @@ There're several papers that are under review. However, I'll only show the ones 
  </tr> 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>26. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
+    <p>25. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
 Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): .</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1103/PhysRevB.102.144418"><img src="./journal-cover/PRB2020-vol102iss14-cover.jpg" alt="cover" width="500"></a>
-  </td>
-</tr>
-<tr>
-  <td style="vertical-align: top; padding-right: 20px;">
-    <p>25. Rui-Qi Wang; <b>Yue-Wen Fang</b>; Tian-Min Lei, <a href="http://doi.org/10.1016/j.physe.2020.114424"> Theoretical study on the magnetic anisotropy of monolayer iron from Orbital Selective External Potential calculations </a>, <b>Physica E: Low-dimensional Systems and Nanostructures</b>, 2021, 126: 114424.</p>
-  </td>
-  <td style="vertical-align: top;">
-    <a href="http://doi.org/10.1016/j.physe.2020.114424"><img src="./journal-cover/Physica-E-Cover.jpg" alt="cover" width="500"></a>
   </td>
 </tr>
 <tr>
