@@ -209,7 +209,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>26. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://doi.org/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
+     <p>26. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://doi.org/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b>, 2020, 102(24): 241113(R).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
@@ -218,7 +218,7 @@ There're several papers that are under review. However, I'll only show the ones 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
     <p>25. Yuanyuan Jiao†; <b>Yue-Wen Fang</b>†; Jianping Sun; Pengfei Shan; Zhenhai Yu; Hai L. Feng; Bosen Wang; Hanming Ma; Yoshiya Uwatoko; Kazunari Yamaura; Yanfeng Guo*; Hanghui Chen*; Jinguang Cheng*, <a href="http://doi.org/10.1103/PhysRevB.102.144418"> Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal
-Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): .</p>
+Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1103/PhysRevB.102.144418"><img src="./journal-cover/PRB2020-vol102iss14-cover.jpg" alt="cover" width="500"></a>
@@ -226,7 +226,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): .</p>
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>24. Hong Jian Zhao*; Peng Chen*; Charles Paillard; R\'emi Arras; <b>Yue-Wen Fang</b>; Xu Li; Julien Gosteau; Yurong Yang; Laurent Bellaiche*, <a href="http://doi.org/10.1103/PhysRevB.102.041203"> Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite </a>, <b>Physical Review B</b>, 2020, 102(4): 15.</p>
+    <p>24. Hong Jian Zhao*; Peng Chen*; Charles Paillard; R\'emi Arras; <b>Yue-Wen Fang</b>; Xu Li; Julien Gosteau; Yurong Yang; Laurent Bellaiche*, <a href="http://doi.org/10.1103/PhysRevB.102.041203"> Large spin splittings due to the orbital degree of freedom and spin textures in a ferroelectric nitride perovskite </a>, <b>Physical Review B</b>, 2020, 102(4): 041203(R).</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1103/PhysRevB.102.041203"><img src="./journal-cover/PRB2020-vol102iss4-cover.jpg" alt="cover" width="500"></a>
