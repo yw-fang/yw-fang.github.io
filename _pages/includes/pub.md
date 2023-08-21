@@ -201,10 +201,10 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>27. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
+     <p>27. W. Zhang, Y. J. Hu, C. N. Kuo, S. T. Kuo, <strong>Yue-Wen Fang</strong>, Kwing To Lai, X. Y. Liu, K. Y. Yip, D. Sun, F. F. Balakirev, C. S. Lue, Hanghui Chen, and Swee K. Goh, "<a href="https://doi.org/10.1103/PhysRevB.102.241113">Linear magnetoresistance with a universal energy scale in a strong-coupling superconductor Mo8Ga41 without quantum criticality</a>", <b>Physical Reivew B</b> 102, 241113(R) (2020).</p> 
    </td> 
    <td style="vertical-align: top;"> 
-     <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
+     <a href="https://doi.org/10.1103/PhysRevB.102.241113"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
    </td> 
  </tr> 
 <tr>
