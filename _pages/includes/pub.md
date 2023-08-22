@@ -284,7 +284,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>17. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, <b>Y.-W. Fang</b>, et al. "<a href="https://doi.org/10.1021/acsphotonics.7b01339">Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces</a>", <b>ACS Photonics</b> 5, 1041 (2018)</p>
+    <p>17. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, <b>Y.-W. Fang</b>, Yuan-Min Zhu, Qian Zhan, Lin Xie, Xiao-Qing Pan, Ya-Ping Chiu, Chun-Gang Duan, Jr-Hau He, and Ying-Hao Chu*. "<a href="https://doi.org/10.1021/acsphotonics.7b01339">Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces</a>", <b>ACS Photonics</b> 5(3): 1041-1049 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1021/acsphotonics.7b01339"><img src="./journal-cover/17-cover.png" alt="cover" width="500"></a>
@@ -293,7 +293,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>16. W. Huang, <b>Y.-W. Fang</b>, Y. Yin, B. Tian, W. Zhao, C. Hou, C. Ma, Q. Li, C.-G. Duan, X. Li, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10, 5649 (2018)</p>
+    <p>16. Weichuan Huang, <b>Yue-Wen Fang</b>, Yuewei Yin*, Bobo Tian, Wenbo Zhao, Chuangming Hou, Chao Ma†, Qi Li, Evgeny Y. Tsymbal, Chun-Gang Duan*, and Xiaoguang Li*, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10(6): 5649-5656 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1021/acsami.7b18206"><img src="./journal-cover/16-cover.png" alt="cover" width="500"></a>
@@ -301,7 +301,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>15. L. Sun, <b>Y.-W. Fang</b>†, J. He, Y. Zhang, R. Qi, Q. He, R. Huang, P. Xiang, X. Tang, P. Yang, J. Chu, Y.-H. Chu, and C.-G. Duan, "<a href="https://doi.org/10.1039/C7TC00974G">Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6</a>", <b>Journal of Materials Chemistry C</b> 5, 5494 (2017)</p>
+    <p>15. Lin Sun†, <b>Yue-Wen Fang†</b>,  Jun He, Yuanyuan Zhang, Ruijuan Qi, Qing He, Rong Huang,  Pinghua Xiang, Xiao-Dong Tang, Pingxiong Yang, Junhao Chu, Ying-Hao Chu*, Chun-Gang Duan*, "<a href="https://doi.org/10.1039/C7TC00974G">Preparation, structural, and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6</a>", <b>Journal of Materials Chemistry C</b> 5:  5494-5500 (2017)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1039/C7TC00974G"><img src="./journal-cover/15-cover.png" alt="cover" width="500"></a>
