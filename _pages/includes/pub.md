@@ -268,7 +268,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>19. E. I. Paredes Aulestia, Y. W. Cheung, <b>Y.-W. Fang</b>, J. He, K. Yamaura, K. T. Lai, S. K. Goh, H. Chen, "<a href="https://doi.org/10.1063/1.5035133">Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3</a>", <b>Applied Physics Letters</b> 113, 012902 (2018)</p>
+    <p>19. Esteban I. Paredes Aulestia; Yiu Wing Cheung; <b>Yue-Wen Fang</b>; Jianfeng He; Kazunari Yamaura; Kwing To Lai; Swee K. Goh*; Hanghui Chen*, "<a href="https://doi.org/10.1063/1.5035133">Pressure-induced enhancement of non-polar to polar transition temperature in metallic LiOsO3</a>", <b>Applied Physics Letters</b> 113, 012902 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1063/1.5035133"><img src="./journal-cover/19-cover.jpeg" alt="cover" width="500"></a>
@@ -276,7 +276,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>18. M. Abdel-Hafiez, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, <b>Y.-W. Fang</b>, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "<a href="https://doi.org/10.1103/PhysRevB.97.134508">High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2</a>", <b>Physical Review B</b> 97 (2018)</p>
+    <p>18. M. Abdel-Hafiez*, Y. Zhao, Z. Huang, C. w. Cho, C. H. Wong, A. Hassen, M. Ohkuma, <b>Y.-W. Fang</b>, B. J. Pan, Z. A. Ren, A. Sadakov, A. Usoltsev, V. Pudalov, M. Mito, R. Lortz, C. Krellner, W. Yang, "<a href="https://doi.org/10.1103/PhysRevB.97.134508">High-pressure effects on isotropic superconductivity in the iron-free layered pnictide superconductor BaPd2As2</a>", <b>Physical Review B</b> 97(13):134508 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.97.134508"><img src="./journal-cover/18-cover.png" alt="cover" width="500"></a>
