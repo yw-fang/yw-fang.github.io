@@ -250,7 +250,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>21. Xin-Wei Shen; <b>Yue-Wen Fang</b>; Bo-Bo Tian; Chun-Gang Duan, <a href="http://doi.org/10.1021/acsaelm.9b00146"> Two-Dimensional Ferroelectric Tunnel Junction: The Case of Monolayer In:SnSe/SnSe/Sb:SnSe Homostructure </a>, <b>ACS Applied Electronic Materials</b>, 2019, 1(7): 1133--1140.  <b>Selected as Editors' Choice</b> </p>
+    <p>21. Xin-Wei Shen; <b>Yue-Wen Fang</b>*; Bo-Bo Tian; Chun-Gang Duan*, <a href="http://doi.org/10.1021/acsaelm.9b00146"> Two-Dimensional Ferroelectric Tunnel Junction: The Case of Monolayer In:SnSe/SnSe/Sb:SnSe Homostructure </a>, <b>ACS Applied Electronic Materials</b>, 2019, 1(7): 1133--1140.  <b>Selected as Editors' Choice</b> </p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1021/acsaelm.9b00146"><img src="./journal-cover/acsaelm-2019.1.issue-7.jpg" alt="cover" width="500"></a>
@@ -258,7 +258,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>20. Yang Shen; Jia Cai; Hang‐Chen Ding; Xin‐Wei Shen; <b>Yue‐Wen Fang</b>; Wen‐Yi Tong; Xian‐Gang Wan; Qingbiao Zhao; Chun‐Gang Duan, <a href="http://doi.org/10.1002/adts.201900029"> Role of Lone‐Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study </a>, <b>Adv. Theory Simul.</b>, 2019, 2(6): 1900029.</p>
+    <p>20. Yang Shen; Jia Cai; Hang‐Chen Ding; Xin‐Wei Shen; <b>Yue‐Wen Fang</b>; Wen‐Yi Tong; Xian‐Gang Wan; Qingbiao Zhao; Chun‐Gang Duan*, <a href="http://doi.org/10.1002/adts.201900029"> Role of Lone‐Pairs in Driving Ferroelectricity of Perovskite Oxides: An Orbital Selective External Potential Study </a>, <b>Adv. Theory Simul.</b>, 2019, 2(6): 1900029.</p>
   </td>
   <td style="vertical-align: top;">
     <a href="http://doi.org/10.1002/adts.201900029"><img src="./journal-cover/advtheorysimul.jpg" alt="cover" width="500"></a>
