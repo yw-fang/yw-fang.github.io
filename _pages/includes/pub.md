@@ -293,7 +293,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>16. Weichuan Huang, <b>Yue-Wen Fang</b>, Yuewei Yin*, Bobo Tian, Wenbo Zhao, Chuangming Hou, Chao Ma†, Qi Li, Evgeny Y. Tsymbal, Chun-Gang Duan*, and Xiaoguang Li*, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10(6): 5649-5656 (2018)</p>
+    <p>16. Weichuan Huang, <b>Yue-Wen Fang</b>, Yuewei Yin*, Bobo Tian, Wenbo Zhao, Chuangming Hou, Chao Ma, Qi Li, Evgeny Y. Tsymbal, Chun-Gang Duan*, and Xiaoguang Li*, "<a href="https://doi.org/10.1021/acsami.7b18206">Solid-State Synapse Based on Magnetoelectrically Coupled Memristor</a>", <b>ACS Applied Materials & Interfaces</b> 10(6): 5649-5656 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1021/acsami.7b18206"><img src="./journal-cover/16-cover.png" alt="cover" width="500"></a>
