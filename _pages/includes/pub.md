@@ -284,7 +284,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>17. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, <b>Y.-W. Fang</b>, Yuan-Min Zhu, Qian Zhan, Lin Xie, Xiao-Qing Pan, Ya-Ping Chiu, Chun-Gang Duan, Jr-Hau He, and Ying-Hao Chu*. "<a href="https://doi.org/10.1021/acsphotonics.7b01339">Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces</a>", <b>ACS Photonics</b> 5(3): 1041-1049 (2018)</p>
+    <p>17. Heng-Jui Liu, Jing-Ching Wang, Deok-Yong Cho, Kang-Ting Ho, Jheng-Cyuan Lin, Bo-Chao Huang, <b>Yue-Wen Fang</b>, Yuan-Min Zhu, Qian Zhan, Lin Xie, Xiao-Qing Pan, Ya-Ping Chiu, Chun-Gang Duan, Jr-Hau He, and Ying-Hao Chu*. "<a href="https://doi.org/10.1021/acsphotonics.7b01339">Giant Photoresponse in Quantized SrRuO3 Monolayer at Oxide Interfaces</a>", <b>ACS Photonics</b> 5(3): 1041-1049 (2018)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1021/acsphotonics.7b01339"><img src="./journal-cover/17-cover.png" alt="cover" width="500"></a>
