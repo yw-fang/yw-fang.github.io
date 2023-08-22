@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.08*: 🎉🎉 I got the European Physical Society (EPS) award at the CCP2023 - 34th IUPAP Conference on Computational Physics
+- *2023.08*: 🎉🎉 I got the <b>European Physical Society (EPS) award</b> at the CCP2023 - 34th IUPAP Conference on Computational Physics
 - *2023.07*: 🎉🎉 The research on the self-enhancement of water electrolysis resulted from the collaboration with Heng-Jui Liu's group has been accepted in <b>ACS Nano</b>, where I'm the corresponding author.
 - *2023.07*: 🎉🎉 The research on the enhancement of ferroelectricity in BiFeO3 by the anion engineering, collaboratively conducted by Linxing Zhang's and Zhao Pan's groups, has been accepted in <b>Materials Horizons</b>, where I provided all the theoretical support and acted as a corresponding author.
 - *2023.06*: 🎉🎉 The research on superconducting helium, collaboratively conducted by Claudio Cazorla's, Jian Sun's, Ion Errea's, and Chris Pickard's groups, has been accepted in <b>Nature Communications</b>, where I provided the computations of quantum anharmonic effect of helium.
