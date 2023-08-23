@@ -381,7 +381,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>5. T. A. Abdel-Baset, <b>Y.-W. Fang</b>, B. Anis, C.-G. Duan and M. Abdel-Hafiez, "<a href="https://doi.org/10.1186/s11671-016-1332-x">Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O</a>", <b>Nanoscale Research Letters (Now, Discover Nano) </b> 11, 115 (2016)</p>
+    <p>5. T. A. Abdel-Baset, <b>Yue-Wen Fang</b>, B. Anis, Chun-Gang Duan & Mahmoud Abdel-Hafiez*, "<a href="https://doi.org/10.1186/s11671-016-1332-x">Structural and Magnetic Properties of Transition-Metal-Doped Zn(1−x)Fe(x)O</a>", <b>Nanoscale Research Letters (Now, Discover Nano) </b> 11, 115 (2016)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1186/s11671-016-1332-x"><img src="./journal-cover/5-cover.png" alt="cover" width="500"></a>
@@ -398,7 +398,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>3. Y.-L. Han, <b>Y.-W. Fang</b>†, Z.-Z. Yang, C.-J. Li, L. He, S.-C. Shen, Z.-Z. Luo, G.-L. Qu, C.-M. Xiong, R.-F. Dou, X. Wei, L. Gu, C.-G. Duan and J.-C. Nie., "<a href="https://doi.org/10.1103/PhysRevB.92.115304">Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces</a>", <b>Physical Review B</b> 92, 115304 (2015)</p>
+    <p>3. Yin-Long Han†, <b>Yue-Wen Fang</b>†, Zhen-Zhong Yang†, Cheng-Jian Li, Lin He, Sheng-Chun Shen, Zhong-Zhong Luo, Guo-Liang Qu, Chang-Min Xiong, Rui-Fen Dou, Xiao Wei*, Lin Gu*, Chun-Gang Duan*, and Jia-Cai Nie*, "<a href="https://doi.org/10.1103/PhysRevB.92.115304">Two-Dimensional Electron Gas at Multivalent (110) LaAlO3/SrTiO3 Interfaces</a>", <b>Physical Review B</b> 92, 115304 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1103/PhysRevB.92.115304"><img src="./journal-cover/3-cover.png" alt="cover" width="500"></a>
@@ -406,7 +406,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>2. <b>Y.-W. Fang</b>, H.-C. Ding, W.-Y. Tong, W.-J. Zhu, X. Shen, S.-J. Gong, X.-G. Wan and C.-G. Duan., "<a href="https://doi.org/10.1007/s11434-014-0628-4">First-Principles Studies of Multiferroic and Magnetoelectric Materials</a>", <b>Science Bulletin</b> 2, 156 (2015)</p>
+    <p>2. <b>Yue-Wen Fang</b>, Hang-Chen Ding, Wen-Yi Tong, Wan-Jiao Zhu, Xin Shen, Shi-Jing Gong*, Xian- Gang Wan,Chun-Gang Duan*, "<a href="https://doi.org/10.1007/s11434-014-0628-4">First-Principles Studies of Multiferroic and Magnetoelectric Materials</a>", <b>Science Bulletin</b> 2, 156 (2015)</p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://doi.org/10.1007/s11434-014-0628-4"><img src="./journal-cover/2-cover.png" alt="cover" width="500"></a>
@@ -414,7 +414,7 @@ Pb2CoOsO6 under pressure </a>, <b>Physical Review B</b>, 2020, 102(14): 144418.<
 </tr>
 <tr>
   <td style="vertical-align: top; padding-right: 20px;">
-    <p>1. <b>Y.-W. Fang</b>, Y.-C. Gao, S.-J. Gong and C.-G. Duan, "<a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Progress in Physics (China)</b> 33, 382 (2013) </p>
+    <p>1. <b>Yue-Wen Fang</b>, Yong-Chao Gao, Shi-Jing Gong, Chun-Gang Duan*, "<a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382">Advances in Ferroelectric and Multiferroic Tunnel Junctions</a>", <b>Progress in Physics (China)</b> 33, 382 (2013) </p>
   </td>
   <td style="vertical-align: top;">
     <a href="https://pip.nju.edu.cn/CN/Y2013/V33/I6/382"><img src="./journal-cover/1-cover.png" alt="cover" width="500"></a>
