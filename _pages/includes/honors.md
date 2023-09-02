@@ -1,7 +1,7 @@
 # 🎖 Honors and Awards
-- *2023.08.07* **European Physical Society (EPS) award** at CCP2023 - 34th IUPAP Conference on Computational Physics
-- *2023.04.04* [**MSCA Seal of Excellence**](./certficates/SealOfExcellence-2023April4.pdf) by European Commission
-- *2022.04.26* [**2021 Outstanding Reviewer Awards**](./certficates/OutstandingReviewerAwards2021-IOP-Publishing.pdf) by Institute of Physics (IOP) Publishing
+- *2023.08.07* [**European Physical Society (EPS) award**](./certficates/awards/EPS-award-CCP2023.pdf) at CCP2023 - 34th IUPAP Conference on Computational Physics
+- *2023.04.04* [**MSCA Seal of Excellence**](./certficates/awards/SealOfExcellence-2023April4.pdf) by European Commission
+- *2022.04.26* [**2021 Outstanding Reviewer Awards**](./certficates/awards/OutstandingReviewerAwards2021-IOP-Publishing.pdf) by Institute of Physics (IOP) Publishing
 - *2022.02.16* **IOP Trusted Reviewer status** by Institute of Physics (IOP) Publishing
 - *2019.07.21* **Certificate of ACS Reviewer Lab** by American Chemical Society
 - *2017.06* **Awardee of International Open International Grant Competition** by Ministry of Education and Science
