@@ -32,8 +32,29 @@
 
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh) -->
 
-# 💻 Internships
-- *2011.05 - 2011.06* Student Internship @ Shanghai Baosteel Group Corporation, China  (R$\&$D center)
+# 💻 Service
+## Review & editing
+- Reviewer for 20 journals including Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials;
+Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials;
+Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society;
+Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology.
+- Reviewer for Horizon European grant EURIZON Fellowship in 2023.
+- Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
+- [Youth Editor](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf)  of the Editorial Board from early 2023 to the end of 2024 of Acta Metallurgica Sinica (English Letters).
+
+## Committee
+- Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
+- [Member](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/conference-committee/AMEE2023-TPC.pdf) of Conference Committee of 2023 5th International Conference on Advanced Materials and Ecological Environment
+
+## Outreach
+- A science volunteer in the “scale up your world” workshop in the Science Week
+  of UPV/EHU, Tabakalera, San Sebastian, (Spain), 2022 Nov. 12.
+- “A life for science” oral communication and poster presentation in the
+  Science Meuseum of San Sebastian (Spain), 2022 October [17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct17-science-meusem-certificate.pdf) and [24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct24-science-meusem-certificate.pdf). The
+lecture can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ).
+- Plenary presentation in the “Science Forum for Young Generations”, China. (2013 September 13)
+
+<!-- - *2011.05 - 2011.06* Student Internship @ Shanghai Baosteel Group Corporation, China  (R$\&$D center) -->
 <!-- - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou. -->
 <!-- - *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou. -->
 <!-- - *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing. -->
