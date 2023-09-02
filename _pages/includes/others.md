@@ -34,7 +34,7 @@
 
 # 💻 Service
 ## Review & editing
-- Reviewer for 20 journals including Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials;
+- Reviewer for journals including Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials;
 Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials;
 Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society;
 Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology.
