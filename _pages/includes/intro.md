@@ -8,7 +8,7 @@ Dr. Hanghui Chen at New York University Shanghai from March 2017. Yuewen receive
 Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. During his PhD, he spent eight months at the R&D center of Japan Fine
 Ceramics Center (Nagoya, Japan) from March 2016 to October 2016. Yuewen completed his BSc in Physics from Xiangtan University in 2012 and received 
 training in molecular dynamics simulations under the supervision of Prof. Kaiwang Zhang from 2009 to 2012. In 2011, he also interned for R&D at 
-Shanghai Baosteel Group Corporation for one month. </p>
+Shanghai Baosteel Group Corporation from May to June. </p>
 
 
 <p> Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
