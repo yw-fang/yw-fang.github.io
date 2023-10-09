@@ -12,7 +12,7 @@
 - Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS march meeting, US, March 2021
 - Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", Academic presentation online workshop of Tokyo Tech, Yokohama, Japan, Feburary 2021
 - Oral talk: "Design of polar metals from first-principles calculations", MSL Young Researchers Presentation of Tokyo Tech, Yokohama, Japan, January 2021
-- Oral talk: "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
+- Invited talk: "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
 - Oral talk (specially invited): "Design of polar metal and thermoelectric materials from high-throughput calculations", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 - Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, US, March, 2019
 - Invited talk: "Emergent phenomena at the complex oxide interfaces", Japan Fine Ceramics Centers, Nagoya, Japan, April 4, 2016
