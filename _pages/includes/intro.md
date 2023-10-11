@@ -1,6 +1,6 @@
 <div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
 <p> Yuewen Fang was born in Zhejiang Province, China, and is a proud father of two daughters. He is currently working as a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at UPV/EHU. 
-Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
+Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked with Masaki Azuma's group as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
 <!-- Yuewen has also been offered an Associate Professor position at Ningbo University in May 2021.  -->
 Prior to that, he worked as a program-specific researcher 
 in the laboratory of Prof. Isao Tanaka at Kyoto University from November 1st, 2017, to March 31st, 2020. He was also a visiting academic in the group of 
