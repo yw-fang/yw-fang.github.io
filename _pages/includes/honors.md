@@ -7,8 +7,8 @@
 - *2017.06* **Awardee of International Open International Grant Competition** by Ministry of Education and Science
 - *2017.03* **Studentship Program of Physics** of NYU-ECNU Institute of Physics at NYU Shanghai
 - *2016.12* **Early Career Scientist Award** by Key Laboratory of Polar Materials and Devices Ministry of Education, ECNU
-- *2015.12* **Global Mobility Fellowship** by East China Normal University (Top 1%)
-- *2011* **National Endeavor Fellowship** by Ministry of Education of China (Top 1%)
+- *2015.12* **ECNU fund for overseas visit** by East China Normal University
+- *2011* **National Endeavor Fellowship** by Ministry of Education of China
 - *2010* **The Outstanding Volunteer of Hunan Province** (69/province/year)
 <!-- - *2021.10* Tencent Scholarship (Top 1%) -->
 <!-- - *2021.10* National Scholarship (Top 1%) -->
