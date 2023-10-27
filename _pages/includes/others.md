@@ -38,7 +38,7 @@
 - Reviewer for journals including Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; APL Materials; Journal of applied physics; npj Computational Materials;
 Advanced Science; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials;
 Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society;
-Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology; Materials Research Express
+Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology; Materials Research Express; Journal of Physics Communications
 - Code reviewer for codes submitted to Journal of Open Source Software.
 - [Reviewer](./certficates/review-certificate/EURIZON2023-reviewer-ID78.pdf) for Horizon European grant EURIZON Fellowship in 2023 that is dedicated to support Ukrainian scientists and Ukrainian research infrastructures as well as strengthening the research infrastructures landscape in Europe
 - Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
