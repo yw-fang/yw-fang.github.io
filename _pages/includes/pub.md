@@ -10,7 +10,7 @@ There're several papers that are under review. However, I'll only show the ones 
 
 - [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), 1st and corresponding author
 - [Prediction of Ambient Pressure Conventional Superconductivity above 80K in Thermodynamically Stable Hydride Compounds](https://arxiv.org/abs/2310.06804)
-- [Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4546830), corresponding author
+- [Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4546830), corresponding author, accepted at Acta Materialia
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
