@@ -58,7 +58,7 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>45. Feiyu Qin, Lei Hu*, Yingcai Zhu, Yuki Sakai, Shogo Kawaguchi, Akihiko Machida, Tetsu Watanuki, <b>Yue-Wen Fang*</b>, Jun Sun, Xiangdong Ding, Masaki Azuma, "<a href="https://doi.org/10.1016/j.actamat.2023.119544"Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons>
+    <p>45. Feiyu Qin, Lei Hu*, Yingcai Zhu, Yuki Sakai, Shogo Kawaguchi, Akihiko Machida, Tetsu Watanuki, <b>Yue-Wen Fang*</b>, Jun Sun, Xiangdong Ding, Masaki Azuma, "<a href="https://doi.org/10.1016/j.actamat.2023.119544">Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons
 </a>", <b>Acta Materialia</b>, 2023, online </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
