@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.11*: 🎉🎉 Two manuscripts, respectively collaborating with Lei at XJTU and Xia at UNL, have been accepted at <b>Acta Materialia</b> and <b>Nature Communications</b>, respectively.
 - *2023.08*: 🎉🎉 I got the <b>European Physical Society (EPS) award</b> at the CCP2023 - 34th IUPAP Conference on Computational Physics
 - *2023.07*: 🎉🎉 The research on the self-enhancement of water electrolysis resulted from the collaboration with Heng-Jui Liu's group has been accepted in <b>ACS Nano</b>, where I'm the corresponding author.
 - *2023.07*: 🎉🎉 The research on the enhancement of ferroelectricity in BiFeO3 by the anion engineering, collaboratively conducted by Linxing Zhang's and Zhao Pan's groups, has been accepted in <b>Materials Horizons</b>, where I provided all the theoretical support and acted as a corresponding author.
