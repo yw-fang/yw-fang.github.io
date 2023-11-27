@@ -28,7 +28,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 46 scientific papers (36 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 23 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 47 scientific papers (37 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 23 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -57,8 +57,18 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>47. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href=""Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering
+>
+</a>", <b>Nature Communications</b>, 2023, accepted </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https:"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>46. Feiyu Qin, Lei Hu*, Yingcai Zhu, Yuki Sakai, Shogo Kawaguchi, Akihiko Machida, Tetsu Watanuki, <b>Yue-Wen Fang*</b>, Jun Sun, Xiangdong Ding, Masaki Azuma, "<a href="https://doi.org/10.1016/j.actamat.2023.119544">Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons
-</a>", <b>Acta Materialia</b>, 2023, online </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+</a>", <b>Acta Materialia</b>, 264, 119544, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1016/j.actamat.2023.119544"><img src="./journal-cover/acta-materialia.jpg" alt="cover" width="500"></a> 
