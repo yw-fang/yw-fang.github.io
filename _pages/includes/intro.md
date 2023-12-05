@@ -21,7 +21,7 @@ and
 </p>
 
 <p> Yuewen serves as a Youth Editor of the <b>Editorial Board</b> of Acta Metallurgica Sinica (English Letters) [<b>JCR Q1</b>]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
-Up till now, he has contributed <span style="color: blue;">114 verified peer reviews</span> to 24 peer-reviewed journals such as 
+Up till now, he has contributed <span style="color: blue;">116 verified peer reviews</span> to 24 peer-reviewed journals such as 
 Physical Review Letters.
 </p>
 </div> 
