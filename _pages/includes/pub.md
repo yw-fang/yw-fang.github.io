@@ -57,9 +57,8 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>47. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href="https://doi.org/10.1038/s41467-023-44036-x"Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering
->
-</a>", <b>Nature Communications</b>, 2023, accepted </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>47. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href="https://doi.org/10.1038/s41467-023-44036-x">Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering
+</a>", <b>Nature Communications</b>, 14, 8247, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https:https://doi.org/10.1038/s41467-023-44036-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
