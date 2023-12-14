@@ -28,7 +28,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 47 scientific papers (37 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 23 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 48 scientific papers (38 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 24 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -55,6 +55,15 @@ There're several papers that are under review. However, I'll only show the ones 
        <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
      </td> 
    </tr>  -->
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>48. Yueyang Jia†, Qianqian Yang†, <b>Yue-Wen Fang*</b> , Yue Lu, Maosong Xie, Jianyong Wei, Jianjun Tian, Linxing Zhang*, Rui Yang*, "<a href="https:">Giant Tunnelling Electroresistance in Atomic-Scale Ferroelectric Tunnel Junctions
+</a>", <b>Nature Communications</b>, accepted 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https:https://"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>47. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href="https://doi.org/10.1038/s41467-023-44036-x">Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.12*: 🎉🎉 Based on the bismuth oxide at [**Science**](https://doi.org/10.1126/science.abm5134), our work on ferrolelectric tunnel junctions has been accepted at  <b>Nature Communications</b>
 - *2023.11*: 🎉🎉 Two manuscripts, respectively collaborating with Lei at XJTU and Xia at UNL, have been accepted at <b>Acta Materialia</b> and <b>Nature Communications</b>, respectively.
 - *2023.08*: 🎉🎉 I got the <b>European Physical Society (EPS) award</b> at the CCP2023 - 34th IUPAP Conference on Computational Physics
 - *2023.07*: 🎉🎉 The research on the self-enhancement of water electrolysis resulted from the collaboration with Heng-Jui Liu's group has been accepted in <b>ACS Nano</b>, where I'm the corresponding author.
