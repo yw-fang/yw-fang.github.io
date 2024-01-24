@@ -9,7 +9,6 @@
 There're several papers that are under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
 
 - [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), 1st and corresponding author
-- [Prediction of Ambient Pressure Conventional Superconductivity above 80K in Thermodynamically Stable Hydride Compounds](https://arxiv.org/abs/2310.06804)
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
@@ -28,7 +27,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 48 scientific papers (38 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 24 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 51 scientific papers (41 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 27 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -57,6 +56,33 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/"Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction>
+</a>", <b>Advanced Functional Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>50. Jie Tu†, <b>Yue-Wen Fang†</b>, Yue Lu†, Hangren Li,  Guoqiang Xi, Jiaqi Ding,  Xudong Liu, Xiuqiao Liu,  Qianqian Yang,  Jianjun Tian, and Linxing Zhang* "<a href="https://doi.org/"Strain-controlled oxygen vacancy for robust ferroelectric BiSmFe2O6-d double-perovskite epitaxial thin films>
+</a>", <b>Applied Physical Reviews</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>49. Antonio Sanna, Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Alfred Ludwig, Miguel A. L. Marques*, "<a href="https://doi.org/"Prediction of Ambient Pressure Conventional Superconductivity above 80K in Hydride Compounds>
+</a>", <b>npj Computational Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>48. Yueyang Jia†, Qianqian Yang†, <b>Yue-Wen Fang*</b> , Yue Lu, Maosong Xie, Jianyong Wei, Jianjun Tian, Linxing Zhang*, Rui Yang*, "<a href="https://doi.org/10.1038/s41467-024-44927-7">Giant Tunnelling Electroresistance in Atomic-Scale Ferroelectric Tunnel Junctions
 </a>", <b>Nature Communications</b>, 15, 693, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
@@ -66,20 +92,20 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>47. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href="https://doi.org/10.1038/s41467-023-44036-x">Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering
-</a>", <b>Nature Communications</b>, 14, 8247, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
-  </td> 
-  <td style="vertical-align: top;"> 
-    <a href="https://doi.org/10.1038/s41467-023-44036-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
-  </td> 
-</tr>
-<tr> 
-  <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>46. Feiyu Qin, Lei Hu*, Yingcai Zhu, Yuki Sakai, Shogo Kawaguchi, Akihiko Machida, Tetsu Watanuki, <b>Yue-Wen Fang*</b>, Jun Sun, Xiangdong Ding, Masaki Azuma, "<a href="https://doi.org/10.1016/j.actamat.2023.119544">Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons
+    <p>47. Feiyu Qin, Lei Hu*, Yingcai Zhu, Yuki Sakai, Shogo Kawaguchi, Akihiko Machida, Tetsu Watanuki, <b>Yue-Wen Fang*</b>, Jun Sun, Xiangdong Ding, Masaki Azuma, "<a href="https://doi.org/10.1016/j.actamat.2023.119544">Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)2Re2O7 via synergy of local structure distortion and soft acoustic phonons
 </a>", <b>Acta Materialia</b>, 264, 119544, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1016/j.actamat.2023.119544"><img src="./journal-cover/acta-materialia.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>46. Yifei Hao†, Xuegang Chen†, Le Zhang, Myung-Geun Han, Wei Wang, <b>Yue-Wen Fang</b>, Hanghui Chen, Yimei Zhu, Xia Hong*, "<a href="https://doi.org/10.1038/s41467-023-44036-x">Record High Room Temperature Resistance Switching in Ferroelectric-Gated Mott Transistors Unlocked by Interfacial Charge Engineering
+</a>", <b>Nature Communications</b>, 14, 8247, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1038/s41467-023-44036-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
