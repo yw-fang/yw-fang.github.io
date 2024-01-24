@@ -57,11 +57,11 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>48. Yueyang Jia†, Qianqian Yang†, <b>Yue-Wen Fang*</b> , Yue Lu, Maosong Xie, Jianyong Wei, Jianjun Tian, Linxing Zhang*, Rui Yang*, "<a href="https:">Giant Tunnelling Electroresistance in Atomic-Scale Ferroelectric Tunnel Junctions
-</a>", <b>Nature Communications</b>, accepted 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>48. Yueyang Jia†, Qianqian Yang†, <b>Yue-Wen Fang*</b> , Yue Lu, Maosong Xie, Jianyong Wei, Jianjun Tian, Linxing Zhang*, Rui Yang*, "<a href="https://doi.org/10.1038/s41467-024-44927-7">Giant Tunnelling Electroresistance in Atomic-Scale Ferroelectric Tunnel Junctions
+</a>", <b>Nature Communications</b>, 15, 693, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https:https://"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41467-024-44927-7"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
@@ -70,7 +70,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </a>", <b>Nature Communications</b>, 14, 8247, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https:https://doi.org/10.1038/s41467-023-44036-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41467-023-44036-x"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
