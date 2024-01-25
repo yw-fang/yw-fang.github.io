@@ -6,6 +6,7 @@
 
 # 💬 Presentations 
 ## Oral talks
+- Invited keynote talk: "Informatics-enabled Quantum Materials Design", International Workshop on Informatics With Application 2024, San Sebastian, Spain, Jan 24, 2024
 - Oral talk: "High-throughput DFT prediction of superhydrides and ferroelectrics", CCP2023 - 34th IUPAP Conference on Computational Physics, Kobe, Japan, August 5, 2023
 - Oral talk: "High-Throughput First-Principles Predictions of Polar Materials", International FAIR-DI Conference on a FAIR Data Infrastructure for Materials Genomics, Shanghai University (hybdrid), China/Germany/US, July 14 2022
 - Invited talk："Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
