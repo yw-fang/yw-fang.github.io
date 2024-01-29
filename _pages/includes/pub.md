@@ -27,7 +27,7 @@ There're several papers that are under review. However, I'll only show the ones 
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 51 scientific papers (41 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 27 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 52 scientific papers (41 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 28 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -54,6 +54,15 @@ There're several papers that are under review. However, I'll only show the ones 
        <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
      </td> 
    </tr>  -->
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/"Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3>
+</a>", <b>Journal of Applied Physics</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/"Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction>
