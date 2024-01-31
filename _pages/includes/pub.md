@@ -56,7 +56,7 @@ There're several papers that are under review. However, I'll only show the ones 
    </tr>  -->
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/"Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3>
+    <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/">Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3
 </a>", <b>Journal of Applied Physics</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
@@ -65,7 +65,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/"Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction>
+    <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/">Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction
 </a>", <b>Advanced Functional Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
@@ -74,7 +74,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>50. Jie Tu†, <b>Yue-Wen Fang†</b>, Yue Lu†, Hangren Li,  Guoqiang Xi, Jiaqi Ding,  Xudong Liu, Xiuqiao Liu,  Qianqian Yang,  Jianjun Tian, and Linxing Zhang* "<a href="https://doi.org/10.1063/5.0174252"Strain-controlled oxygen vacancy for robust ferroelectric BiSmFe2O6-d double-perovskite epitaxial thin films>
+    <p>50. Jie Tu†, <b>Yue-Wen Fang†</b>, Yue Lu†, Hangren Li,  Guoqiang Xi, Jiaqi Ding,  Xudong Liu, Xiuqiao Liu,  Qianqian Yang,  Jianjun Tian, and Linxing Zhang* "<a href="https://doi.org/10.1063/5.0174252">Strain-controlled oxygen vacancy for robust ferroelectric BiSmFe2O6-d double-perovskite epitaxial thin films
 </a>", <b>Applied Physical Reviews</b>, 11, 011413, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
@@ -83,7 +83,7 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>49. Antonio Sanna, Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Alfred Ludwig, Miguel A. L. Marques*, "<a href="https://doi.org/"Prediction of Ambient Pressure Conventional Superconductivity above 80K in Hydride Compounds>
+    <p>49. Antonio Sanna, Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Alfred Ludwig, Miguel A. L. Marques*, "<a href="https://doi.org/">Prediction of Ambient Pressure Conventional Superconductivity above 80K in Hydride Compounds
 </a>", <b>npj Computational Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
