@@ -65,11 +65,11 @@ There're several papers that are under review. However, I'll only show the ones 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/">Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction
-</a>", <b>Advanced Functional Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>51. Dongxing Zheng†, <b>Yue-Wen Fang†</b>, Yan Wen, Kepeng Song, Yan Li, Bin Fang, Chenhui Zhang, Aitian Chen, Chen Liu, Hanin Algaid, Meng Tang, Yinchang Ma, Peng Li, and Xixiang Zhang*, "<a href="https://doi.org/10.1002/adfm.202312746">Field-free switching of magnetization in oxide superlattice by engineering the interfacial reconstruction
+</a>", <b>Advanced Functional Materials</b>, 2312746, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1002/adfm.202312746"><img src="./journal-cover/adfm.v34.5.cover.jpg" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
