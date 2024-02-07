@@ -1,6 +1,6 @@
 # 🔥 News
 
-- *2024.02*: 🎉🎉 Two works, collaborating with Dongxing at KAUST and Linxing at UTSB respectively, were published at [**Advanced Functional Materials**](https://doi.org/10.1002/adfm.202312746) and [**Applied Physical Reviews**](https://doi.org/10.1063/5.0174252)
+- *2024.02*: 🎉🎉 Two works, collaborating with Dongxing at KAUST and Linxing at UTSB respectively, were published at Advanced Functional Materials Applied Physical Reviews
 - *2024.01*: 🎉🎉 I am happy that my application to "la Caixa" Foundation Fellowships has been shortlisted while I probably will not proceed with it.
 - *2024.01*: 🎉🎉 Based on the former work at [**Science**](https://doi.org/10.1126/science.abm5134), the work on ferrolelectric tunnel junctions has been published at  [**Nature Communications**](https://doi.org/10.1038/s41467-024-44927-7)
 <!-- - *2023.11*: 🎉🎉 Two manuscripts, respectively collaborating with Lei at XJTU and Xia at UNL, have been accepted at <b>Acta Materialia</b> and <b>Nature Communications</b>, respectively. -->
