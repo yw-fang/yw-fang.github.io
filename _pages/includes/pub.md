@@ -6,8 +6,6 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
-There're several papers that are under review. However, I'll only show the ones that have appeared in the pre-print servers like ArXiv
-
 - [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), 1st and corresponding author
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
