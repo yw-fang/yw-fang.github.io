@@ -65,7 +65,7 @@
 </a>", <b>npj Computational Materials</b>, 10, 44, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/10.1038/s41524-024-01214-9"><img src="./journal-cover/" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41524-024-01214-9"><img src="./journal-cover/npj-computational-materials.jpg" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
