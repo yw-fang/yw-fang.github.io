@@ -34,11 +34,11 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/">Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3
-</a>", <b>Journal of Applied Physics</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1063/5.0191917">Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3
+</a>", <b>Journal of Applied Physics</b>, 135, 083902, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1063/5.0191917"><img src="./journal-cover/JAP-Feb2024.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
@@ -61,11 +61,11 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>49. Antonio Sanna, Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Alfred Ludwig, Miguel A. L. Marques*, "<a href="https://doi.org/">Prediction of Ambient Pressure Conventional Superconductivity above 80K in Hydride Compounds
-</a>", <b>npj Computational Materials</b>, accepted, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>49. Antonio Sanna, Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Alfred Ludwig, Miguel A. L. Marques*, "<a href="https://doi.org/10.1038/s41524-024-01214-9">Prediction of Ambient Pressure Conventional Superconductivity above 80K in Hydride Compounds
+</a>", <b>npj Computational Materials</b>, 10, 44, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/"><img src="./journal-cover/" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41524-024-01214-9"><img src="./journal-cover/" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
