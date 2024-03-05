@@ -6,7 +6,7 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
-- [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), 1st and corresponding author
+- [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), in principal accepted at Communications Materials
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
