@@ -1,5 +1,6 @@
 <div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
-<p> Yuewen Fang is currently working as a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at UPV/EHU and CFM. He is an upcoming tenured scientist (equivalent to tenured rank of Associate Professor) of Spanish National Research Council.
+<p> Yuewen Fang is currently working as a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at UPV/EHU and CFM. 
+<!-- He is an upcoming tenured scientist (equivalent to tenured rank of Associate Professor) of Spanish National Research Council. -->
 <!-- Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology.  -->
 <!-- Prior to that, he worked as a program-specific researcher -->
 <!-- in the laboratory of Prof. Isao Tanaka -->
