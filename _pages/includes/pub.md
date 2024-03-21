@@ -6,6 +6,7 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
+- [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496)
 - [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), in principal accepted at Communications Materials
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
