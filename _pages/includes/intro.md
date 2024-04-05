@@ -1,5 +1,5 @@
 <div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
-<p> Yuewen Fang is currently working as a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at UPV/EHU and CFM. 
+<p> Yuewen Fang is a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at Centro de Física de Materiales (CSIC-UPV/EHU), and is setting transition to a tenured scientist of CSIC. 
 <!-- He is an upcoming tenured scientist (equivalent to tenured rank of Associate Professor) of Spanish National Research Council. -->
 <!-- Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology.  -->
 <!-- Prior to that, he worked as a program-specific researcher -->
@@ -23,7 +23,7 @@ and
 
 <p>
 Yuewen serves as a Youth Editor of the Editorial Board of Acta Metallurgica Sinica (English Letters) [JCR Q1]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
-Up till now, he has contributed 121 verified peer reviews to 26 peer-reviewed journals such as Physical Review Letters.
+Up till now, he has contributed 127 verified peer reviews to 26 peer-reviewed journals such as Physical Review Letters.
 <!-- Up till now, he has contributed <span style="color: blue;">121 verified peer reviews</span> to 26 peer-reviewed journals such as Physical Review Letters. -->
 </p>
 </div> 
