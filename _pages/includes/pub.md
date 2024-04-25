@@ -7,7 +7,6 @@
 <b> †Co-first author; \*corresponding author </b>
 
 - [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496)
-- [Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system](https://arxiv.org/abs/2307.10699), in principal accepted at Communications Materials
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
@@ -26,13 +25,22 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 52 scientific papers (41 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 28 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 53 scientific papers (42 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 29 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>53. <b>Yue-Wen Fang*</b>, Đorđe Dangić* and Ion Errea*, "<a href="https://doi.org/10.1038/s43246-024-00500-9">Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system
+</a>", <b>Communications Materials</b>, 5, 61, 2024 </p> <a href="https://doi.org/10.5281/zenodo.8140540"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1038/s43246-024-00500-9"><img src="./journal-cover/communications-materials-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1063/5.0191917">Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3
