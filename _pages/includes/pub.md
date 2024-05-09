@@ -7,6 +7,7 @@
 <b> †Co-first author; \*corresponding author </b>
 
 - [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496)
+- Colossal ferroelectric photovoltaic effect in inequivalent double-perovskite Bi2FeMnO6 thin films, accepted by <b>Journal of the American Chemical Society</b>
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
