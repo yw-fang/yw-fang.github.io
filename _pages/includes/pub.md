@@ -7,7 +7,6 @@
 <b> †Co-first author; \*corresponding author </b>
 
 - [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496)
-- Colossal ferroelectric photovoltaic effect in inequivalent double-perovskite Bi2FeMnO6 thin films, accepted by <b>Journal of the American Chemical Society</b>
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
@@ -26,13 +25,22 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 53 scientific papers (42 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 29 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 54 scientific papers (43 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 30 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>54. Xudong Liu†, Jie Tu†, <b>Yue-Wen Fang†</b>, Guoqiang Xi, Hangren Li, Rong Wu, Xiuqiao Liu, Dongfei Lu, Jiushe He, Junwei Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1021/jacs.4c01702">Colossal Ferroelectric Photovoltaic Effect in Inequivalent Double-Perovskite Bi2FeMnO6 Thin Films
+</a>", <b>Journal of the American Chemical Society</b>, 2024 </p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1021/jacs.4c01702"><img src="./journal-cover/jacs-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>53. <b>Yue-Wen Fang*</b>, Đorđe Dangić* and Ion Errea*, "<a href="https://doi.org/10.1038/s43246-024-00500-9">Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system
