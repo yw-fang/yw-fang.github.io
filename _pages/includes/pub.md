@@ -6,7 +6,7 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
-- [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496)
+- [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496), accepted at Advanced Functional Materials
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
