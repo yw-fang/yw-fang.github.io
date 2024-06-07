@@ -5,21 +5,30 @@
 - *2005.09 - 2008.06*, Aiqing High School, Zhejiang Province, China
 
 # 💬 Presentations 
-## Oral talks
+## Conference talks
+- Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2-6 2024
+- Oral talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2-6 2024
+- Invited talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
+- Oral talk: "Searching Materials Space for Ambient-Pressure Superconducting Hydrides", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
+- Oral talk: "Prediction of high-temperature superconducting hydrides from high to ambient pressures", 7th International Conference on Matter and Radiation at Extremes (ICMRE2024), Hangzhou, China, May 14, 2024 (May13-17)
 - Invited keynote talk: "Informatics-enabled Quantum Materials Design", International Workshop on Informatics With Application 2024, San Sebastian, Spain, Jan 24, 2024
 - Oral talk: "High-throughput DFT prediction of superhydrides and ferroelectrics", CCP2023 - 34th IUPAP Conference on Computational Physics, Kobe, Japan, August 5, 2023
 - Oral talk: "High-Throughput First-Principles Predictions of Polar Materials", International FAIR-DI Conference on a FAIR Data Infrastructure for Materials Genomics, Shanghai University (hybdrid), China/Germany/US, July 14 2022
-- Invited talk："Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
 - Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", APS march meeting, US, March 2021
 - Oral talk: "Design of a multifunctional polar metal via first-principles high-throughput calculations", Academic presentation online workshop of Tokyo Tech, Yokohama, Japan, Feburary 2021
 - Oral talk: "Design of polar metals from first-principles calculations", MSL Young Researchers Presentation of Tokyo Tech, Yokohama, Japan, January 2021
-- Invited talk: "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
 - Oral talk (specially invited): "Design of polar metal and thermoelectric materials from high-throughput calculations", The Second DUT Xinghai Youth Forum (The section of physics), Dalian University of Technology, Dalian, China, May, 2019.
 - Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, US, March, 2019
-- Invited talk: "Emergent phenomena at the complex oxide interfaces", Japan Fine Ceramics Centers, Nagoya, Japan, April 4, 2016
 - Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
-## Posters
+## Seminars
+- "Title undetermined'', East China Normal University (Minhang Campus), June 25 2024
+- "Prediction of high-temperature superconducting hydrides from high to ambient pressures", Sun Yat-sen University (Shenzhen Campus), May 12 2024
+- "Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
+- "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
+- "Emergent phenomena at the complex oxide interfaces", Japan Fine Ceramics Centers, Nagoya, Japan, April 4, 2016
+
+## Conference posters
 - Yue-Wen Fang, Ion Errea, "The superconductivity in doped barrium superhydrides", Psi-k conference 2022, EPFL campus in Lausanne, Switzerland, August 23, 2022. [Abstract](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/psi_k_conference_2022_abstract.pdf)
 - Yue-Wen Fang, Hanghui Chen, "Design of a new functional polar metal", Quantum Oxide Research Online Meeting (QUOROM-2), Université Paris-Saclay, Dec 11, 2020.
 - Yue-Wen Fang, Hanghui Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", 26th international workshop on oxide electronics (iWOE26), Kyoto University, Japan, September 30, 2019. [Abstract](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/iwoe26_2019_abstract_YWFANG_v2.pdf), [Poster](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/iWOE26_A19-v3-poster.pdf)
@@ -50,6 +59,7 @@ Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; 
 ## Committee
 - Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
 - [Member](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/conference-committee/AMEE2023-TPC.pdf) of Conference Committee of 2023 5th International Conference on Advanced Materials and Ecological Environment
+- One of the three organizers (Tiago Cerqueira, Yue-Wen Fang, Simone di Cataldo) of the Mini-Colloquium "Frontiers in phonon-mediated superconductivity" at CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, 2024
 
 ## Outreach
 - A [science volunteer](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/ScienceWeek-UPVEHU2022.pdf) in the "scale up your world" workshop in the Science Week
