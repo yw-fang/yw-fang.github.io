@@ -1,6 +1,6 @@
 
 # 🎖 Honors and Awards
-- *2024.01.28* **Shortlisted for Postdoctoral Junior Leader Fellowships by "la Caixa" Foundation** (I declined the final interview due to the CSIC permanent position offer)
+- *2024.01.28* Shortlisted for **Postdoctoral Junior Leader Fellowships by "la Caixa" Foundation** (I declined the final interview due to the CSIC permanent position offer)
 - *2023.08.07* [**European Physical Society (EPS) award**](./certficates/awards/EPS-award-CCP2023.pdf) at CCP2023 - 34th IUPAP Conference on Computational Physics
 - *2023.04.04* [**MSCA Seal of Excellence**](./certficates/awards/SealOfExcellence-2023April4.pdf) by European Commission
 - *2022.04.26* [**2021 Outstanding Reviewer Awards**](./certficates/awards/OutstandingReviewerAwards2021-IOP-Publishing.pdf) by Institute of Physics (IOP) Publishing
