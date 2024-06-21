@@ -36,7 +36,7 @@
 </a>", <b>Advanced Functional Materials</b>, online, 2024 </p> 
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/AdvEnergyMater-Vol11Iss42.jpg" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/adfm.v34.5.cover.jpg" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
