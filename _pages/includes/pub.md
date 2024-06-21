@@ -6,7 +6,6 @@
 
 <b> †Co-first author; \*corresponding author </b>
 
-- [Searching Materials Space for Hydride Superconductors at Ambient Pressure](https://arxiv.org/abs/2403.13496), accepted at Advanced Functional Materials
 
 ## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
 
@@ -30,8 +29,16 @@
 
 †Co-first author; \*corresponding author
 
-
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>55. Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Antonio Sanna*, Miguel A. L. Marques*, "<a href="https://doi.org/10.1002/adfm.202404043">Searching Materials Space for Hydride Superconductors at Ambient Pressure
+</a>", <b>Advanced Functional Materials</b>, online, 2024 </p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/AdvEnergyMater-Vol11Iss42.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>54. Xudong Liu†, Jie Tu†, <b>Yue-Wen Fang†</b>, Guoqiang Xi, Hangren Li, Rong Wu, Xiuqiao Liu, Dongfei Lu, Jiushe He, Junwei Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1021/jacs.4c01702">Colossal Ferroelectric Photovoltaic Effect in Inequivalent Double-Perovskite Bi2FeMnO6 Thin Films
