@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yue-Wen Fang"
-description              : "Postdoc at UPV/EHU."
+description              : "Scientist, Father, and Dreamer"
 repository               : "yw-fang/yw-fang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : YuewenFang
+    #  twitter          : YuewenFang
+  twitter/X          : YuewenFang
   vine             :
   weibo            :
   xing             :
