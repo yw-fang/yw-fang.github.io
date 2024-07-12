@@ -6,8 +6,8 @@
 
 # 💬 Presentations 
 ## Conference talks
-- Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2-6 2024
-- Oral talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2-6 2024
+- Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September September 4 2024
+- Oral talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2 2024 (Sep2-6)
 - Invited talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
 - Oral talk: "Searching Materials Space for Ambient-Pressure Superconducting Hydrides", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
 - Oral talk: "Prediction of high-temperature superconducting hydrides from high to ambient pressures", 7th International Conference on Matter and Radiation at Extremes (ICMRE2024), Hangzhou, China, May 14, 2024 (May13-17)
@@ -22,7 +22,8 @@
 - Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
 ## Seminars
-- "Title undetermined'', East China Normal University (Minhang Campus), June 25 2024
+- "Title undetermined'', East China Normal University (Minhang Campus), August 2024
+- Youth Scientist Seminar: "Informatics-enabled high-throughput ab initio prediction of superconducting hydrides and ferroelectrics", Jilin University, July 14 2024
 - "Prediction of high-temperature superconducting hydrides from high to ambient pressures", Sun Yat-sen University (Shenzhen Campus), May 12 2024
 - "Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
 - "The design of polar metals and the mechanism of weak electron-soft-phonon coupling", Virtual meeting at Laurent Bellaiche’s laboratory of University of Arkansas, University of Arkansas, US, December, 2020.
