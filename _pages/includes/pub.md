@@ -24,12 +24,21 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 55 scientific papers (43 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 30 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 56 scientific papers (44 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 31 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>56. Zhao Pan*, Zhengli Liang, Xiao Wang,  <b>Yue-Wen Fang*</b>, Xubin Ye, Zhehong Liu, Takumi Nishikubo, Yuki Sakai,Xi Shen, Qiumin Liu, Shogo Kawaguchi, Fei Zhan, Longlong Fan, Yong-Yang Wang, Chen-Yan Ma, Xingxing Jiang, Zheshuai Lin, Richeng Yu, Xianran Xing*, Masaki Azuma and Youwen Long*, "<a href="https://doi.org/10.1039/D4MH00795F">Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3
+</a>", <b>Materials Horizons</b>, online, 2024 </p> 
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1039/D4MH00795F"><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>55. Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Antonio Sanna*, Miguel A. L. Marques*, "<a href="https://doi.org/10.1002/adfm.202404043">Searching Materials Space for Hydride Superconductors at Ambient Pressure
