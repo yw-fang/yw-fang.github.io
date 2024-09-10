@@ -7,9 +7,9 @@
 # 💬 Presentations 
 ## Conference talks
 - Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September September 4 2024
-- Invited talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2 2024 (Sep2-6)
+- Oral talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2 2024 (Sep2-6)
 - Invited talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
-- Oral talk: "Searching Materials Space for Ambient-Pressure Superconducting Hydrides", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
+- Invited talk: "Searching Materials Space for Ambient-Pressure Superconducting Hydrides", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
 - Oral talk: "Prediction of high-temperature superconducting hydrides from high to ambient pressures", 7th International Conference on Matter and Radiation at Extremes (ICMRE2024), Hangzhou, China, May 14, 2024 (May13-17)
 - Invited keynote talk: "Informatics-enabled Quantum Materials Design", International Workshop on Informatics With Application 2024, San Sebastian, Spain, Jan 24, 2024
 - Oral talk: "High-throughput DFT prediction of superhydrides and ferroelectrics", CCP2023 - 34th IUPAP Conference on Computational Physics, Kobe, Japan, August 5, 2023
