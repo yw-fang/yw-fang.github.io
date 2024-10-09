@@ -21,8 +21,10 @@
 - Contributed oral talk: "[Design of a new polar metal via 6s lone pair electrons](http://adsabs.harvard.edu/abs/2019APS..MARE46003C)", APS march meeting, Boston, US, March, 2019
 - Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
-## Seminars
-- "Title undetermined'', East China Normal University (Minhang Campus), August 2024
+## Invited Seminars
+- "Searching for high-performance ferroelectrics and high-temperature superconducting hydrides", Northwestern Polytechnical University, August 1 2024
+- "Searching for high-temperature superconducting hydrides and highperformance ferroelectrics", Xi'an Jiaotong University, July 29 2024
+- "Informatics-enabled high-throughput ab initio prediction of superconducting hydrides and ferroelectrics", Northeast Normal University, July 24 2024
 - Youth Scientist Seminar: "Informatics-enabled high-throughput ab initio prediction of superconducting hydrides and ferroelectrics", Jilin University, July 14 2024
 - "Prediction of high-temperature superconducting hydrides from high to ambient pressures", Sun Yat-sen University (Shenzhen Campus), May 12 2024
 - "Design and characterization of functional materials by (high-throughput) first-principles calculations", CFM seminars, University of The Basque Country, Spain, May 2022
