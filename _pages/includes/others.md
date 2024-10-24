@@ -67,6 +67,7 @@ Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; 
 ## Outreach
 - A [science volunteer](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/ScienceWeek-UPVEHU2022.pdf) in the "scale up your world" workshop in the Science Week
   of UPV/EHU, Tabakalera, San Sebastian, (Spain), 2022 Nov. 12.
+- "Inspire Life (Inspira Bizitzak 2024)" [poster presentation](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2024-Oct21-science-meusem-certificate.pdf) in the Science Meuseum of San Sebastian (Spain), 2024 Oct. 21
 - "A life for science" oral communication and poster presentation in the
   Science Meuseum of San Sebastian (Spain), 2022 October [17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct17-science-meusem-certificate.pdf) and [24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct24-science-meusem-certificate.pdf). The
 lecture can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ).
