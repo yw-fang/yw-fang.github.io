@@ -4,6 +4,10 @@
 
 ## Papers under review: <a name="underreview"></a>
 
+[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822)
+[Shear Strain Control of Multiferroic Magnetic Ordering for Giant Ferromagnetism](https://www.researchsquare.com/article/rs-4956109/v1)
+
+
 <b> †Co-first author; \*corresponding author </b>
 
 
