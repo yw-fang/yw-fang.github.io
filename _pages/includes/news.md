@@ -1,6 +1,9 @@
 
 # 🔥 News
 - *2024.08*: 🎉🎉 Our work on 1 nm bismuth oxide was awarded the prestigious <b>Nomination Prize for the Top 10 Advances of Chip Science of China 2023</b>.
+- *2024.05*: 🎉🎉 Linxing Zhang at USTB and I reported the colossal ferroelectric photovoltaic Effect in [**Journal of American Chemical Society**](https://pubs.acs.org/doi/10.1021/jacs.4c01702)
+- *2024.04*: 🎉🎉 Our study in [**Advanced Functional Materials**](https://doi.org/10.1002/adfm.202404043) represents the first work to report such a large number of ambient-pressure superconducting hydrides within a single publication.
+- *2024.03*: 🎉🎉 The work about the evidence of absence of 1 GPa superconductivity and apperance of high-pressure near-room-temperature superconductivity in Lu-N-H published at [**Communications Materials**](https://doi.org/10.1038/s43246-024-00500-9)
 - *2024.02*: 🎉🎉 Two works, collaborating with Dongxing at KAUST and Linxing at UTSB respectively, were published at [**Advanced Functional Materials**](https://doi.org/10.1002/adfm.202312746) and  [**Applied Physical Reviews**](https://doi.org/10.1063/5.0174252)
 - *2024.01*: 🎉🎉 Based on the former work at [**Science**](https://doi.org/10.1126/science.abm5134), the work on ferrolelectric tunnel junctions has been published at  [**Nature Communications**](https://doi.org/10.1038/s41467-024-44927-7)
 - <!-- *2024.01*: 🎉🎉 I am happy that my application to "la Caixa" Foundation Fellowships has been shortlisted while I probably will not proceed with it. -->
