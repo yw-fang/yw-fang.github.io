@@ -1,7 +1,8 @@
 <div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
-<p> Yuewen Fang is a postdoc in <a href="https://cfm.ehu.es/errealab/research/" target="_blank">Errea Lab</a> at Centro de Física de Materiales (CSIC-UPV/EHU), and is setting transition to a tenured scientist of CSIC. He will still be integrated to Centro de Física de Materiales.
+<p> Yuewen Fang is setting transition to a tenured scientist of CSIC at Centro de Física de Materiales (CSIC-UPV/EHU).
 <!-- He is an upcoming tenured scientist (equivalent to tenured rank of Associate Professor) of Spanish National Research Council. -->
-Previously, from April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
+Previously, he was a postdoc at Centro de Física de Materiales (CSIC-UPV/EHU) hired by the University of the Basque Country from Dec. 1st, 2021, to December 2024.
+From April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
 Prior to that, he worked as a program-specific researcher
 <!-- in the laboratory of Prof. Isao Tanaka -->
 at Kyoto University from November 1st, 2017, to March 31st, 2020. He was also a visiting academic at New York University Shanghai from March 2017. Yuewen received his PhD in Physical Electronics from East China Normal University in  
@@ -14,7 +15,7 @@ Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. Du
 <p>
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials. 
-Yuewen's research work has resulted in the publication in prestigious journals such as Science, Nature Communications, Advanced Materials, and more.  
+Yuewen's research work has resulted in the publication in prestigious journals such as <b>Science</b>, <b>Nature Communications</b>, <b>Advanced Materials</b>, and more.  
 These publications have garnered
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 and
