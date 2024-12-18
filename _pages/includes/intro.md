@@ -1,7 +1,6 @@
 <div class="text-justify"> <!-- text-justify is defined in _sass/_utilities.scss-->
-<p> Yuewen Fang is setting transition to a tenured scientist of CSIC at Centro de Física de Materiales (CSIC-UPV/EHU).
-<!-- He is an upcoming tenured scientist (equivalent to tenured rank of Associate Professor) of Spanish National Research Council. -->
-Previously, he was a postdoc at the same center, but hired by the University of the Basque Country from Dec. 1st, 2021, to December 2024.
+<p> Yuewen Fang is a tenured scientist of Spanish National Research Council (CSIC) at Centro de Física de Materiales (CSIC-UPV/EHU) since December 2024.
+Previously, he was a postdoc at the same center hired by the University of the Basque Country from 2021 to 2024
 From April 1st, 2020, to Nov. 30th, 2021, he worked as a researcher at the Materials Structure Laboratory of Tokyo Institute of Technology. 
 Prior to that, he worked as a program-specific researcher
 <!-- in the laboratory of Prof. Isao Tanaka -->
