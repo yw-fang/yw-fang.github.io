@@ -8,6 +8,10 @@
 
 [Shear Strain Control of Multiferroic Magnetic Ordering for Giant Ferromagnetism](https://www.researchsquare.com/article/rs-4956109/v1)
 
+[Nonlinear Hall Effect in Two-dimensional Materials](https://arxiv.org/abs/2412.09298)
+
+[Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340)
+
 
 <b> †Co-first author; \*corresponding author </b>
 
