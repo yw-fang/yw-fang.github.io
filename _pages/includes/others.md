@@ -32,6 +32,7 @@
 - "Emergent phenomena at the complex oxide interfaces", Japan Fine Ceramics Centers, Nagoya, Japan, April 4, 2016
 
 ## Conference posters
+- Yue-Wen Fang, Dore Dangic, Ion Errea, "Superconductivity of Lu-N-H systems at pressure", SuperC workshop 2022, Sant Feliu de Guíxols, Spain, August 27, 2024. 
 - Yue-Wen Fang, Ion Errea, "The superconductivity in doped barrium superhydrides", Psi-k conference 2022, EPFL campus in Lausanne, Switzerland, August 23, 2022. [Abstract](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/psi_k_conference_2022_abstract.pdf)
 - Yue-Wen Fang, Hanghui Chen, "Design of a new functional polar metal", Quantum Oxide Research Online Meeting (QUOROM-2), Université Paris-Saclay, Dec 11, 2020.
 - Yue-Wen Fang, Hanghui Chen, "Electric-field switching of polar displacements in a newly predicted polar metal", 26th international workshop on oxide electronics (iWOE26), Kyoto University, Japan, September 30, 2019. [Abstract](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/iwoe26_2019_abstract_YWFANG_v2.pdf), [Poster](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/iWOE26_A19-v3-poster.pdf)
