@@ -42,7 +42,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>56. Zhao Pan*, Zhengli Liang, Xiao Wang,  <b>Yue-Wen Fang*</b>, Xubin Ye, Zhehong Liu, Takumi Nishikubo, Yuki Sakai,Xi Shen, Qiumin Liu, Shogo Kawaguchi, Fei Zhan, Longlong Fan, Yong-Yang Wang, Chen-Yan Ma, Xingxing Jiang, Zheshuai Lin, Richeng Yu, Xianran Xing*, Masaki Azuma and Youwen Long*, "<a href="https://doi.org/10.1039/D4MH00795F">Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3
-</a>", <b>Materials Horizons</b>, online, 2024 </p> 
+</a>", <b>Materials Horizons</b>, 11, 5394-5401, 2024 </p> 
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1039/D4MH00795F"><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
@@ -51,7 +51,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>55. Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Antonio Sanna*, Miguel A. L. Marques*, "<a href="https://doi.org/10.1002/adfm.202404043">Searching Materials Space for Hydride Superconductors at Ambient Pressure
-</a>", <b>Advanced Functional Materials</b>, online, 2024 </p> 
+</a>", <b>Advanced Functional Materials</b>, 34, 2404043, 2024 </p> 
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/adfm.v34.5.cover.jpg" alt="cover" width="500"></a> 
@@ -157,7 +157,7 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>43. Guoqiang Xi, Zhao Pan*  <b>Yue-Wen Fang*</b>, Qianqian Yang, Chen Liu, Huajie Luo, Jiaqi Ding, Shuai Xu, Shiqing Deng, Qingxiao Wang, Dongxing Zheng, Youwen Long, Kuijuan Jin, Xixiang Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1039/D3MH00716B">Anion-induced robust ferroelectricity in sulfurized BiFeO3 thin films via polarization rotation</a>", <b>Materials Horizons</b>, online, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+    <p>43. Guoqiang Xi, Zhao Pan*  <b>Yue-Wen Fang*</b>, Qianqian Yang, Chen Liu, Huajie Luo, Jiaqi Ding, Shuai Xu, Shiqing Deng, Qingxiao Wang, Dongxing Zheng, Youwen Long, Kuijuan Jin, Xixiang Zhang, Jianjun Tian, Linxing Zhang*, "<a href="https://doi.org/10.1039/D3MH00716B">Anion-induced robust ferroelectricity in sulfurized BiFeO3 thin films via polarization rotation</a>", <b>Materials Horizons</b>, 10, 4389-4397, 2023 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1039/D3MH00716B"><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
