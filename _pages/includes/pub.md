@@ -213,7 +213,7 @@
  </tr> 
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
-     <p>36. Z. Pan, <strong>Y.-W. Fang</strong>, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma, "<a href="https://doi.org/10.1021/acs.chemmater.2c00076">Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics</a>", <strong>Chemistry of Materials</strong>, 34, 6, 2798–2803 (2022).</p> 
+     <p>36. Z. Pan*, <strong>Y.-W. Fang</strong>, T. Nishikubo, L. Hu, S. Kawaguchi and M. Azuma*, "<a href="https://doi.org/10.1021/acs.chemmater.2c00076">Tolerance Factor Control of Tetragonality and Negative Thermal Expansion in PbTiO3-Based Ferroelectrics</a>", <strong>Chemistry of Materials</strong>, 34, 6, 2798–2803 (2022).</p> 
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1021/acs.chemmater.2c00076"><img src="./journal-cover/chem-mater.2022.34.issue-6-cover.jpg" alt="cover" width="500"></a> 
