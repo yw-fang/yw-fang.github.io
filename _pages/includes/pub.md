@@ -52,6 +52,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>55. Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Antonio Sanna*, Miguel A. L. Marques*, "<a href="https://doi.org/10.1002/adfm.202404043">Searching Materials Space for Hydride Superconductors at Ambient Pressure
 </a>", <b>Advanced Functional Materials</b>, 34, 2404043, 2024 </p> 
+<p><a href="https://doi.org/10.48550/arXiv.2403.13496">[Preprint]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/adfm.v34.5.cover.jpg" alt="cover" width="500"></a> 
