@@ -233,6 +233,7 @@
   <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
      <p>34. L. Hu, Y. Luo, <strong>Y.-W. Fang</strong>, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, "<a href="https://doi.org/10.1002/aenm.202100661">High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3</a>", <b>Advanced Energy Materials</b> 11, 2100661 (2021).</p> 
+<p><a href="https://www.researchgate.net/publication/355166068_High_Thermoelectric_Performance_through_Crystal_Symmetry_Enhancement_in_Triply_Doped_Diamondoid_Compound_Cu2SnSe3">[Free full text]</a></p>
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1002/aenm.202100661"><img src="./journal-cover/AdvEnergyMater-Vol11Iss42.jpg" alt="cover" width="500"></a> 
