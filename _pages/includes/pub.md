@@ -52,7 +52,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>55. Tiago F. T. Cerqueira, <b>Yue-Wen Fang</b>, Ion Errea, Antonio Sanna*, Miguel A. L. Marques*, "<a href="https://doi.org/10.1002/adfm.202404043">Searching Materials Space for Hydride Superconductors at Ambient Pressure
 </a>", <b>Advanced Functional Materials</b>, 34, 2404043, 2024 </p> 
-<p><a href="https://doi.org/10.48550/arXiv.2403.13496">[Preprint]</a></p>
+<p><a href="https://doi.org/10.48550/arXiv.2403.13496">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1002/adfm.202404043"><img src="./journal-cover/adfm.v34.5.cover.jpg" alt="cover" width="500"></a> 
@@ -71,6 +71,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>53. <b>Yue-Wen Fang*</b>, Đorđe Dangić* and Ion Errea*, "<a href="https://doi.org/10.1038/s43246-024-00500-9">Assessing the feasibility of near-ambient conditions superconductivity in the Lu-N-H system
 </a>", <b>Communications Materials</b>, 5, 61, 2024 </p> <a href="https://doi.org/10.5281/zenodo.8140540"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> 
+<p><a href="https://doi.org/10.48550/arXiv.2412.09340">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1038/s43246-024-00500-9"><img src="./journal-cover/communications-materials-cover.jpg" alt="cover" width="500"></a> 
@@ -80,6 +81,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>52. Rui-Qi Wang, Tian-Min Lei*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1063/5.0191917">Manipulation of magnetic anisotropy of 2D magnetized graphene by ferroelectric In2Se3
 </a>", <b>Journal of Applied Physics</b>, 135, 083902, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+<p><a href="https://doi.org/10.48550/arXiv.2402.09153">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1063/5.0191917"><img src="./journal-cover/JAP-Feb2024.png" alt="cover" width="500"></a> 
