@@ -43,6 +43,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>56. Zhao Pan*, Zhengli Liang, Xiao Wang,  <b>Yue-Wen Fang*</b>, Xubin Ye, Zhehong Liu, Takumi Nishikubo, Yuki Sakai,Xi Shen, Qiumin Liu, Shogo Kawaguchi, Fei Zhan, Longlong Fan, Yong-Yang Wang, Chen-Yan Ma, Xingxing Jiang, Zheshuai Lin, Richeng Yu, Xianran Xing*, Masaki Azuma and Youwen Long*, "<a href="https://doi.org/10.1039/D4MH00795F">Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3
 </a>", <b>Materials Horizons</b>, 11, 5394-5401, 2024 </p> 
+<p><a href="https://doi.org/10.48550/arXiv.2501.09701">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1039/D4MH00795F"><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
@@ -185,6 +186,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang†</b>, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023 <a href="https://doi.org/10.5281/zenodo.7773774"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+<p><a href="https://doi.org/10.48550/arXiv.2501.09549">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1126/science.abm5134"><img src="./journal-cover/abm5134-6cm-71dpi.png" alt="cover" width="500"></a> 
