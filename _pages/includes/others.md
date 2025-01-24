@@ -61,6 +61,7 @@ Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; 
 - [Youth Editor](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf)  of the Editorial Board from early 2023 to the end of 2024 of Acta Metallurgica Sinica (English Letters).
 - Youth Editorial Board member from 2024 to 2026 of Chip--An official journal of Shanghai Jiao Tong University.
 - Junior Editorial Board member of Journal of Materials Informatics (OAE) from 2024 to 2027
+- Junior Editorial Board member of InfoMat (Wiley) from 2024 to 2027
 
 ## Committee
 - Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
