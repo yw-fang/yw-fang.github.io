@@ -58,10 +58,10 @@ Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; 
 - Code reviewer for codes submitted to Journal of Open Source Software.
 - [Reviewer](./certficates/review-certificate/EURIZON2023-reviewer-ID78.pdf) for Horizon 2020 grant EURIZON Fellowship in 2023 that is dedicated to support Ukrainian scientists and Ukrainian research infrastructures as well as strengthening the research infrastructures landscape in Europe
 - Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
-- [Youth Editor](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf)  of the Editorial Board from early 2023 to the end of 2024 of Acta Metallurgica Sinica (English Letters).
-- Youth Editorial Board member from 2024 to 2026 of Chip--An official journal of Shanghai Jiao Tong University.
-- Junior Editorial Board member of Journal of Materials Informatics (OAE) from 2024 to 2027
-- Junior Editorial Board member of InfoMat (Wiley) from 2024 to 2027
+- [Youth Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf) from early 2023 to the end of 2024 of Acta Metallurgica Sinica (English Letters).
+- [Young Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/Chip-junior-editor2024-2026.pdf) from June 2024 to June 2026 of Chip--An official journal of Shanghai Jiao Tong University.
+- [Junior Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/JMI-junior-editor2025-2027.pdf) of Journal of Materials Informatics (OAE) from Jan 14 2025 to Jan 14 2027
+- Junior Editorial Board member of InfoMat (Wiley) from Jan 15, 2025 to Jan 15, 2027
 
 ## Committee
 - Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
