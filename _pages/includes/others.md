@@ -48,20 +48,20 @@
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh) -->
 
 # 💻 Service
-## Review & editing
+## Editor & Reviewer
+- [Youth Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf) from early 2023 to the end of 2024 of <b>Acta Metallurgica Sinica (English Letters)</b>.
+- [Young Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/Chip-junior-editor2024-2026.pdf) from June 2024 to June 2026 of <b>Chip</b>--An official journal of Shanghai Jiao Tong University.
+- [Junior Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/JMI-junior-editor2025-2027.pdf) of <b>Journal of Materials Informatics</b> (OAE) from Jan 14 2025 to Jan 14 2027
+- Junior Editorial Board of <b>InfoMat</b> (Wiley) from Jan 15, 2025 to Jan 15, 2027
 - Reviewer for journals including PNAS; Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; Small; APL Materials; npj Computational Materials;
 Computational Materials Today; Communications Materials;
 ACS Applied Energy Materials; Journal of Materials Chemistry C; 
 Advanced Science; Journal of applied physics; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials;
 Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society;
-Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; Ceramics international; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology; Materials Research Express; Journal of Physics Communications; Microstructures; Journal of Materials Informatics; Materials Science in Semiconductor Processing; Journal of the European Ceramic Society; Inorganic Chemistry; Semiconductor Science and Technology
+Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; Ceramics international; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology; Materials Research Express; Journal of Physics Communications; Microstructures; Journal of Materials Informatics; Materials Science in Semiconductor Processing; Journal of the European Ceramic Society; Inorganic Chemistry; Semiconductor Science and Technology; Journal of Physics and Chemistry of Solids
 - Code reviewer for codes submitted to Journal of Open Source Software.
 - [Reviewer](./certficates/review-certificate/EURIZON2023-reviewer-ID78.pdf) for Horizon 2020 grant EURIZON Fellowship in 2023 that is dedicated to support Ukrainian scientists and Ukrainian research infrastructures as well as strengthening the research infrastructures landscape in Europe
 - Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
-- [Youth Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf) from early 2023 to the end of 2024 of Acta Metallurgica Sinica (English Letters).
-- [Young Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/Chip-junior-editor2024-2026.pdf) from June 2024 to June 2026 of Chip--An official journal of Shanghai Jiao Tong University.
-- [Junior Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/JMI-junior-editor2025-2027.pdf) of Journal of Materials Informatics (OAE) from Jan 14 2025 to Jan 14 2027
-- Junior Editorial Board member of InfoMat (Wiley) from Jan 15, 2025 to Jan 15, 2027
 
 ## Committee
 - Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
