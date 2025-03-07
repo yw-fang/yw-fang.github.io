@@ -1,5 +1,6 @@
 
 # 🔥 News
+- *2025.03.06*: 🎉🎉 I’m honored to receive [Outstanding Reviewer Award](https://yw-fang.github.io/certficates/awards/OutstandingReviewerAwards2024-IOP-Publishing-2025March6.pdf) once again after 2 years due to my review service for IOP Publishing. 
 - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[InfoMat](https://onlinelibrary.wiley.com/journal/25673165)</b> from Jan. 2025 to Jan 2027.
 - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[Journal of Materials Informatics](https://www.oaepublish.com/jmi)</b> from Jan. 2025 to Jan 2027.
 <!-- - *2024.08*: 🎉🎉 Our work on 1 nm bismuth oxide was awarded the prestigious <b>Nomination Prize for the Top 10 Advances of Chip Science of China 2023</b>. -->
