@@ -22,7 +22,7 @@ and
 </p>
 
 <p>
-Yuewen serves as a Youth Editor of the Editorial Board of Acta Metallurgica Sinica (English Letters) [JCR Q1] and the journal CHIP (ESCI). He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
+Yuewen serves as a Youth Editor of the Editorial Board of InfoMat (JCR Q1), Journal of Materials Informatics, Chip and Acta Metallurgica Sinica (English Letters) [JCR Q1]. He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
 Up till now, he has contributed 190+ verified peer reviews to 40 peer-reviewed journals such as Physical Review Letters and Nature sister journals.
 <!-- Up till now, he has contributed <span style="color: blue;">121 verified peer reviews</span> to 26 peer-reviewed journals such as Physical Review Letters. -->
 </p>
