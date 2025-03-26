@@ -14,7 +14,7 @@ Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. Du
 <p>
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials. 
-Yuewen's research work has resulted in the publication in prestigious journals such as <b>Science</b>, <b>Nature Communications</b>, <b>Advanced Materials</b>, and more.  
+Yuewen's research work has resulted in the publication in prestigious journals such as <b>Science</b>, <b>Science Advances</b>, <b>Nature Communications</b>, <b>Advanced Materials</b>, and more.  
 These publications have garnered
 <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 and
