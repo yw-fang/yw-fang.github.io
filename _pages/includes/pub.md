@@ -34,12 +34,22 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 56 scientific papers (44 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 31 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 57 scientific papers (45 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 32 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>57. Guoqiang Xi†, <b>Yue-Wen Fang†</b>, Dongxing Zheng†, Shuai Xu†, Hangren Li, Jie Tu, Fangyuan Zhu, Xudong Liu, Xiuqiao Liu, Qianqian Yang, Jiushe He, Junwei Zhang, Wugang Liao, Jiesu Wang, Shiyao Wu, Xixiang Zhang, Kuijuan Jin*, Jianjun Tian, Linxing Zhang* and Xianran Xing, "<a href="https://doi.org/10.1038/s41467-025-58594-9">Anionic Strategy-Modulated Magnetic Ordering in Super-elongated Multiferroic Epitaxial Films
+</a>", <b>Nature Communications</b>, 16, 3526, 2025 </p> 
+<p><a href="https://doi.org/10.1038/s41467-025-58594-9">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1038/s41467-025-58594-9"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>56. Zhao Pan*, Zhengli Liang, Xiao Wang,  <b>Yue-Wen Fang*</b>, Xubin Ye, Zhehong Liu, Takumi Nishikubo, Yuki Sakai,Xi Shen, Qiumin Liu, Shogo Kawaguchi, Fei Zhan, Longlong Fan, Yong-Yang Wang, Chen-Yan Ma, Xingxing Jiang, Zheshuai Lin, Richeng Yu, Xianran Xing*, Masaki Azuma and Youwen Long*, "<a href="https://doi.org/10.1039/D4MH00795F">Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3
