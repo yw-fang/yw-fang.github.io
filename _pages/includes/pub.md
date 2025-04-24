@@ -51,7 +51,6 @@
   </td> 
 </tr>
 <tr> 
-<tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>57. Guoqiang Xi†, <b>Yue-Wen Fang†</b>, Dongxing Zheng†, Shuai Xu†, Hangren Li, Jie Tu, Fangyuan Zhu, Xudong Liu, Xiuqiao Liu, Qianqian Yang, Jiushe He, Junwei Zhang, Wugang Liao, Jiesu Wang, Shiyao Wu, Xixiang Zhang, Kuijuan Jin*, Jianjun Tian, Linxing Zhang* and Xianran Xing, "<a href="https://doi.org/10.1038/s41467-025-58594-9">Anionic Strategy-Modulated Magnetic Ordering in Super-elongated Multiferroic Epitaxial Films
 </a>", <b>Nature Communications</b>, 16, 3526, 2025 </p> 
