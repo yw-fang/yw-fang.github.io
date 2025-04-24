@@ -1,6 +1,6 @@
 
 # 🔥 News
-- *2025.04*: 🎉🎉 Two works, respectively, are accepted at <b>Science Advances</b> and <b>Nature Communications</b>.
+- *2025.04.23*: 🎉🎉 Two works, respectively, are published at [Science Advances](https://doi.org/10.1126/sciadv.ads4925) and [Nature Communications](https://rdcu.be/ei3XE).
 - *2025.03.06*: 🎉🎉 I’m honored to receive [Outstanding Reviewer Award](https://yw-fang.github.io/certficates/awards/OutstandingReviewerAwards2024-IOP-Publishing-2025March6.pdf) once again after 2 years due to my review service for IOP Publishing. 
 - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[InfoMat](https://onlinelibrary.wiley.com/journal/25673165)</b> from Jan. 2025 to Jan 2027.
 - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[Journal of Materials Informatics](https://www.oaepublish.com/jmi)</b> from Jan. 2025 to Jan 2027.
