@@ -11,6 +11,8 @@
 
 [Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340)
 
+[From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252)
+
 
 <b> †Co-first author; \*corresponding author </b>
 
@@ -32,7 +34,7 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 57 scientific papers (45 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 32 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 58 scientific papers (45 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 33 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -40,9 +42,20 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>58. Jie Tu†, Hangren Li†, Xudong Liu, Guoqiang Xi, Xiuqiao Liu, Mengqi Zhang, Rong Wu, Siyuan Du, Dongfei Lu, Longyuan Shi, Jing Xia*, <b>Yue-Wen Fang*</b>, Jiaqi Ding, Yuzhuo Liu, Yueyang Jia, Meng Yuan, Rui Yang, Xiaolong Li, Xiangmin Meng, Jianjun Tian, Linxing Zhang*, Xianran Xing, "<a href="https://doi.org/10.1126/sciadv.ads4925">Giant switchable ferroelectric photovoltage in double-perovskite epitaxial films through chemical negative strain
+</a>", <b>Science Advances</b>, 11, eads4925, 2025 </p> 
+<p><a href="https://doi.org/10.1126/sciadv.ads4925">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1126/sciadv.ads4925"><img src="./journal-cover/sciadv.2025.april.25.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>57. Guoqiang Xi†, <b>Yue-Wen Fang†</b>, Dongxing Zheng†, Shuai Xu†, Hangren Li, Jie Tu, Fangyuan Zhu, Xudong Liu, Xiuqiao Liu, Qianqian Yang, Jiushe He, Junwei Zhang, Wugang Liao, Jiesu Wang, Shiyao Wu, Xixiang Zhang, Kuijuan Jin*, Jianjun Tian, Linxing Zhang* and Xianran Xing, "<a href="https://doi.org/10.1038/s41467-025-58594-9">Anionic Strategy-Modulated Magnetic Ordering in Super-elongated Multiferroic Epitaxial Films
 </a>", <b>Nature Communications</b>, 16, 3526, 2025 </p> 
-<p><a href="https://doi.org/10.1038/s41467-025-58594-9">[Free full text]</a></p>
+<p><a href="https://rdcu.be/ei3XE">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1038/s41467-025-58594-9"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
