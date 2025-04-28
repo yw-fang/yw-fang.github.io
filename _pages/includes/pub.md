@@ -45,6 +45,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>58. Jie Tu†, Hangren Li†, Xudong Liu, Guoqiang Xi, Xiuqiao Liu, Mengqi Zhang, Rong Wu, Siyuan Du, Dongfei Lu, Longyuan Shi, Jing Xia*, <b>Yue-Wen Fang*</b>, Jiaqi Ding, Yuzhuo Liu, Yueyang Jia, Meng Yuan, Rui Yang, Xiaolong Li, Xiangmin Meng, Jianjun Tian, Linxing Zhang*, Xianran Xing, "<a href="https://doi.org/10.1126/sciadv.ads4925">Giant switchable ferroelectric photovoltage in double-perovskite epitaxial films through chemical negative strain
 </a>", <b>Science Advances</b>, 11, eads4925, 2025 </p> 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/sciadv.ads4925"></div>
 <p><a href="https://doi.org/10.1126/sciadv.ads4925">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
