@@ -1,3 +1,4 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 # 📝 Publications 
 <!-- <span style="color:red">The section of Publications is under maintance, thus some of them are not shown properly.</span>  -->
@@ -208,6 +209,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang†</b>, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023 <a href="https://doi.org/10.5281/zenodo.7773774"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/science.abm5134"></div>
 <p><a href="https://doi.org/10.48550/arXiv.2501.09549">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
