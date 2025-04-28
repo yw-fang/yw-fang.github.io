@@ -8,8 +8,6 @@
 
 [Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822)
 
-[Nonlinear Hall Effect in Two-dimensional Materials](https://arxiv.org/abs/2412.09298) Accepted by Microstructures.
-
 [Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340)
 
 [From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252)
@@ -35,12 +33,23 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 58 scientific papers (45 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 33 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 59 scientific papers (46 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 34 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>59. Shuo Wang, Wei Niu*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.20517/microstructures.2024.129">Nonlinear Hall effect in two-dimensional materials
+</a>", <b>Microstructures</b>, 5, 2025060, 2025 </p> 
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div>
+<p><a href="https://doi.org/10.48550/arXiv.2412.09298">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.20517/microstructures.2024.129"><img src="./journal-cover/Microstructures-Vol5-issue1-2025.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>58. Jie Tu†, Hangren Li†, Xudong Liu, Guoqiang Xi, Xiuqiao Liu, Mengqi Zhang, Rong Wu, Siyuan Du, Dongfei Lu, Longyuan Shi, Jing Xia*, <b>Yue-Wen Fang*</b>, Jiaqi Ding, Yuzhuo Liu, Yueyang Jia, Meng Yuan, Rui Yang, Xiaolong Li, Xiangmin Meng, Jianjun Tian, Linxing Zhang*, Xianran Xing, "<a href="https://doi.org/10.1126/sciadv.ads4925">Giant switchable ferroelectric photovoltage in double-perovskite epitaxial films through chemical negative strain
