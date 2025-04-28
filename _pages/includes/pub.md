@@ -55,7 +55,8 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>58. Jie Tu†, Hangren Li†, Xudong Liu, Guoqiang Xi, Xiuqiao Liu, Mengqi Zhang, Rong Wu, Siyuan Du, Dongfei Lu, Longyuan Shi, Jing Xia*, <b>Yue-Wen Fang*</b>, Jiaqi Ding, Yuzhuo Liu, Yueyang Jia, Meng Yuan, Rui Yang, Xiaolong Li, Xiangmin Meng, Jianjun Tian, Linxing Zhang*, Xianran Xing, "<a href="https://doi.org/10.1126/sciadv.ads4925">Giant switchable ferroelectric photovoltage in double-perovskite epitaxial films through chemical negative strain
 </a>", <b>Science Advances</b>, 11, eads4925, 2025 </p> 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/sciadv.ads4925"></div>
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/sciadv.ads4925"></div> -->
+<div class='altmetric-embed' data-badge-popover='left' data-doi='10.1126/sciadv.ads4925'></div>
 <p><a href="https://doi.org/10.1126/sciadv.ads4925">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
@@ -220,7 +221,8 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>40. Qianqian Yang†, Jingcong Hu†, <b>Yue-Wen Fang†</b>, Yueyang Jia, Rui Yang, Shiqing Deng, Yue Lu*, Oswaldo Dieguez, Longlong Fan, Dongxing Zheng, Xixiang Zhang, Yongqi Dong, Zhenlin Luo, Zhen Wang, Huanhua Wang, Manling Sui, Xianran Xing, Jun Chen, Jianjun Tian*, Linxing Zhang*, "<a href="https://doi.org/10.1126/science.abm5134">Ferroelectricity in layered bismuth oxide down to 1 nanometer</a>", <b>Science</b>, 379, 6638, 2023 <a href="https://doi.org/10.5281/zenodo.7773774"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a></p> 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/science.abm5134"></div>
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1126/science.abm5134"></div> -->
+<div class='altmetric-embed' data-badge-popover='left' data-doi='10.1126/science.abm5134'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2501.09549">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
