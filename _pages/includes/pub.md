@@ -43,7 +43,8 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>59. Shuo Wang, Wei Niu*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.20517/microstructures.2024.129">Nonlinear Hall effect in two-dimensional materials
 </a>", <b>Microstructures</b>, 5, 2025060, 2025 </p> 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div>
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='left' data-doi='10.20517/microstructures.2024.129'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2412.09298">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
