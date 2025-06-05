@@ -33,12 +33,24 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 59 scientific papers (46 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 34 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 60 scientific papers (47 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 34 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>60. Zhao Pan*, <b>Yue-Wen Fang*</b>, Sergey A. Nikolaev, Lin Wu, Jie Zhang, Mengqi Ye, Jin Liu, Xubin Ye, Xiao Wang, Takumi Nishikubo, Yuki Sakai,* Runze Yu, Shogo Kawaguchi, Nianpeng Lu, Yoshihiro Kuroiwa, Jun Chen*, Masaki Azuma*, Xianran Xing and Youwen Long*, "<a href="https://doi.org/10.1039/D5MH00251F">Nonlinear Hall effect in two-dimensional materials
+</a>", <b>Materials Horizons</b>, online, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1039/D5MH00251F'></div>
+<p><a href="https://doi.org/10.1039/D5MH00251F">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1039/D5MH00251F"><img src="./journal-cover/MaterialsHorizons2023-July-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>59. Shuo Wang, Wei Niu*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.20517/microstructures.2024.129">Nonlinear Hall effect in two-dimensional materials
