@@ -167,6 +167,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>48. Yueyang Jia†, Qianqian Yang†, <b>Yue-Wen Fang*</b> , Yue Lu, Maosong Xie, Jianyong Wei, Jianjun Tian, Linxing Zhang*, Rui Yang*, "<a href="https://doi.org/10.1038/s41467-024-44927-7">Giant Tunnelling Electroresistance in Atomic-Scale Ferroelectric Tunnel Junctions
 </a>", <b>Nature Communications</b>, 15, 693, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-024-44927-7'></div>
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1038/s41467-024-44927-7"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
