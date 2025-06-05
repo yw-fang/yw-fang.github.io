@@ -79,6 +79,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>57. Guoqiang Xi†, <b>Yue-Wen Fang†</b>, Dongxing Zheng†, Shuai Xu†, Hangren Li, Jie Tu, Fangyuan Zhu, Xudong Liu, Xiuqiao Liu, Qianqian Yang, Jiushe He, Junwei Zhang, Wugang Liao, Jiesu Wang, Shiyao Wu, Xixiang Zhang, Kuijuan Jin*, Jianjun Tian, Linxing Zhang* and Xianran Xing, "<a href="https://doi.org/10.1038/s41467-025-58594-9">Anionic Strategy-Modulated Magnetic Ordering in Super-elongated Multiferroic Epitaxial Films
 </a>", <b>Nature Communications</b>, 16, 3526, 2025 </p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-58594-9'></div>
 <p><a href="https://rdcu.be/ei3XE">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
@@ -89,6 +90,7 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>56. Zhao Pan*, Zhengli Liang, Xiao Wang,  <b>Yue-Wen Fang*</b>, Xubin Ye, Zhehong Liu, Takumi Nishikubo, Yuki Sakai,Xi Shen, Qiumin Liu, Shogo Kawaguchi, Fei Zhan, Longlong Fan, Yong-Yang Wang, Chen-Yan Ma, Xingxing Jiang, Zheshuai Lin, Richeng Yu, Xianran Xing*, Masaki Azuma and Youwen Long*, "<a href="https://doi.org/10.1039/D4MH00795F">Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3
 </a>", <b>Materials Horizons</b>, 11, 5394-5401, 2024 </p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1039/D4MH00795F'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2501.09701">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
