@@ -41,7 +41,7 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>60. Zhao Pan*, <b>Yue-Wen Fang*</b>, Sergey A. Nikolaev, Lin Wu, Jie Zhang, Mengqi Ye, Jin Liu, Xubin Ye, Xiao Wang, Takumi Nishikubo, Yuki Sakai,* Runze Yu, Shogo Kawaguchi, Nianpeng Lu, Yoshihiro Kuroiwa, Jun Chen*, Masaki Azuma*, Xianran Xing and Youwen Long*, "<a href="https://doi.org/10.1039/D5MH00251F">Anion-mediated unusual enhancement of negative thermal expansion in the oxyfluoride of PbTiO3
+    <p>60. Zhao Pan*, <b>Yue-Wen Fang</b>, Sergey A. Nikolaev, Lin Wu, Jie Zhang, Mengqi Ye, Jin Liu, Xubin Ye, Xiao Wang, Takumi Nishikubo, Yuki Sakai, Runze Yu, Shogo Kawaguchi, Nianpeng Lu, Yoshihiro Kuroiwa, Jun Chen*, Masaki Azuma*, Xianran Xing and Youwen Long*, "<a href="https://doi.org/10.1039/D5MH00251F">Anion-mediated unusual enhancement of negative thermal expansion in the oxyfluoride of PbTiO3
 </a>", <b>Materials Horizons</b>, online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1039/D5MH00251F'></div>
