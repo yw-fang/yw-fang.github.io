@@ -1,5 +1,6 @@
 
 # 🔥 News
+- *2025.06.13*: 🎉🎉 Extraordinary Grant of CSIC was approved today!
 - *2025.05.05*: 🎉🎉 New research project "AI-CrysPred" was approved today!
 - *2025.04.23*: 🎉🎉 Two works, respectively, are published at [Science Advances](https://doi.org/10.1126/sciadv.ads4925) and [Nature Communications](https://rdcu.be/ei3XE).
 - *2025.03.06*: 🎉🎉 I’m honored to receive [Outstanding Reviewer Award](https://yw-fang.github.io/certficates/awards/OutstandingReviewerAwards2024-IOP-Publishing-2025March6.pdf) once again after 2 years due to my review service for IOP Publishing. 
