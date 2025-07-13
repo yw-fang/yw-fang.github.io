@@ -11,3 +11,4 @@ git add google_scholar_crawler/results/*.json
 git commit -m "Update citation metrics (auto)" || echo "No changes to commit"
 git push origin google-scholar-stats
 
+git checkout master # back to master branch
