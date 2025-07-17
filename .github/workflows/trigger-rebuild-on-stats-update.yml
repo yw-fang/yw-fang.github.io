@@ -1,0 +1,25 @@
+name: Rebuild website when google-scholar-stats updates
+
+on:
+  push:
+    branches:
+      - google-scholar-stats
+
+jobs:
+  trigger-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Make a no-op commit to main (touch .trigger)
+        run: |
+          date > .trigger
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .trigger
+          git commit -m "Trigger rebuild from google-scholar-stats update" || echo "No changes"
+          git push origin main
+
