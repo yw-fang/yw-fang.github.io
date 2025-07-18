@@ -10,7 +10,7 @@
 
 [Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340)
 
-[From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252)
+[From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252) Accepted at PRB
 
 
 <b> †Co-first author; \*corresponding author </b>
