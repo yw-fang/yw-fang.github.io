@@ -4,11 +4,11 @@
 <!-- <span style="color:red">The section of Publications is under maintance, thus some of them are not shown properly.</span>  -->
 
 ## Papers under review: <a name="underreview"></a>
-[The Maximum Tc of Conventional Superconductors at Ambient Pressure](https://doi.org/10.48550/arXiv.2502.18281)
+[The Maximum Tc of Conventional Superconductors at Ambient Pressure](https://doi.org/10.48550/arXiv.2502.18281) Accepted.
 
 [Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822)
 
-[Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340)
+[Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340) Revision review with PRB
 
 [From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252) Accepted at PRB
 
