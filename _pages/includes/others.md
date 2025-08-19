@@ -6,6 +6,8 @@
 
 # 💬 Presentations 
 ## Conference talks
+- Invited talk: "Computational Discovery of Functional Materials for Information Storage, Sustainability, and Quantum Technology", 2025 Global Young Elites Forum On Science & Engineering, 27-29 June, 2025
+- Invited talk: "Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database", EuMINe COST Action Second General Meeting, 16-18 July 2025
 - Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September September 4 2024
 - Oral talk: "Searching Materials Space for Hydride Superconductors at Ambient Pressure", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September 2 2024 (Sep2-6)
 - Invited talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", The World Materials Conference 2024 (WMC 2024) and Chinese Materials Conference 2024 (CMC 2024), Guangzhou, China, July 8-11 2024
@@ -22,6 +24,8 @@
 - Oral talk (specially invited): "[Two-dimensional Electron Gases at Oxide Interfaces](http://www.phy.sdu.edu.cn/info/1018/1587.htm)", Haiyou, "Haiyou" Doctoral Forum in Spintronics, Shandong University, Shandong, China, April, 2016.
 
 ## Invited Seminars
+- "Ab initio design of functional materials", Key lab of polar materials and devices (MOE) at East China Normal University, July 11, 2025
+- "Computational Discovery of Functional Materials for Information Storage, Sustainability, and Quantum Technology", Nanjing University of Posts and Telecommunications (NUPT), June 26, 2025
 - "Searching for high-performance ferroelectrics and high-temperature superconducting hydrides", Northwestern Polytechnical University, August 1 2024
 - "Searching for high-temperature superconducting hydrides and highperformance ferroelectrics", Xi'an Jiaotong University, July 29 2024
 - "Informatics-enabled high-throughput ab initio prediction of superconducting hydrides and ferroelectrics", Northeast Normal University, July 24 2024
@@ -32,6 +36,8 @@
 - "Emergent phenomena at the complex oxide interfaces", Japan Fine Ceramics Centers, Nagoya, Japan, April 4, 2016
 
 ## Conference posters
+- Yue-Wen Fang and Ion Errea, "Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database", 30th International Conference on Low Temperature Physics (LT30), Bilbao, Aug 7-13, 2025
+- Yue-Wen Fang, Dore Dangic, Ion Errea, "Ambient-pressure superconducting hydrides in GNoME database and based on electrides", SuperC workshop 2025, Sant Feliu de Guíxols, Spain, May 23-26, 2025. 
 - Yue-Wen Fang, Dore Dangic, Ion Errea, "Superconductivity of Lu-N-H systems at pressure", SuperC workshop 2024, Sant Feliu de Guíxols, Spain, August 27, 2024. 
 - Yue-Wen Fang, Ion Errea, "The superconductivity in doped barrium superhydrides", Psi-k conference 2022, EPFL campus in Lausanne, Switzerland, August 23, 2022. [Abstract](https://github.com/yw-fang/yw-fang.github.io/blob/master/conference-info/psi_k_conference_2022_abstract.pdf)
 - Yue-Wen Fang, Hanghui Chen, "Design of a new functional polar metal", Quantum Oxide Research Online Meeting (QUOROM-2), Université Paris-Saclay, Dec 11, 2020.
