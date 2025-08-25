@@ -15,10 +15,10 @@ Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. Du
 Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials by combining the state-of-the-art computational materials methods with machine learning techniques. 
 Yuewen's research work has resulted in the publication in prestigious journals such as <b>Science</b>, <b>Science Advances</b>, <b>Nature Communications</b>, <b>Advanced Materials</b>, and more.  
-These publications have garnered
- <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/google_scholar_crawler/results/gs_data_shieldsio.json&label=Google%20Citations&style=flat"></a> 
-and
-<a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/google_scholar_crawler/results/gs_data_h_shieldsio.json	&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a>
+<!-- These publications have garnered -->
+<!--  <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/google_scholar_crawler/results/gs_data_shieldsio.json&label=Google%20Citations&style=flat"></a>  -->
+<!-- and -->
+<!-- <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/google_scholar_crawler/results/gs_data_h_shieldsio.json	&labelColor=f6f6f6&color=blueviolet&style=flat&label=h_index"></a> -->
 </p>
 
 <!-- <a href='https://scholar.google.com/citations?user=6NU1KPQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/yw-fang/yw-fang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
