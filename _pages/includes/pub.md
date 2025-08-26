@@ -7,7 +7,7 @@
 
 [Control of magnetic transition, metal-semiconductor transition, and magnetic anisotropy in noncentrosymmetric monolayer Cr2Ge2Se3Te3](https://doi.org/10.48550/arXiv.2508.11899) In press at Applied Physics Letters
 
-[The Maximum Tc of Conventional Superconductors at Ambient Pressure](https://doi.org/10.48550/arXiv.2502.18281) Accepted.
+[The Maximum Tc of Conventional Superconductors at Ambient Pressure](https://doi.org/10.48550/arXiv.2502.18281) Accepted at Nature Communications
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
 
