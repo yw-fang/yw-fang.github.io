@@ -5,6 +5,8 @@
 
 ## Papers under review: <a name="underreview"></a>
 
+[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
+
 [Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design](https://doi.org/10.48550/arXiv.2507.21734) Under review
 
 [Control of magnetic transition, metal-semiconductor transition, and magnetic anisotropy in noncentrosymmetric monolayer Cr2Ge2Se3Te3](https://doi.org/10.48550/arXiv.2508.11899) In press at Applied Physics Letters
