@@ -11,8 +11,6 @@
 
 [Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design](https://doi.org/10.48550/arXiv.2507.21734) Under review
 
-[Control of magnetic transition, metal-semiconductor transition, and magnetic anisotropy in noncentrosymmetric monolayer Cr2Ge2Se3Te3](https://doi.org/10.48550/arXiv.2508.11899) In press at Applied Physics Letters
-
 [The Maximum Tc of Conventional Superconductors at Ambient Pressure](https://doi.org/10.48550/arXiv.2502.18281) Accepted at Nature Communications
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
@@ -44,12 +42,24 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 60 scientific papers (47 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 34 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 61 scientific papers (48 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>61. Rui-Qi Wang, Tengfei Cao, Tian-Min Lei, Xie Zhang*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1063/5.0276143">Control of magnetic transition, metal–semiconductor transition, and magnetic anisotropy in noncentrosymmetric monolayer Cr2Ge2Se3Te3
+</a>", <b>Applied Physics Letters</b>, 127, 092402, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1063/5.0276143'></div>
+<p><a href="https://doi.org/10.1063/5.0276143">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1063/5.0276143"><img src="./journal-cover/19-cover.jpeg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>60. Zhao Pan*, <b>Yue-Wen Fang</b>, Sergey A. Nikolaev, Lin Wu, Jie Zhang, Mengqi Ye, Jin Liu, Xubin Ye, Xiao Wang, Takumi Nishikubo, Yuki Sakai, Runze Yu, Shogo Kawaguchi, Nianpeng Lu, Yoshihiro Kuroiwa, Jun Chen*, Masaki Azuma*, Xianran Xing and Youwen Long*, "<a href="https://doi.org/10.1039/D5MH00251F">Anion-mediated unusual enhancement of negative thermal expansion in the oxyfluoride of PbTiO3
