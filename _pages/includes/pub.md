@@ -5,6 +5,8 @@
 
 ## Papers under review: <a name="underreview"></a>
 
+[Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes](https://www.researchsquare.com/article/rs-6397992/v1) Under review 
+
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
 
 [Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design](https://doi.org/10.48550/arXiv.2507.21734) Under review
