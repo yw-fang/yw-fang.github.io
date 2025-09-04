@@ -15,9 +15,9 @@
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
 
-[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822)
+[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Under review
 
-[Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340) Revision review with PRB
+[Enhanced superconductivity in barium hydrides via light element incorporation](https://arxiv.org/abs/2412.09340) Accepted at PRB
 
 [From superconductivity to non-superconductivity in LiPdH: a first principle approach](https://doi.org/10.48550/arXiv.2502.02252) Accepted at PRB
 
