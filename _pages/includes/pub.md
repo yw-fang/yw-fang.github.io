@@ -42,12 +42,24 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 61 scientific papers (48 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 61 scientific papers (49 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>61. Xiaoya Bai, Feiyu Qin*, Ruixin Li, <b>Yue-Wen Fang</b>, Jun Sun, Xiangdong Ding, Lei Hu*, "<a href="https://doi.org/10.1016/j.ceramint.2025.09.061">The investigation of local structure, thermal expansion and thermal conductivity of Cd2Ta2O7
+</a>", <b>Ceramics International</b>, online, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.ceramint.2025.09.061'></div>
+<!-- <p><a href="https://doi.org/10.1063/5.0276143">[Free full text]</a></p> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1016/j.ceramint.2025.09.061"><img src="./journal-cover/ceramics-international-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>61. Rui-Qi Wang, Tengfei Cao, Tian-Min Lei, Xie Zhang*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1063/5.0276143">Control of magnetic transition, metal–semiconductor transition, and magnetic anisotropy in noncentrosymmetric monolayer Cr2Ge2Se3Te3
