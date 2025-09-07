@@ -50,7 +50,7 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>61. Xiaoya Bai, Feiyu Qin*, Ruixin Li, <b>Yue-Wen Fang</b>, Jun Sun, Xiangdong Ding, Lei Hu*, "<a href="https://doi.org/10.1016/j.ceramint.2025.09.061">The investigation of local structure, thermal expansion and thermal conductivity of Cd2Ta2O7
+    <p>62. Xiaoya Bai, Feiyu Qin*, Ruixin Li, <b>Yue-Wen Fang</b>, Jun Sun, Xiangdong Ding, Lei Hu*, "<a href="https://doi.org/10.1016/j.ceramint.2025.09.061">The investigation of local structure, thermal expansion and thermal conductivity of Cd2Ta2O7
 </a>", <b>Ceramics International</b>, online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.ceramint.2025.09.061'></div>
