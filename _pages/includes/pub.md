@@ -42,12 +42,24 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 61 scientific papers (49 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 63 scientific papers (49 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>63. Zahra Alizadeh, <b>Yue-Wen Fang</b>, Ion Errea*, M.R. Mohammadizadeh*, "<a href="https://doi.org/10.1103/g518-sjsf">From superconductivity to nonsuperconductivity in LiPdH: A first principles approach
+</a>", <b>Physical Review B</b>, accepted, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2502.02252'></div>
+<p><a href="https://doi.org/10.48550/arXiv.2502.02252">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1103/g518-sjsf"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>62. Xiaoya Bai, Feiyu Qin*, Ruixin Li, <b>Yue-Wen Fang</b>, Jun Sun, Xiangdong Ding, Lei Hu*, "<a href="https://doi.org/10.1016/j.ceramint.2025.09.061">The investigation of local structure, thermal expansion and thermal conductivity of Cd2Ta2O7
