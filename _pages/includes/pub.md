@@ -21,7 +21,7 @@
 <b> †Co-first author; \*corresponding author </b>
 
 
-## Peer-reviewd journal papers: <a name="reviewedjournals"></a>
+## Peer-reviewed journal papers: <a name="reviewedjournals"></a>
 
 (Statistics: [Google scholar](https://scholar.google.com/citations?user=6NU1KPQAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Yue_Wen_Fang3), and
     <a
