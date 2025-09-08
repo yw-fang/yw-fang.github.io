@@ -42,7 +42,7 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 63 scientific papers (49 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 35 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 64 scientific papers (49 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 36 of these publications including Science as corresponding or (co)first author). </span>
 <!-- with 642 citations and h-index 16 -->
 
 †Co-first author; \*corresponding author
@@ -50,8 +50,20 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>64. <b>Yue-Wen Fang*</b>, Ion Errea*, "<a href="https://doi.org/10.1103/gwc3-myp7">Superconductivity in barium hydrides via incorporation of light elements
+</a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2412.09340'></div>
+<p><a href="https://doi.org/10.48550/arXiv.2412.09340">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1103/gwc3-myp7"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>63. Zahra Alizadeh, <b>Yue-Wen Fang</b>, Ion Errea*, M.R. Mohammadizadeh*, "<a href="https://doi.org/10.1103/g518-sjsf">From superconductivity to nonsuperconductivity in LiPdH: A first principles approach
-</a>", <b>Physical Review B</b>, accepted, 2025 </p> 
+</a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2502.02252'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2502.02252">[Free full text]</a></p>
