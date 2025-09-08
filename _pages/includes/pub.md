@@ -18,7 +18,7 @@
 [A Comprehensive Study on A2PdH2: From Ambient to High Pressure](https://doi.org/10.48550/arXiv.2508.04835) Under review
 
 
-<b> †Co-first author; \*corresponding author </b>
+<!-- <b> †Co-first author; \*corresponding author </b> -->
 
 
 ## Peer-reviewed journal papers: <a name="reviewedjournals"></a>
