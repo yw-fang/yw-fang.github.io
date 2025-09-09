@@ -55,8 +55,6 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-<tr> 
-  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>65. Ruihao Tan, Kaiwang Zhang, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.48550/arXiv.2507.21734">Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design
 </a>", <b>Journal of Materials Informatics</b>, in press, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
@@ -67,6 +65,8 @@
     <a href="https://doi.org/10.48550/arXiv.2507.21734"><img src="./journal-cover/JMI-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>64. <b>Yue-Wen Fang*</b>, Ion Errea*, "<a href="https://doi.org/10.1103/gwc3-myp7">Superconductivity in barium hydrides via incorporation of light elements
 </a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
