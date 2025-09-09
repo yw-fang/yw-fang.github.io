@@ -9,8 +9,6 @@
 
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
 
-[Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design](https://doi.org/10.48550/arXiv.2507.21734) Under review
-
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
 
 [Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Under review
@@ -38,14 +36,14 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 65 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 36 of these publications including Science as corresponding or (co)first author). </span>
+<span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>
 
 †Co-first author; \*corresponding author
 
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>65. Kun Gao, Tiago F. T. Cerqueira, Antonio Sanna, <b>Yue-Wen Fang</b>, Đorđe Dangić, Ion Errea, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques, "<a href="https://doi.org/10.1038/s41467-025-63702-w">The Maximum Tc of Conventional Superconductors at Ambient Pressure
+    <p>66. Kun Gao, Tiago F. T. Cerqueira, Antonio Sanna, <b>Yue-Wen Fang</b>, Đorđe Dangić, Ion Errea, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques, "<a href="https://doi.org/10.1038/s41467-025-63702-w">The Maximum Tc of Conventional Superconductors at Ambient Pressure
 </a>", <b>Nature Communications</b>, in press, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-63702-w'></div>
@@ -57,6 +55,18 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>65. Ruihao Tan, Kaiwang Zhang, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.48550/arXiv.2507.21734">Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design
+</a>", <b>Journal of Materials Informatics</b>, in press, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2507.21734'></div>
+<p><a href="https://doi.org/10.48550/arXiv.2507.21734">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.48550/arXiv.2507.21734"><img src="./journal-cover/JMI-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
     <p>64. <b>Yue-Wen Fang*</b>, Ion Errea*, "<a href="https://doi.org/10.1103/gwc3-myp7">Superconductivity in barium hydrides via incorporation of light elements
 </a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
