@@ -43,7 +43,7 @@
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>66. Kun Gao, Tiago F. T. Cerqueira, Antonio Sanna, <b>Yue-Wen Fang</b>, Đorđe Dangić, Ion Errea, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques, "<a href="https://doi.org/10.1038/s41467-025-63702-w">The Maximum Tc of Conventional Superconductors at Ambient Pressure
+    <p>66. Kun Gao, Tiago F. T. Cerqueira, Antonio Sanna, <b>Yue-Wen Fang</b>, Đorđe Dangić, Ion Errea, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques*, "<a href="https://doi.org/10.1038/s41467-025-63702-w">The Maximum Tc of Conventional Superconductors at Ambient Pressure
 </a>", <b>Nature Communications</b>, in press, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-63702-w'></div>
@@ -55,7 +55,7 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>65. Ruihao Tan, Kaiwang Zhang, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.48550/arXiv.2507.21734">Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design
+    <p>65. Ruihao Tan, Kaiwang Zhang*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.48550/arXiv.2507.21734">Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design
 </a>", <b>Journal of Materials Informatics</b>, in press, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2507.21734'></div>
