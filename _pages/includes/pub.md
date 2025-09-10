@@ -44,7 +44,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>66. Kun Gao, Tiago F. T. Cerqueira, Antonio Sanna, <b>Yue-Wen Fang</b>, Đorđe Dangić, Ion Errea, Hai-Chen Wang, Silvana Botti, Miguel A. L. Marques*, "<a href="https://doi.org/10.1038/s41467-025-63702-w">The Maximum Tc of Conventional Superconductors at Ambient Pressure
-</a>", <b>Nature Communications</b>, in press, 2025 </p> 
+</a>", <b>Nature Communications</b>, 16, 8253 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-63702-w'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2502.18281">[Free full text]</a></p>
