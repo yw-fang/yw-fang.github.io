@@ -80,9 +80,9 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>63. Zahra Alizadeh, <b>Yue-Wen Fang</b>, Ion Errea*, M.R. Mohammadizadeh*, "<a href="https://doi.org/10.1103/g518-sjsf">From superconductivity to nonsuperconductivity in LiPdH: A first principles approach
-</a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
+</a>", <b>Physical Review B</b>,  112, 104308, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
-<div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2502.02252'></div>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1103/g518-sjsf'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2502.02252">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
