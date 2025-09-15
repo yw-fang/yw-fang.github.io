@@ -5,6 +5,8 @@
 
 ## Papers under review: <a name="underreview"></a>
 
+<!-- Sliding multiple polarization states and controllable anomalous hall conductivity in bilayer MnSb2Se4 with Mn-Sb antisites, accepted at APL Computational Physics -->
+
 [Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes](https://www.researchsquare.com/article/rs-6397992/v1) Under review 
 
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
@@ -36,7 +38,8 @@
       https://orcid.org/0000-0003-3674-7352
     </a> )
 
-<span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>
+<!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
+<span style="color:blue"> Overview: 66 scientific papers (37 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
