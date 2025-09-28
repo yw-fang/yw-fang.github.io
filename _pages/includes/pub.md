@@ -39,14 +39,26 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 67 scientific papers (37 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 68 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>66. Feiyu Qin*, Xiaoya Bai, <b>Yue-Wen Fang</b>, Pengli Zhu, Jun Wang, Pengtao Cheng*, Dunhui Wang, Lei Hu*, Jun Sun, Xiangdong Ding, "<a href="https://doi.org/XXX">Giant negative thermal expansion exceeding 1000 K in PrMnO3 via synergy of local structure distortion and orbital disordering
+    <p>68. Wenbo Zhao†, Ying Sun†, Jiaxiang Li, Peng Yuan, Toshiaki Iitaka, Xin Zhong, Hefei Li*, <b>Yue-Wen Fang*</b>, Hanyu Liu*, Ion Errea, Yu Xie*, "<a href="https://doi.org/XXX">The Impact of Ionic Anharmonicity on Superconductivity in Metal-Stuffed B-C Clathrates
+</a>", <b>npj Computational Materials</b>, accepted, DOI not available 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='XXX'></div>
+<p><a href="https://doi.org/10.48550/arXiv.2501.12068">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/XXX"><img src="./journal-cover/npj-computational-materials.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>67. Feiyu Qin*, Xiaoya Bai, <b>Yue-Wen Fang</b>, Pengli Zhu, Jun Wang, Pengtao Cheng*, Dunhui Wang, Lei Hu*, Jun Sun, Xiangdong Ding, "<a href="https://doi.org/XXX">Giant negative thermal expansion exceeding 1000 K in PrMnO3 via synergy of local structure distortion and orbital disordering
 </a>", <b>Nature Communications</b>, accepted, DOI not available 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='XXX'></div>
