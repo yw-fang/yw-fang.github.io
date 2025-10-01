@@ -95,9 +95,9 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>64. <b>Yue-Wen Fang*</b>, Ion Errea*, "<a href="https://doi.org/10.1103/gwc3-myp7">Superconductivity in barium hydrides via incorporation of light elements
-</a>", <b>Physical Review B</b>, accepted online, 2025 </p> 
+</a>", <b>Physical Review B</b>, 112, 125204, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
-<div class='altmetric-embed' data-badge-popover='right' data-doi='10.48550/arXiv.2412.09340'></div>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='110.1103/gwc3-myp7'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2412.09340">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
