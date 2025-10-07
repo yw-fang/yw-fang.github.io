@@ -95,7 +95,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>65. Ruihao Tan, Kaiwang Zhang*, <b>Yue-Wen Fang*</b>, "<a href="http://dx.doi.org/10.20517/jmi.2025.62">Ultralow thermal conductivity via weak interactions in PbSe/PbTe monolayer heterostructure for thermoelectric design
-</a>", <b>Journal of Materials Informatics</b>, "<a href="https://www.oaepublish.com/pre_onlines/jmi.2025.41">Pre-online</a>", 2025 </p> 
+</a>", <b>Journal of Materials Informatics</b>, "<a href="https://www.oaepublish.com/pre_onlines/jmi.2025.62">Pre-online</a>", 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.20517/jmi.2025.62'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2507.21734">[Free full text]</a></p>
