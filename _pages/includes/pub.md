@@ -39,11 +39,23 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 68 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 69 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>69. Jing Sun, <b>Yue-Wen Fang</b>, Ziyu Niu, Zekun Zhang, Fatoye Sawyerr, Jingjing Wan, Jing Wang, Xixiang Jing, Yue Yu, Junqin Shi, Li-Min Liu, Xiaoli Fan*, Tengfei Cao*, "<a href="https://doi.org/10.1063/5.0294176">Sliding multiple polarization states and controllable anomalous hall conductivity in bilayer MnSb2Se4 with Mn-Sb antisites
+</a>", <b>APL Computational Physics</b>, 1, 026106, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1063/5.0294176'></div>
+<p><a href="https://doi.org/10.1063/5.0294176>[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/XXX"><img src="./journal-cover/APL-comput-phys.jpeg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>68. Wenbo Zhao†, Ying Sun†, Jiaxiang Li, Peng Yuan, Toshiaki Iitaka, Xin Zhong, Hefei Li*, <b>Yue-Wen Fang*</b>, Hanyu Liu*, Ion Errea, Yu Xie*, "<a href="https://doi.org/XXX">The Impact of Ionic Anharmonicity on Superconductivity in Metal-Stuffed B-C Clathrates
