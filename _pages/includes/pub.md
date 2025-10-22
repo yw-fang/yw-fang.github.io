@@ -261,7 +261,7 @@
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>50. Jie Tu†, <b>Yue-Wen Fang†</b>, Yue Lu†, Hangren Li,  Guoqiang Xi, Jiaqi Ding,  Xudong Liu, Xiuqiao Liu,  Qianqian Yang,  Jianjun Tian, and Linxing Zhang* "<a href="https://doi.org/10.1063/5.0174252">Strain-controlled oxygen vacancy for robust ferroelectric BiSmFe2O6-d double-perovskite epitaxial thin films
-</a>", <b>Applied Physical Reviews</b>, 11, 011413, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
+</a>", <b>Applied Physics Reviews</b>, 11, 011413, 2024 </p>  <!-- <a href="https://doi.org/10.5281/zenodo.7847492"><img src="https://img.shields.io/badge/Dataset-zenodo-brightgreen" alt="dataset"></a> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/10.1063/5.0174252"><img src="./journal-cover/ApplPhysRev-2024Jan-cover.jpg" alt="cover" width="500"></a> 
