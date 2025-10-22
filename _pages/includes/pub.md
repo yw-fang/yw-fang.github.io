@@ -13,9 +13,9 @@
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
 
-[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Under review
+[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Minor revision
 
-[A Comprehensive Study on A2PdH2: From Ambient to High Pressure](https://doi.org/10.48550/arXiv.2508.04835) Under review
+[A Comprehensive Study on A2PdH2: From Ambient to High Pressure](https://doi.org/10.48550/arXiv.2508.04835) Accepted at Journal of Materials Chemistry C
 
 
 <!-- <b> †Co-first author; \*corresponding author </b> -->
