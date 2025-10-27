@@ -55,6 +55,7 @@
 
 # 💻 Service
 ## Editor & Reviewer
+- Editorial Board Member of <b>Discover Materials</b> (Springer Nature) from late October 2025
 - [Youth Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf) from early 2023 to the end of 2024 of <b>Acta Metallurgica Sinica (English Letters)</b>.
 - [Young Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/Chip-junior-editor2024-2026.pdf) from June 2024 to June 2026 of <b>Chip</b>--An official journal of Shanghai Jiao Tong University.
 - [Junior Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/JMI-junior-editor2025-2027.pdf) of <b>Journal of Materials Informatics</b> (OAE) from Jan 14 2025 to Jan 14 2027
