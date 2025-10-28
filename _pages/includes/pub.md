@@ -39,11 +39,23 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 69 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 70 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>70. Zahra Alizadeh, <b>Yue-Wen Fang</b>, Ion Errea, M.R. Mohammadizadeh*, "<a href="https://doi.org/10.1039/D5TC02828K">A comprehensive study on A2PdH2: from ambient to high pressure
+</a>", <b>Journal of Materials Chemistry C</b>, online, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1039/D5TC02828K'></div>
+<p><a href="https://doi.org/10.48550/arXiv.2508.04835">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1039/D5TC02828K"><img src="./journal-cover/15-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>69. Jing Sun, <b>Yue-Wen Fang</b>, Ziyu Niu, Zekun Zhang, Fatoye Sawyerr, Jingjing Wan, Jing Wang, Xixiang Jing, Yue Yu, Junqin Shi, Li-Min Liu, Xiaoli Fan*, Tengfei Cao*, "<a href="https://doi.org/10.1063/5.0294176">Sliding multiple polarization states and controllable anomalous hall conductivity in bilayer MnSb2Se4 with Mn-Sb antisites
