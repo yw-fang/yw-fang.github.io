@@ -39,11 +39,21 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 70 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 71 scientific papers (38 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>71.Li-Qi Huang, Ming Li*, Hang Zhou, Zi-An Wang, <b>Yue-Wen Fang</b>, Yu-Ping Sun, Wen-Jian Lu*, Ding-Fu Shao*, "<a href="https://doi.org/10.1103/l2t3-n7r1">Tunable spin texture in ferroelectric Bi6O9
+</a>", <b>Physical Review B</b>, online, 2025 </p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1103/l2t3-n7r1'></div>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1103/l2t3-n7r1"><img src="./journal-cover/PRB2020-vol102-issu24-cover.jpg" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>70. Zahra Alizadeh, <b>Yue-Wen Fang</b>, Ion Errea, M.R. Mohammadizadeh*, "<a href="https://doi.org/10.1039/D5TC02828K">A comprehensive study on A2PdH2: from ambient to high pressure
