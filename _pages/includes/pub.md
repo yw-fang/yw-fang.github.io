@@ -7,15 +7,13 @@
 
 <!-- Sliding multiple polarization states and controllable anomalous hall conductivity in bilayer MnSb2Se4 with Mn-Sb antisites, accepted at APL Computational Physics -->
 
-[Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes](https://www.researchsquare.com/article/rs-6397992/v1) Under review 
+[Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes](https://www.researchsquare.com/article/rs-6397992/v1) Accepted in principle at Nature Communication
 
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
 
-[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Minor revision
-
-[A Comprehensive Study on A2PdH2: From Ambient to High Pressure](https://doi.org/10.48550/arXiv.2508.04835) Accepted at Journal of Materials Chemistry C
+[Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity](https://arxiv.org/abs/2411.03822) Accepted at Computional Materials Today
 
 
 <!-- <b> †Co-first author; \*corresponding author </b> -->
