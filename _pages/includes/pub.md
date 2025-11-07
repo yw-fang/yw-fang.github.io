@@ -5,7 +5,7 @@
 
 ## Papers under review: <a name="underreview"></a>
 
-[Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes](https://www.researchsquare.com/article/rs-6397992/v1) Accepted in principle at Nature Communication
+[](https://www.researchsquare.com/article/rs-6397992/v1) Accepted in principle at Nature Communication
 
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
 
@@ -34,15 +34,27 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 72 scientific papers (39 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 73 scientific papers (39 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>73. Hangren Li†, Jie Tu†, Siyuan Du†, Guoqiang Xi†, Chen Liu†, <b>Yue-Wen Fang</b>, Shuai Xu, Jia-Han Zhang, Enqi Sun, Shunli Ouyang, Xudong Liu, Longyuan Shi, Xiuqiao Liu, Dongxing Zheng, Lei Guo, Xixiang Zhang, Kuijuan Jin, Jianjun Tian, Linxing Zhang, Xianran Xing*, "<a href="https://doi.org/10.1016/">Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes
+</a>", <b>Nature Communications</b>, accepted, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/'></div>
+<p><a href="https://www.researchsquare.com/article/rs-6397992/v1">[Free full text]</a></p>
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1016/"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
     <p>72. Đorđe Dangić*, <b>Yue-Wen Fang*</b>, Tiago F.T. Cerqueira, Antonio Sanna, Trinidad Novoa, Hao Gao, Miguel A.L. Marques, Ion Errea*, "<a href="https://doi.org/10.1016/j.commt.2025.100043">Ambient pressure high temperature superconductivity in RbPH3 facilitated by ionic anharmonicity
-</a>", <b>Computational Materials Today</b>, online, 2025 </p> 
+</a>", <b>Computational Materials Today</b>, 8, 100043, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.commt.2025.100043'></div>
 <p><a href="https://arxiv.org/abs/2411.03822">[Free full text]</a></p>
