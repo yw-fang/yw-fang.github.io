@@ -5,7 +5,7 @@
 
 ## Papers under review: <a name="underreview"></a>
 
-[](https://www.researchsquare.com/article/rs-6397992/v1) Accepted in principle at Nature Communication
+[High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) Under review
 
 [Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
 
