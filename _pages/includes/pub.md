@@ -3,13 +3,13 @@
 # 📝 Publications 
 <!-- <span style="color:red">The section of Publications is under maintance, thus some of them are not shown properly.</span>  -->
 
-## Papers under review: <a name="underreview"></a>
+## Papers under review/revision: <a name="underreview"></a>
 
-[High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) Under review
+[High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 
-[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Under review
+[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) 
 
-[Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) Under review
+[Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
 
 
 
