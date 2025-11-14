@@ -111,11 +111,11 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>67. Feiyu Qin*, Xiaoya Bai, <b>Yue-Wen Fang</b>, Pengli Zhu, Jun Wang, Pengtao Cheng*, Dunhui Wang, Lei Hu*, Jun Sun, Xiangdong Ding, "<a href="https://doi.org/XXX">Giant negative thermal expansion exceeding 1000 K in PrMnO3 via synergy of local structure distortion and orbital disordering
-</a>", <b>Nature Communications</b>, accepted, DOI not available 2025 </p> 
+    <p>67. Feiyu Qin*, Xiaoya Bai, <b>Yue-Wen Fang</b>, Pengli Zhu, Jun Wang, Pengtao Cheng*, Dunhui Wang, Lei Hu*, Jun Sun, Xiangdong Ding, "<a href="https://doi.org/10.1038/s41467-025-64925-7">Giant negative thermal expansion exceeding 1000 K in PrMnO3 via synergy of local structure distortion and orbital disordering
+</a>", <b>Nature Communications</b>, 16, 9977 (2025). </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
-<div class='altmetric-embed' data-badge-popover='right' data-doi='XXX'></div>
-<!-- <p><a href="https://doi.org/10.48550/arXiv.2502.18281">[Free full text]</a></p> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-64925-7'></div>
+<p><a href="https://rdcu.be/ePPyu">[Free full text]</a></p> -->
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/XXX"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
