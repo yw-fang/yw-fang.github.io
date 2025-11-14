@@ -115,7 +115,7 @@
 </a>", <b>Nature Communications</b>, 16, 9977 (2025). </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-64925-7'></div>
-<p><a href="https://rdcu.be/ePPyu">[Free full text]</a></p> -->
+<p><a href="https://rdcu.be/ePPyu">[Free full text]</a></p> 
   </td> 
   <td style="vertical-align: top;"> 
     <a href="https://doi.org/XXX"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
