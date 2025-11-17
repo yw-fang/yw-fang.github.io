@@ -34,11 +34,23 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 73 scientific papers (39 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 74 scientific papers (40 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>74. Guiyan Dong, Tian Cui*, Zihao Huo, Zhengtao Liu, Wenxuan Chen, Pugeng Hou, <b>Yue-Wen Fang*</b>, Defang Duan*, "<a href="https://doi.org/10.1016/j.mtphys.2025.101939">Machine-learning potentials for quantum and anharmonic effects in superconducting Fm-3m LaBeH8
+</a>", <b>Materials Today Physics</b>, 59, 101939, 2025 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.mtphys.2025.101939'></div>
+<!-- <p><a href="https://www.researchsquare.com/article/rs-6397992/v1">[Free full text]</a></p> -->
+  </td> 
+  <td style="vertical-align: top;"> 
+    <a href="https://doi.org/10.1016/j.mtphys.2025.101939"><img src="./journal-cover/MaterTodayPhys-cover.png" alt="cover" width="500"></a> 
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>73. Hangren Li†, Jie Tu†, Siyuan Du†, Guoqiang Xi†, Chen Liu†, <b>Yue-Wen Fang</b>, Shuai Xu, Jia-Han Zhang, Enqi Sun, Shunli Ouyang, Xudong Liu, Longyuan Shi, Xiuqiao Liu, Dongxing Zheng, Lei Guo, Xixiang Zhang, Kuijuan Jin, Jianjun Tian, Linxing Zhang, Xianran Xing*, "<a href="https://doi.org/10.1016/">Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes
