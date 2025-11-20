@@ -445,6 +445,7 @@
  <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
      <p>35. L. Hu, Y. Zhu, <strong>Y.-W. Fang</strong>, M. Fukuda, T. Nishikubo, Z. Pan, Y. Sakai, S. Kawaguchi, H. Das, A. Machida, T. Watanuki, S. Mori, K. Takenaka and M. Azuma, "<a href="https://doi.org/10.1021/acs.chemmater.1c01619">Origin and absence of giant negative thermal expansion in reduced and oxidized Ca<sub>2</sub>RuO<sub>4</sub></a>", <strong>Chemistry of Materials</strong>, 33, 19, 7646–7655 (2021).</p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1021/acs.chemmater.1c01619'></div>
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1021/acs.chemmater.1c01619"><img src="./journal-cover/chem-mater.2021.33.issue-19-cover.jpg" alt="cover" width="500"></a> 
@@ -454,6 +455,7 @@
    <td style="vertical-align: top; padding-right: 20px;"> 
      <p>34. L. Hu, Y. Luo, <strong>Y.-W. Fang</strong>, F. Qin, X. Cao, H. Xie, J. Liu, J. Dong, A. Sanson, M. Giarola, x. Tan, Y. Zheng, A. Suwardi, Y. Huang, K. Hippalgaonkar, J. He, W. Zhang, J. Xu, Q. Yan, and M. G. Kanatzidis, "<a href="https://doi.org/10.1002/aenm.202100661">High Thermoelectric Performance through Crystal Symmetry Enhancement in Triply Doped Diamondoid Compound Cu2SnSe3</a>", <b>Advanced Energy Materials</b> 11, 2100661 (2021).</p> 
 <p><a href="https://www.researchgate.net/publication/355166068_High_Thermoelectric_Performance_through_Crystal_Symmetry_Enhancement_in_Triply_Doped_Diamondoid_Compound_Cu2SnSe3">[Free full text]</a></p>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1002/aenm.202100661'></div>
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1002/aenm.202100661"><img src="./journal-cover/AdvEnergyMater-Vol11Iss42.jpg" alt="cover" width="500"></a> 
@@ -462,6 +464,7 @@
   <tr> 
      <td style="vertical-align: top; padding-right: 20px;"> 
        <p>33. L. Hu, <strong>Y.-W. Fang</strong>, F. Qin, X. Cao, X. Zhao, Y. Luo, D. V. M. Repaka, W. Luo, A. Suwardi, T. Soldi, U. Aydemir, Y. Huang, K. Hippalgaonkar, G. J. Snyder, J. Xu, and Q. Yan, "<a href="https://doi.org/10.1038/s41467-021-25119-z">High thermoelectric performance enabled by convergence of nested conduction bands in Pb7Bi4Se13 with low thermal conductivity</a>", <strong>Nature Communications</strong> 12, 4793 (2021).</p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-021-25119-z'></div>
      </td> 
      <td style="vertical-align: top;"> 
        <a href="https://doi.org/10.1038/s41467-021-25119-z"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
@@ -470,6 +473,7 @@
   <tr> 
    <td style="vertical-align: top; padding-right: 20px;"> 
      <p>32. H.-J. Liu†, M. Ye†, C.-Y. Yang†, <b>Y.-W. Fang†</b>, Y.-Y. Chin, C.-Y. Chen, R. T. Hung, Y. Zhu, L.-C. He, M.-Y. Huang, L. Chen, M. Gu, S. Ke, Y.-F. Liao, K.-D. Tsuei, H.-J. Lin, C.-T. Chen, S. Agrestini, J. Herrero-Martin, and C.-H. Lai, "<a href="https://doi.org/10.1016/j.apmt.2021.101101">Atomic origin of room-temperature two-dimensional itinerant ferromagnetism in an oxide-monolayer heterostructure</a>", <strong>Applied Materials Today</strong> 24, 101101 (2021).</p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.apmt.2021.101101'></div>
    </td> 
    <td style="vertical-align: top;"> 
      <a href="https://doi.org/10.1016/j.apmt.2021.101101"><img src="./journal-cover/AppliedMaterialsToday-2021-VOL24.png" alt="cover" width="500"></a> 
