@@ -111,14 +111,14 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>68. Wenbo Zhao†, Ying Sun†, Jiaxiang Li, Peng Yuan, Toshiaki Iitaka, Xin Zhong, Hefei Li*, <b>Yue-Wen Fang*</b>, Hanyu Liu*, Ion Errea, Yu Xie*, "<a href="https://doi.org/XXX">The Impact of Ionic Anharmonicity on Superconductivity in Metal-Stuffed B-C Clathrates
-</a>", <b>npj Computational Materials</b>, accepted, DOI not available 2025 </p> 
+    <p>68. Wenbo Zhao†, Ying Sun†, Jiaxiang Li, Peng Yuan, Toshiaki Iitaka, Xin Zhong, Hefei Li*, <b>Yue-Wen Fang*</b>, Hanyu Liu*, Ion Errea, Yu Xie*, "<a href="https://doi.org/10.1038/s41524-025-01816-x">The Impact of Ionic Anharmonicity on Superconductivity in Metal-Stuffed B-C Clathrates
+</a>", <b>npj Computational Materials</b>, 11, 347, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
-<div class='altmetric-embed' data-badge-popover='right' data-doi='XXX'></div>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41524-025-01816-x'></div>
 <p><a href="https://doi.org/10.48550/arXiv.2501.12068">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/XXX"><img src="./journal-cover/npj-computational-materials.jpg" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41524-025-01816-x"><img src="./journal-cover/npj-computational-materials.jpg" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
