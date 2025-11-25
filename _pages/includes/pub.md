@@ -53,14 +53,14 @@
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>73. Hangren Li†, Jie Tu†, Siyuan Du†, Guoqiang Xi†, Chen Liu†, <b>Yue-Wen Fang</b>, Shuai Xu, Jia-Han Zhang, Enqi Sun, Shunli Ouyang, Xudong Liu, Longyuan Shi, Xiuqiao Liu, Dongxing Zheng, Lei Guo, Xixiang Zhang, Kuijuan Jin, Jianjun Tian, Linxing Zhang, Xianran Xing*, "<a href="https://doi.org/10.1016/">Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes
-</a>", <b>Nature Communications</b>, accepted, 2025 </p> 
+    <p>73. Hangren Li†, Jie Tu†, Siyuan Du†, Guoqiang Xi†, Chen Liu†, <b>Yue-Wen Fang</b>, Shuai Xu, Jia-Han Zhang, Enqi Sun, Shunli Ouyang, Xudong Liu, Longyuan Shi, Xiuqiao Liu, Dongxing Zheng, Lei Guo, Xixiang Zhang, Kuijuan Jin, Jianjun Tian, Linxing Zhang, Xianran Xing*, "<a href="https://doi.org/10.1038/s41467-025-66697-6">Efficient electrodynamic stripping for 12-inch wafer-scale freestanding ferroelectric oxide membranes
+</a>", <b>Nature Communications</b>, online, 2025 </p> 
 <!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
-<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/'></div>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s41467-025-66697-6'></div>
 <p><a href="https://www.researchsquare.com/article/rs-6397992/v1">[Free full text]</a></p>
   </td> 
   <td style="vertical-align: top;"> 
-    <a href="https://doi.org/10.1016/"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
+    <a href="https://doi.org/10.1038/s41467-025-66697-6"><img src="./journal-cover/NatComm-cover.png" alt="cover" width="500"></a> 
   </td> 
 </tr>
 <tr> 
