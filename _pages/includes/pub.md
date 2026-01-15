@@ -7,7 +7,7 @@
 
 [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 
-[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) 
+[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Accepted at Communications Physics
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
 
