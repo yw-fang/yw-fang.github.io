@@ -12,7 +12,7 @@ Shanghai, China, in June 2017, under the supervision of Prof. Chun-Gang Duan. Du
 </p>
 
 <p>
-Yuewen's research interests include materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
+Yuewen's research interests include quantum materials theory and materials discovery of thermoelectrics, superconductors, multiferroics, ferroelectrics, 
 polar metals, complex oxide interfaces, and photovoltaic materials by combining the state-of-the-art computational materials methods with machine learning techniques. 
 Yuewen's research work has resulted in the publication in prestigious journals such as <b>Science</b>, <b>Science Advances</b>, <b>Nature Communications</b>, <b>Advanced Materials</b>, and more.  
 <!-- These publications have garnered -->
@@ -28,8 +28,8 @@ and
 -->
 
 <p>
-Yuewen serves as a Youth Editor of the Editorial Board of 4 JCR-Q1 journals including InfoMat, Journal of Materials Informatics, Chip and Acta Metallurgica Sinica (English Letters). He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
-Up till now, he has contributed 250+ verified peer reviews to 50 peer-reviewed journals such as Physical Review Letters and Nature sister journals.
+Yuewen serves as an Editor of Discover Materials (Springer Nature), and a Youth Editor of the Editorial Board of 4 JCR-Q1 journals including InfoMat, Journal of Materials Informatics, Chip and Acta Metallurgica Sinica (English Letters). He is an enthusiastic reviewer with strong willingness to help authors in the community publish their research findings by providing expert comments on improving the manuscripts. 
+Up till now, he has contributed 280+ verified peer reviews to 60 peer-reviewed journals such as Physical Review Letters and Nature sister journals.
 <!-- Up till now, he has contributed <span style="color: blue;">121 verified peer reviews</span> to 26 peer-reviewed journals such as Physical Review Letters. -->
 </p>
 </div> 
