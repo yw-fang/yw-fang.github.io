@@ -1,6 +1,7 @@
 
 # 🔥 News
 <!-- - *2025.06.13*: 🎉🎉 Extraordinary Grant of CSIC was approved today! One travel grant was also approved today! -->
+- *2026.02*: 🎉🎉 I was selected as one of the awardees of the <b>2025 Outstanding Reviewer Award</b> by Journal of Materials Informatics 
 - *2025.11*: 🎉🎉 Two works are now online at Nature Communications (https://rdcu.be/eSxQq and https://rdcu.be/eSxQ2)
 - *2025.05.05*: 🎉🎉 New research project "AI-CrysPred" was approved today!
 - *2025.04.23*: 🎉🎉 Two works, respectively, are published at [Science Advances](https://doi.org/10.1126/sciadv.ads4925) and [Nature Communications](https://rdcu.be/ei3XE).
