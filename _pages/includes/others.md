@@ -56,38 +56,23 @@
 # 💻 Service
 ## Editor & Reviewer
 - Editorial Board Member of <b>Discover Materials</b> (Springer Nature) from late October 2025
-- [Youth Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/2023-March15-Youth-editor-ActaMetallurgicaSinica-Fang.pdf) from early 2023 to the end of 2024 of <b>Acta Metallurgica Sinica (English Letters)</b>.
-- [Young Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/Chip-junior-editor2024-2026.pdf) from June 2024 to June 2026 of <b>Chip</b>--An official journal of Shanghai Jiao Tong University.
-- [Junior Editorial Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/JMI-junior-editor2025-2027.pdf) of <b>Journal of Materials Informatics</b> (OAE) from Jan 14 2025 to Jan 14 2027
-- [Young Advisory Board](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/journal-editor/InfoMat-junior-editor2025-2027.pdf) of <b>InfoMat</b> (Wiley) from Jan 15, 2025 to Jan 15, 2027
-- Reviewer for journals including PNAS; Physical Review Letters; Physical Review B; Physical Review Applied; Physical Review Materials; Small; APL Materials; npj Computational Materials;
-Computational Materials Today; Communications Materials;
-ACS Applied Energy Materials; Journal of Materials Chemistry C; 
-Advanced Science; Journal of applied physics; Computational Materials Science; Materials Chemistry and Physics; Journal of Physics: Condensed Matter; Journal of Physics: Materials;
-Journal of Physics D: Applied Physics; Nano Express; Rengong Jingti Xuebao/Journal of Synthetic Crystals (Chinese); Bulletin of the Chinese Ceramic Society;
-Journal of Alloys and Compounds; Physica Scripta; Journal of Advanced Ceramics; Ceramics international; IEEE Transactions on Magnetics; Journal of Open Source Software; Nanotechnology; Materials Research Express; Journal of Physics Communications; Microstructures; Journal of Materials Informatics; Materials Science in Semiconductor Processing; Journal of the European Ceramic Society; Inorganic Chemistry; Semiconductor Science and Technology; Journal of Physics and Chemistry of Solids; Condensed Matter; ACS Omega; Chemical Synthesis; Journal of Physics: Energy; Annalen der Physik
+- Youth Editorial Board from early 2023 to the end of 2024 of <b>Acta Metallurgica Sinica (English Letters)</b>.
+- Young Editorial Board from June 2024 to June 2026 of <b>Chip</b>--An official journal of Shanghai Jiao Tong University.
+- Junior Editorial Board of <b>Journal of Materials Informatics</b> (OAE) from Jan 14 2025 to Jan 14 2027
+- Young Advisory Board of <b>InfoMat</b> (Wiley) from Jan 15, 2025 to Jan 15, 2027
+- Reviewer for around 70 SCI journals such as PNAS and Physical Review Letters. More record can be found in ORCID.
 - Code reviewer for codes submitted to Journal of Open Source Software.
-- [Reviewer](./certficates/review-certificate/EURIZON2023-reviewer-ID78.pdf) for Horizon 2020 grant EURIZON Fellowship in 2023 that is dedicated to support Ukrainian scientists and Ukrainian research infrastructures as well as strengthening the research infrastructures landscape in Europe
+- Reviewer for Horizon 2020 grant EURIZON Fellowship in 2023
 - Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
 
 ## Committee
 - Member of International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020
-- [Member](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/conference-committee/AMEE2023-TPC.pdf) of Conference Committee of 2023 5th International Conference on Advanced Materials and Ecological Environment
+- Member of Conference Committee of 2023 5th International Conference on Advanced Materials and Ecological Environment
 - One of the three organizers (Tiago Cerqueira, Yue-Wen Fang, Simone di Cataldo) of the Mini-Colloquium "Frontiers in phonon-mediated superconductivity" at CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, 2024
 
 ## Outreach
-- "Inspire Life (Inspira Bizitzak 2024)" [poster presentation](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2024-Oct21-science-meusem-certificate.pdf) in the Science Meuseum of San Sebastian (Spain), 2024 Oct. 21
+- "Inspire Life (Inspira Bizitzak 2024)" in the Science Meuseum of San Sebastian (Spain), 2024 Oct. 21
 - Science volunteer for "High school student intern program" at Materials Physics Center, June 2022
-- A [science volunteer](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/ScienceWeek-UPVEHU2022.pdf) in the "scale up your world" workshop in the Science Week
-  of UPV/EHU, Tabakalera, San Sebastian, (Spain), 2022 Nov. 12.
-- "A life for science" oral communication and poster presentation in the
-  Science Meuseum of San Sebastian (Spain), 2022 October [17](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct17-science-meusem-certificate.pdf) and [24](https://github.com/yw-fang/yw-fang.github.io/blob/master/certficates/outreach/2022-Oct24-science-meusem-certificate.pdf). The
-lecture can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ).
+- A science volunteer in the "scale up your world" workshop in the Science Week of UPV/EHU, Tabakalera, San Sebastian, (Spain), 2022 Nov. 12.
+- "A life for science" oral communication and poster presentation in the Science Meuseum of San Sebastian (Spain), 2022 October 17 and 24. The lecture can be found in [YouTube](https://www.youtube.com/watch?v=TmRp50fTypQ).
 - Plenary presentation in the “Science Forum for Young Generations”, China. (2013 September 13)
-
-<!-- - *2011.05 - 2011.06* Student Internship @ Shanghai Baosteel Group Corporation, China  (R$\&$D center) -->
-<!-- - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou. -->
-<!-- - *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou. -->
-<!-- - *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing. -->
-<!-- - *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou. -->
-<!-- - *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
