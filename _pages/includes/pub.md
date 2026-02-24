@@ -43,10 +43,10 @@
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>75. <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1080/00107514.2026.2624124">Advanced ferroelectric and piezoelectric materials
 </a>", <b>Contemporary Physics</b>, 1, 2026 </p> 
-<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1080/00107514.2026.2624124'></div>
 <!-- <p><a href="https://www.researchsquare.com/article/rs-6397992/v1">[Free full text]</a></p> -->
   </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>74. Guiyan Dong, Tian Cui*, Zihao Huo, Zhengtao Liu, Wenxuan Chen, Pugeng Hou, <b>Yue-Wen Fang*</b>, Defang Duan*, "<a href="https://doi.org/10.1016/j.mtphys.2025.101939">Machine-learning potentials for quantum and anharmonic effects in superconducting Fm-3m LaBeH8
