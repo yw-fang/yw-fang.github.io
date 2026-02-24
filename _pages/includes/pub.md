@@ -34,11 +34,19 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 74 scientific papers (40 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 75 scientific papers (41 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>75. <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1080/00107514.2026.2624124">Advanced ferroelectric and piezoelectric materials
+</a>", <b>Contemporary Physics</b>, 1, 2026 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1080/00107514.2026.2624124'></div>
+<!-- <p><a href="https://www.researchsquare.com/article/rs-6397992/v1">[Free full text]</a></p> -->
+  </td> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>74. Guiyan Dong, Tian Cui*, Zihao Huo, Zhengtao Liu, Wenxuan Chen, Pugeng Hou, <b>Yue-Wen Fang*</b>, Defang Duan*, "<a href="https://doi.org/10.1016/j.mtphys.2025.101939">Machine-learning potentials for quantum and anharmonic effects in superconducting Fm-3m LaBeH8
