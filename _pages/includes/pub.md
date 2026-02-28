@@ -4,9 +4,8 @@
 
 ## Papers under review/revision: <a name="underreview"></a>
 
-[High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
-
-[Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
+- [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
+- [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
 
 
 ## Complete List of Peer-Reviewed Journal Papers: <a name="reviewedjournals"></a>
