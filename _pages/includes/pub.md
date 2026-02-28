@@ -1,17 +1,12 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 # 📝 Publications 
-<!-- <span style="color:red">The section of Publications is under maintance, thus some of them are not shown properly.</span>  -->
 
 ## Papers under review/revision: <a name="underreview"></a>
 
 [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
-
-
-
-<!-- <b> †Co-first author; \*corresponding author </b> -->
 
 
 ## Complete List of Peer-Reviewed Journal Papers: <a name="reviewedjournals"></a>
