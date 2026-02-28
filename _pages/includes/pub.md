@@ -7,8 +7,6 @@
 
 [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 
-[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781) Accepted at Communications Physics
-
 [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
 
 
@@ -34,11 +32,19 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 75 scientific papers (41 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 76 scientific papers (42 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+</tr>
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>76. Antonio Sanna*, Tiago F. T. Cerqueira, Ekin Dogus Cubuk, Ion Errea*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1038/s42005-026-02552-4">Search for thermodynamically stable ambient-pressure superconducting hydrides in the GNoME database
+</a>", <b>Communications Physics</b>, online, 2026 </p> 
+<!-- <div class='altmetric-embed' data-badge-type='donut' data-doi="10.20517/microstructures.2024.129"></div> -->
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1038/s42005-026-02552-4'></div>
+<p><a href="http://arxiv.org/abs/2508.19781">[Free full text]</a></p>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>75. <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1080/00107514.2026.2624124">Advanced ferroelectric and piezoelectric materials

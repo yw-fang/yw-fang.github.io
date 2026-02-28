@@ -2,12 +2,12 @@
 # 🔥 News
 <!-- - *2025.06.13*: 🎉🎉 Extraordinary Grant of CSIC was approved today! One travel grant was also approved today! -->
 - *2026.02*: 🎉🎉 I was selected as one of the awardees of the <b>2025 Outstanding Reviewer Award</b> by Journal of Materials Informatics 
-- *2025.11*: 🎉🎉 Two works are now online at Nature Communications (https://rdcu.be/eSxQq and https://rdcu.be/eSxQ2)
-- *2025.05.05*: 🎉🎉 New research project "AI-CrysPred" was approved today!
-- *2025.04.23*: 🎉🎉 Two works, respectively, are published at [Science Advances](https://doi.org/10.1126/sciadv.ads4925) and [Nature Communications](https://rdcu.be/ei3XE).
-- *2025.03.06*: 🎉🎉 I’m honored to receive [Outstanding Reviewer Award](https://yw-fang.github.io/certficates/awards/OutstandingReviewerAwards2024-IOP-Publishing-2025March6.pdf) once again after 2 years due to my review service for IOP Publishing. 
-- *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[InfoMat](https://onlinelibrary.wiley.com/journal/25673165)</b> from Jan. 2025 to Jan 2027.
-- *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[Journal of Materials Informatics](https://www.oaepublish.com/jmi)</b> from Jan. 2025 to Jan 2027.
+<!-- - *2025.11*: 🎉🎉 Two works are now online at Nature Communications (https://rdcu.be/eSxQq and https://rdcu.be/eSxQ2) -->
+<!-- - *2025.05.05*: 🎉🎉 New research project "AI-CrysPred" was approved today! -->
+<!-- - *2025.04.23*: 🎉🎉 Two works, respectively, are published at [Science Advances](https://doi.org/10.1126/sciadv.ads4925) and [Nature Communications](https://rdcu.be/ei3XE). -->
+<!-- - *2025.03.06*: 🎉🎉 I’m honored to receive [Outstanding Reviewer Award](https://yw-fang.github.io/certficates/awards/OutstandingReviewerAwards2024-IOP-Publishing-2025March6.pdf) once again after 2 years due to my review service for IOP Publishing.  -->
+<!-- - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[InfoMat](https://onlinelibrary.wiley.com/journal/25673165)</b> from Jan. 2025 to Jan 2027. -->
+<!-- - *2025.01*: 🎉🎉 I am elected as the junior editorial board member of <b>[Journal of Materials Informatics](https://www.oaepublish.com/jmi)</b> from Jan. 2025 to Jan 2027. -->
 <!-- - *2024.08*: 🎉🎉 Our work on 1 nm bismuth oxide was awarded the prestigious <b>Nomination Prize for the Top 10 Advances of Chip Science of China 2023</b>. -->
 <!-- - *2024.05*: 🎉🎉 Linxing Zhang at USTB and I reported the colossal ferroelectric photovoltaic Effect in [**Journal of American Chemical Society**](https://pubs.acs.org/doi/10.1021/jacs.4c01702) -->
 <!-- - *2024.04*: 🎉🎉 Our study in [**Advanced Functional Materials**](https://doi.org/10.1002/adfm.202404043) represents the first work to report such a large number of ambient-pressure superconducting hydrides within a single publication. -->
