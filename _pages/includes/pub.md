@@ -4,7 +4,7 @@
 
 ## Papers under review/revision: <a name="underreview"></a>
 
-- [Small-Data Machine Learning Uncovers Decoupled Control Mechanisms of Crystallinity and Surface Morphology in beta-Ga2O3 Epitaxy]
+- [Small-Data Machine Learning Uncovers Decoupled Control Mechanisms of Crystallinity and Surface Morphology in beta-Ga2O3 Epitaxy](https://arxiv.org/abs/2603.21814)
 - [Anharmonicity Driven by Vacancy Ordering Unlocks High-performance Thermoelectric Conversion in Defective Chalcopyrites II-III2-VI4](https://arxiv.org/abs/2603.16477)
 - [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 - [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
@@ -28,11 +28,19 @@
     </a> )
 
 <!-- <span style="color:blue"> Overview: 66 scientific papers (50 JCR-Q1 including Science, Nat. Commun., Advanced Materials, etc; 37 of these publications including Science as corresponding or (co)first author). </span>  -->
-<span style="color:blue"> Overview: 77 scientific papers (42 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
+<span style="color:blue"> Overview: 78 scientific papers (43 of these publications as corresponding or (co)first author such as Science and Science Advances). </span> 
 
 †Co-first author; \*corresponding author
 
  <table> 
+<tr> 
+  <td style="vertical-align: top; padding-right: 20px;"> 
+    <p>78. Hao Gao, <b>Yue-Wen Fang*</b>, Ion Errea*, "<a href="https://doi.org/10.1103/fcrd-8zzf">Iterative learning scheme for crystal structure prediction with anharmonic lattice dynamics
+</a>", <b>Physical Review B</b>, accepted, 2026 </p> 
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1103/fcrd-8zzf'></div>
+<p><a href="https://arxiv.org/abs/2512.20424">[Free full text]</a></p>
+  </td> 
+</tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
     <p>77. Paulo R. Pires, Thalis H.B. da Silva, Kun Gao, Kaja H. Hiorth, Tiago F.T. Cerqueira, Théo Cavignac, Pierre-Paul De Breuck, Hai-Chen Wang, Đorđe Dangić, <b>Yue-Wen Fang</b>, Antonio Sanna, Wenwen Cui, Ion Errea, Päivi Törmä, Miguel A.L. Marques*, "<a href="https://doi.org/10.1016/j.commt.2026.100052">Machine learning driven exploration of hydride superconductors at ambient pressure
