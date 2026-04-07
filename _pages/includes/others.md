@@ -6,6 +6,7 @@
 
 # 💬 Presentations 
 ## Conference talks
+- Oral talk: "Search for thermodynamically stable ambient-pressure superconducting hydrides in the GNoME database", 2026 DPG Conference in Dresden, 8-13 March, 2026
 - Invited talk: "Computational Discovery of Functional Materials for Information Storage, Sustainability, and Quantum Technology", 2025 Global Young Elites Forum On Science & Engineering, 27-29 June, 2025
 - Invited talk: "Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database", EuMINe COST Action Second General Meeting, 16-18 July 2025
 - Oral talk: "Ferroelectric bismuth oxides: from crystal structure prediction to device implementation", CMD31-General Conference of the Condensed Matter Division of the European Physical Society, Braga, Portugal, September September 4 2024
@@ -62,7 +63,9 @@
 - Young Advisory Board of <b>InfoMat</b> (Wiley) from Jan 15, 2025 to Jan 15, 2027
 - Reviewer for around 70 SCI journals such as PNAS and Physical Review Letters. More record can be found in ORCID.
 - Code reviewer for codes submitted to Journal of Open Source Software.
-- Reviewer for Horizon 2020 grant EURIZON Fellowship in 2023
+- Grant reviewer for Horizon 2020 grant EURIZON Fellowship in 2023
+- Grant reviewer for grants of <b>Qatar</b> Research, Development and Innovation Council since 2024
+- Grant reviewer for grants of the National Science Center, <b>Poland</b> since 2026
 - Reviewer for International Committee and invited reviewer for International Conference on Mechanical Engineering and Materials since 2020. 
 
 ## Committee
