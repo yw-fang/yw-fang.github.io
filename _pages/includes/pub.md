@@ -2,12 +2,16 @@
 
 # 📝 Publications 
 
+This publication list may not be updated in a timely manner. For the most up-to-date publications, please visit the group page of [Y-Matter Lab](https://ymatterlab.github.io/publications/).
+
+<!--
 ## Papers under review/revision: <a name="underreview"></a>
 
 - [Small-Data Machine Learning Uncovers Decoupled Control Mechanisms of Crystallinity and Surface Morphology in beta-Ga2O3 Epitaxy](https://arxiv.org/abs/2603.21814)
 - [Anharmonicity Driven by Vacancy Ordering Unlocks High-performance Thermoelectric Conversion in Defective Chalcopyrites II-III2-VI4](https://arxiv.org/abs/2603.16477)
 - [High-Tc superconductivity above 130 K in cubic MH4 compounds at ambient pressure](http://arxiv.org/abs/2511.04222) 
 - [Superconductivity in RbH12 at low pressures: an ab initio study](https://arxiv.org/html/2507.12183v1) 
+-->
 
 
 ## Complete List of Peer-Reviewed Journal Papers: <a name="reviewedjournals"></a>
