@@ -39,7 +39,7 @@ This publication list may not be updated in a timely manner. For the most up-to-
  <table> 
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>83. Min Peng, Yuanjun Tang, Dianmeng Dong, Yang Zhang, Cheng Wang, Shulin Jiao, Xiaotong Ma, Shichao Zhang, Jingchen Wang, Huiying Wang, Yongxin Zhang, Huiping Zhu, <b>Yue-Wen Fang</b>, Fan Zhang, Zhenping Wu, "<a href="https://doi.org/10.1016/j.apsusc.2026.168118">Small-data machine learning uncovers decoupled control mechanisms of crystallinity and surface morphology in β-Ga<sub>2</sub>O<sub>3</sub> epitaxy
+    <p>83. Min Peng, Yuanjun Tang, Dianmeng Dong, Yang Zhang, Cheng Wang, Shulin Jiao, Xiaotong Ma, Shichao Zhang, Jingchen Wang, Huiying Wang, Yongxin Zhang, Huiping Zhu, <b>Yue-Wen Fang*</b>, Fan Zhang*, Zhenping Wu*, "<a href="https://doi.org/10.1016/j.apsusc.2026.168118">Small-data machine learning uncovers decoupled control mechanisms of crystallinity and surface morphology in β-Ga<sub>2</sub>O<sub>3</sub> epitaxy
 </a>", <b>Applied Surface Science</b>, 751, 168118, 2027 </p> 
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.apsusc.2026.168118'></div>
 <p><a href="https://doi.org/10.1016/j.apsusc.2026.168118">[Free full text]</a></p>
@@ -47,14 +47,14 @@ This publication list may not be updated in a timely manner. For the most up-to-
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>82. Feiyu Qin, Ruihao Tan, Xiaoya Bai, <b>Yue-Wen Fang</b>, Lei Hu, "<a href="https://doi.org/10.1016/j.scriptamat.2026.117396">Reply to comments on “Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)<sub>2</sub>Re<sub>2</sub>O<sub>7</sub> via synergy of local structure distortion and soft acoustic phonons”
+    <p>82. Feiyu Qin, Ruihao Tan, Xiaoya Bai, <b>Yue-Wen Fang*</b>, Lei Hu*, "<a href="https://doi.org/10.1016/j.scriptamat.2026.117396">Reply to comments on “Integrating abnormal thermal expansion and ultralow thermal conductivity into (Cd,Ni)<sub>2</sub>Re<sub>2</sub>O<sub>7</sub> via synergy of local structure distortion and soft acoustic phonons”
 </a>", <b>Scripta Materialia</b>, 282, 117396, 2026 </p> 
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1016/j.scriptamat.2026.117396'></div>
   </td> 
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>81. Jin Liu, <b>Yue-Wen Fang</b>, "<a href="https://doi.org/10.1002/ece2.70125">Dynamic Reconstruction of Atomically Dispersed Copper Catalysts for CO<sub>2</sub> Reduction: From In Situ Observations to Rational Design
+    <p>81. Jin Liu*, <b>Yue-Wen Fang*</b>, "<a href="https://doi.org/10.1002/ece2.70125">Dynamic Reconstruction of Atomically Dispersed Copper Catalysts for CO<sub>2</sub> Reduction: From In Situ Observations to Rational Design
 </a>", <b>EcoEnergy</b>, 2026 </p> 
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1002/ece2.70125'></div>
 <p><a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece2.70125">[Free full text]</a></p>
@@ -62,7 +62,7 @@ This publication list may not be updated in a timely manner. For the most up-to-
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>80. Hui Zhang, Jincheng Yue, Jiongzhi Zheng, Ning Wang, Wenling Ren, Shuyao Lin, Chen Shen, Hao Gao, Yanhui Liu, <b>Yue-Wen Fang</b>, Tian Cui, "<a href="https://doi.org/10.1088/0256-307x/43/8/080803">Anharmonicity Driven by Vacancy Ordering Unlocks High-Performance Thermoelectric Conversion in Defective Chalcopyrites II-III<sub>2</sub>-VI<sub>4</sub>
+    <p>80. Hui Zhang, Jincheng Yue*, Jiongzhi Zheng, Ning Wang, Wenling Ren, Shuyao Lin, Chen Shen, Hao Gao, Yanhui Liu*, <b>Yue-Wen Fang*</b>, Tian Cui*, "<a href="https://doi.org/10.1088/0256-307x/43/8/080803">Anharmonicity Driven by Vacancy Ordering Unlocks High-Performance Thermoelectric Conversion in Defective Chalcopyrites II-III<sub>2</sub>-VI<sub>4</sub>
 </a>", <b>Chinese Physics Letters</b>, 43, 8, 080803, 2026 </p> 
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.1088/0256-307x/43/8/080803'></div>
 <p><a href="https://doi.org/10.1088/0256-307x/43/8/080803">[Free full text]</a></p>
@@ -70,7 +70,7 @@ This publication list may not be updated in a timely manner. For the most up-to-
 </tr>
 <tr> 
   <td style="vertical-align: top; padding-right: 20px;"> 
-    <p>79. Đorđe Dangić, Manex Alkorta, <b>Yue-Wen Fang</b>, Ion Errea, "<a href="https://doi.org/10.21468/scipostphys.20.6.170">Superconductivity in RbH<sub>12</sub> at low pressures: An ab initio study
+    <p>79. Đorđe Dangić*, Manex Alkorta, <b>Yue-Wen Fang</b>, Ion Errea, "<a href="https://doi.org/10.21468/scipostphys.20.6.170">Superconductivity in RbH<sub>12</sub> at low pressures: An ab initio study
 </a>", <b>SciPost Physics</b>, 20, 6, 170, 2026 </p> 
 <div class='altmetric-embed' data-badge-popover='right' data-doi='10.21468/scipostphys.20.6.170'></div>
 <p><a href="https://doi.org/10.21468/scipostphys.20.6.170">[Free full text]</a></p>
