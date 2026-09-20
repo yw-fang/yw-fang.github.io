@@ -61,7 +61,7 @@
 - Young Editorial Board from June 2024 to June 2026 of <b>Chip</b>--An official journal of Shanghai Jiao Tong University.
 - Junior Editorial Board of <b>Journal of Materials Informatics</b> (OAE) from Jan 14 2025 to Jan 14 2027
 - Young Advisory Board of <b>InfoMat</b> (Wiley) from Jan 15, 2025 to Jan 15, 2027
-- Reviewer for around 70 SCI journals such as PNAS and Physical Review Letters. More record can be found in ORCID.
+- Reviewer for around 70 SCI journals such as Physical Review Letters, PNAS, and Nature Communications. More record can be found in ORCID.
 - Code reviewer for codes submitted to Journal of Open Source Software.
 - Grant reviewer for Horizon 2020 grant EURIZON Fellowship in 2023
 - Grant reviewer for grants of <b>Qatar</b> Research, Development and Innovation Council since 2024
